@@ -188,5 +188,895 @@
     "incident_id": 23,
     "tactic_slug": "expulsion_and_visa_denial",
     "is_primary": 0
+  },
+  {
+    "incident_id": 25,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 25,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 26,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 26,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 27,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 28,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 28,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 29,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 30,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 30,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 31,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 31,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 32,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 33,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 34,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 34,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 35,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 35,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 36,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 36,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 37,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 37,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 38,
+    "tactic_slug": "credential_control",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 38,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 39,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 39,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 40,
+    "tactic_slug": "credential_control",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 40,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 40,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 41,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 42,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 42,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 43,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 43,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 44,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 44,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 45,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 45,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 45,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 46,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 46,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 47,
+    "tactic_slug": "access_ban",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 47,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 48,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 48,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 49,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 49,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 49,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 50,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 50,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 51,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 51,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 52,
+    "tactic_slug": "access_ban",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 52,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 53,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 54,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 54,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 55,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 55,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 56,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 56,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 57,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 57,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 58,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 58,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 59,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 60,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 61,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 61,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 62,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 62,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 63,
+    "tactic_slug": "access_ban",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 63,
+    "tactic_slug": "credential_control",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 64,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 65,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 66,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 66,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 67,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 67,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 68,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 68,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 69,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 70,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 71,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 71,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 72,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 72,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 73,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 73,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 74,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 74,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 75,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 76,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 76,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 77,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 77,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 78,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 78,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 79,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 80,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 81,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 82,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 82,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 83,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 83,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 84,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 84,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 85,
+    "tactic_slug": "access_ban",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 85,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 86,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 86,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 87,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 88,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 89,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 89,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 90,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 91,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 91,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 92,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 93,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 94,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 95,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 96,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 97,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 97,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 98,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 99,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 100,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 101,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 102,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 103,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 104,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 104,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 105,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 106,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 107,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 107,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 108,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 108,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 109,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 109,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 110,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 110,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 111,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 111,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 112,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 113,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 113,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 114,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 114,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 115,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 115,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 116,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 117,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 117,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 118,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 119,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 119,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 120,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 120,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 121,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 121,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 122,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 122,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 122,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 123,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 123,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 124,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 124,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 125,
+    "tactic_slug": "access_ban",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 125,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 126,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 126,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 127,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 128,
+    "tactic_slug": "credential_control",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 128,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 129,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 0
+  },
+  {
+    "incident_id": 129,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
   }
 ]

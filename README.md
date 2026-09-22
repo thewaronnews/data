@@ -15,31 +15,31 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 
 | Table | Rows |
 | --- | --- |
-| incidents | 23 |
+| incidents | 128 |
 | events | 6 |
-| actors | 39 |
-| outlets | 18 |
-| journalists | 7 |
+| actors | 211 |
+| outlets | 58 |
+| journalists | 22 |
 | cases | 4 |
-| sources | 151 |
-| claims | 113 |
+| sources | 326 |
+| claims | 484 |
 | tactics | 13 |
 | countries | 250 |
-| incident_tactics | 38 |
-| coverage_items | 13 |
+| incident_tactics | 216 |
+| coverage_items | 17 |
 | explainers | 0 |
-| glossary_terms | 27 |
-| incident_actors | 44 |
-| incident_outlets | 20 |
-| incident_journalists | 7 |
+| glossary_terms | 67 |
+| incident_actors | 266 |
+| incident_outlets | 87 |
+| incident_journalists | 22 |
 | incident_cases | 5 |
-| incident_sources | 82 |
+| incident_sources | 260 |
 | incident_related | 0 |
 | case_parties | 0 |
 | case_sources | 21 |
 | explainer_sources | 0 |
 | glossary_sources | 51 |
-| changes | 1181 |
+| changes | 1969 |
 
 ## Licence and attribution
 

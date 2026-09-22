@@ -98,5 +98,340 @@
     "incident_id": 23,
     "outlet_id": 16,
     "relation": "affected"
+  },
+  {
+    "incident_id": 25,
+    "outlet_id": 19,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 26,
+    "outlet_id": 20,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 29,
+    "outlet_id": 21,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 30,
+    "outlet_id": 22,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 31,
+    "outlet_id": 21,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 31,
+    "outlet_id": 22,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 34,
+    "outlet_id": 25,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 36,
+    "outlet_id": 30,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 36,
+    "outlet_id": 31,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 37,
+    "outlet_id": 23,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 37,
+    "outlet_id": 24,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 46,
+    "outlet_id": 28,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 49,
+    "outlet_id": 26,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 49,
+    "outlet_id": 27,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 50,
+    "outlet_id": 29,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 54,
+    "outlet_id": 32,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 55,
+    "outlet_id": 10,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 55,
+    "outlet_id": 15,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 57,
+    "outlet_id": 33,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 58,
+    "outlet_id": 33,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 58,
+    "outlet_id": 34,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 58,
+    "outlet_id": 39,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 60,
+    "outlet_id": 4,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 61,
+    "outlet_id": 35,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 62,
+    "outlet_id": 33,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 63,
+    "outlet_id": 1,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 64,
+    "outlet_id": 34,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 67,
+    "outlet_id": 43,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 68,
+    "outlet_id": 41,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 70,
+    "outlet_id": 42,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 74,
+    "outlet_id": 36,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 76,
+    "outlet_id": 40,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 78,
+    "outlet_id": 37,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 80,
+    "outlet_id": 44,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 82,
+    "outlet_id": 38,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 83,
+    "outlet_id": 39,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 85,
+    "outlet_id": 1,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 88,
+    "outlet_id": 10,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 88,
+    "outlet_id": 33,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 89,
+    "outlet_id": 45,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 91,
+    "outlet_id": 10,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 91,
+    "outlet_id": 46,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 92,
+    "outlet_id": 6,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 92,
+    "outlet_id": 7,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 93,
+    "outlet_id": 5,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 94,
+    "outlet_id": 47,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 95,
+    "outlet_id": 33,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 96,
+    "outlet_id": 48,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 97,
+    "outlet_id": 10,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 98,
+    "outlet_id": 4,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 98,
+    "outlet_id": 37,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 100,
+    "outlet_id": 10,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 104,
+    "outlet_id": 49,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 105,
+    "outlet_id": 50,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 108,
+    "outlet_id": 51,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 109,
+    "outlet_id": 16,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 109,
+    "outlet_id": 42,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 110,
+    "outlet_id": 16,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 112,
+    "outlet_id": 52,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 113,
+    "outlet_id": 53,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 114,
+    "outlet_id": 54,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 116,
+    "outlet_id": 55,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 117,
+    "outlet_id": 56,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 118,
+    "outlet_id": 58,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 119,
+    "outlet_id": 57,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 128,
+    "outlet_id": 5,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 128,
+    "outlet_id": 33,
+    "relation": "affected"
   }
 ]

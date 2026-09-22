@@ -40,5 +40,95 @@
     "journalist_id": 6,
     "outlet_id_at_time": null,
     "relation": "affected"
+  },
+  {
+    "incident_id": 85,
+    "journalist_id": 8,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 85,
+    "journalist_id": 9,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 85,
+    "journalist_id": 10,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 89,
+    "journalist_id": 16,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 89,
+    "journalist_id": 17,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 96,
+    "journalist_id": 14,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 97,
+    "journalist_id": 15,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 103,
+    "journalist_id": 11,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 104,
+    "journalist_id": 12,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 105,
+    "journalist_id": 13,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 112,
+    "journalist_id": 18,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 113,
+    "journalist_id": 22,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 116,
+    "journalist_id": 19,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 116,
+    "journalist_id": 20,
+    "outlet_id_at_time": null,
+    "relation": "affected"
+  },
+  {
+    "incident_id": 127,
+    "journalist_id": 21,
+    "outlet_id_at_time": null,
+    "relation": "affected"
   }
 ]

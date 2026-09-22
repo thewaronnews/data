@@ -38,3 +38,175 @@ id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end
 37,narendra-modi,Narendra Modi,person,,Prime Minister of India,,IN,IN,,,,,,published,2026-09-22T22:30:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:00Z,2026-09-22T22:30:01Z
 38,recep-tayyip-erdogan,Recep Tayyip Erdoğan,person,,President of Türkiye,,TR,TR,,,,,,published,2026-09-22T22:30:02Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:01Z,2026-09-22T22:30:02Z
 39,john-lee,John Lee,person,,Chief Executive of Hong Kong (from July 2022),,HK,HK,,,,,,published,2026-09-22T22:30:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:03Z,2026-09-22T22:30:04Z
+40,woodrow-wilson,Woodrow Wilson,person,,President of the United States,,US,US,,,,,,published,2026-09-22T22:52:58Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:57Z,2026-09-22T22:52:58Z
+41,thomas-patten,Thomas G. Patten,person,,Postmaster of New York City,,US,US,,,,,,published,2026-09-22T22:52:59Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:58Z,2026-09-22T22:52:59Z
+42,learned-hand,Learned Hand,person,,"Judge, United States District Court for the Southern District of New York",,US,US,,,,,,published,2026-09-22T22:53:00Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:00Z,2026-09-22T22:53:00Z
+43,albert-burleson,Albert S. Burleson,person,,United States Postmaster General,,US,US,,,,,,published,2026-09-22T22:53:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:01Z,2026-09-22T22:53:01Z
+44,theodore-christianson,Theodore Christianson,person,,Governor of Minnesota,,US,US,,,,,,published,2026-09-22T22:53:03Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:02Z,2026-09-22T22:53:03Z
+45,floyd-olson,Floyd B. Olson,person,,"Hennepin County Attorney, Minnesota",,US,US,,,,,,published,2026-09-22T22:53:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:03Z,2026-09-22T22:53:04Z
+46,franklin-d-roosevelt,Franklin D. Roosevelt,person,,President of the United States,,US,US,,,,,,published,2026-09-22T22:53:05Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:05Z,2026-09-22T22:53:05Z
+47,byron-price,Byron Price,person,,"Director, United States Office of Censorship",,US,US,,,,,,published,2026-09-22T22:53:07Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:06Z,2026-09-22T22:53:07Z
+48,dwight-d-eisenhower,Dwight D. Eisenhower,person,,President of the United States,,US,US,,,,,,published,2026-09-22T22:53:08Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:07Z,2026-09-22T22:53:08Z
+49,james-eastland,James O. Eastland,person,,"United States Senator, chair of the Senate Internal Security Subcommittee",,US,US,,,,,,published,2026-09-22T22:53:09Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:08Z,2026-09-22T22:53:09Z
+50,john-dean,John Dean,person,,Counsel to the President of the United States,,US,US,,,,,,published,2026-09-22T22:53:10Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:10Z,2026-09-22T22:53:10Z
+51,daniel-schorr,Daniel Schorr,person,,"Correspondent, CBS News",,US,US,,,,,,published,2026-09-22T22:53:12Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:11Z,2026-09-22T22:53:12Z
+52,mary-mcgrory,Mary McGrory,person,,"Columnist, The Washington Post",,US,US,,,,,,published,2026-09-22T22:53:13Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:13Z,2026-09-22T22:53:13Z
+53,daniel-ellsberg,Daniel Ellsberg,person,,Military analyst who copied the Pentagon Papers,,US,US,,,,,,published,2026-09-22T22:53:15Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:14Z,2026-09-22T22:53:15Z
+54,ronald-reagan,Ronald Reagan,person,,President of the United States,,US,US,,,,,,published,2026-09-22T22:53:16Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:15Z,2026-09-22T22:53:16Z
+55,john-vessey,John W. Vessey Jr.,person,,"Chairman of the Joint Chiefs of Staff, United States",,US,US,,,,,,published,2026-09-22T22:53:17Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:16Z,2026-09-22T22:53:17Z
+56,wesley-mcdonald,Wesley McDonald,person,,"Admiral, commander of United States forces in the Grenada operation",,US,US,,,,,,published,2026-09-22T22:53:18Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:18Z,2026-09-22T22:53:18Z
+57,george-shultz,George Shultz,person,,United States Secretary of State,,US,US,,,,,,published,2026-09-22T22:53:20Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:19Z,2026-09-22T22:53:20Z
+58,jean-claude-duvalier,Jean-Claude Duvalier,person,,President of Haiti,,HT,HT,,,,,,published,2026-09-22T22:53:21Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:21Z,2026-09-22T22:53:21Z
+59,jean-dominique,Jean Dominique,person,,"Director, Radio Haiti-Inter",,HT,HT,,,,,,published,2026-09-22T22:53:22Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:22Z,2026-09-22T22:53:22Z
+60,michele-montas,Michèle Montas,person,,"Journalist, Radio Haiti-Inter",,HT,HT,,,,,,published,2026-09-22T22:53:24Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:23Z,2026-09-22T22:53:24Z
+61,getulio-vargas,Getúlio Vargas,person,,President of Brazil,,BR,BR,,,,,,published,2026-09-22T22:53:25Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:25Z,2026-09-22T22:53:25Z
+62,dip-brazil,Departamento de Imprensa e Propaganda (DIP),body,agency,Brazilian government press and state messaging department,,BR,BR,,,,,,published,2026-09-22T22:53:27Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:26Z,2026-09-22T22:53:27Z
+63,augusto-pinochet,Augusto Pinochet,person,,Commander-in-chief of the Chilean Army and head of the governing military junta,,CL,CL,,,,,,published,2026-09-22T22:53:28Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:27Z,2026-09-22T22:53:28Z
+64,jorge-videla,Jorge Rafael Videla,person,,President of Argentina and head of the governing military junta,,AR,AR,,,,,,published,2026-09-22T22:53:30Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:29Z,2026-09-22T22:53:30Z
+65,jacobo-timerman,Jacobo Timerman,person,,"Editor and founder, La Opinión",,AR,AR,,,,,,published,2026-09-22T22:53:31Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:30Z,2026-09-22T22:53:31Z
+66,robert-cox,Robert Cox,person,,"Editor, Buenos Aires Herald",,AR,AR,,,,,,published,2026-09-22T22:53:32Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:32Z,2026-09-22T22:53:32Z
+67,andrew-graham-yooll,Andrew Graham-Yooll,person,,"Journalist, Buenos Aires Herald",,AR,AR,,,,,,published,2026-09-22T22:53:34Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:33Z,2026-09-22T22:53:34Z
+68,adolf-hitler,Adolf Hitler,person,,Chancellor of Germany,,DE,DE,,,,,,published,2026-09-22T22:53:35Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:35Z,2026-09-22T22:53:35Z
+69,reich-press-chamber,Reich Press Chamber (Reichspressekammer),body,other,Nazi Germany's compulsory professional body for journalists,,DE,DE,,,,,,published,2026-09-22T22:53:36Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:36Z,2026-09-22T22:53:36Z
+70,vladimir-lenin,Vladimir Lenin,person,,Chairman of the Council of People's Commissars of Soviet Russia/the USSR,,RU,RU,,,,,,published,2026-09-22T22:53:38Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:37Z,2026-09-22T22:53:38Z
+71,glavlit,Glavlit,body,executive_office,Soviet state office overseeing printed matter and the arts,,RU,RU,,,,,,published,2026-09-22T22:53:39Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:38Z,2026-09-22T22:53:39Z
+72,francisco-franco,Francisco Franco,person,,Head of State of Spain,,ES,ES,,,,,,published,2026-09-22T22:53:40Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:40Z,2026-09-22T22:53:40Z
+73,antonio-salazar,António de Oliveira Salazar,person,,Prime Minister of Portugal,,PT,PT,,,,,,published,2026-09-22T22:53:41Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:41Z,2026-09-22T22:53:41Z
+74,alexander-dubcek,Alexander Dubček,person,,First Secretary of the Communist Party of Czechoslovakia,,CZ,CZ,,,,,,published,2026-09-22T22:53:43Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:42Z,2026-09-22T22:53:43Z
+75,wojciech-jaruzelski,Wojciech Jaruzelski,person,,First Secretary of the Polish United Workers' Party and Prime Minister of Poland,,PL,PL,,,,,,published,2026-09-22T22:53:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:44Z,2026-09-22T22:53:44Z
+76,margaret-thatcher,Margaret Thatcher,person,,Prime Minister of the United Kingdom,,GB,GB,,,,,,published,2026-09-22T22:53:46Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:45Z,2026-09-22T22:53:46Z
+77,douglas-hurd,Douglas Hurd,person,,Home Secretary of the United Kingdom,,GB,GB,,,,,,published,2026-09-22T22:53:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:47Z,2026-09-22T22:53:47Z
+78,daniel-francois-malan,Daniel François Malan,person,,Prime Minister of South Africa,,ZA,ZA,,,,,,published,2026-09-22T22:53:49Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:48Z,2026-09-22T22:53:49Z
+79,p-w-botha,P. W. Botha,person,,State President of South Africa,,ZA,ZA,,,,,,published,2026-09-22T22:53:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:49Z,2026-09-22T22:53:50Z
+80,louis-le-grange,Louis le Grange,person,,"Minister of Law and Order, South Africa",,ZA,ZA,,,,,,published,2026-09-22T22:53:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:51Z,2026-09-22T22:53:51Z
+81,gamal-abdel-nasser,Gamal Abdel Nasser,person,,President of Egypt,,EG,EG,,,,,,published,2026-09-22T22:53:53Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:52Z,2026-09-22T22:53:53Z
+82,indira-gandhi,Indira Gandhi,person,,Prime Minister of India,,IN,IN,,,,,,published,2026-09-22T22:53:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:53Z,2026-09-22T22:53:54Z
+83,ferdinand-marcos,Ferdinand Marcos,person,,President of the Philippines,,PH,PH,,,,,,published,2026-09-22T22:53:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:54Z,2026-09-22T22:53:55Z
+84,teodoro-locsin-sr,Teodoro Locsin Sr.,person,,"Publisher, Philippines Free Press",,PH,PH,,,,,,published,2026-09-22T22:53:57Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:56Z,2026-09-22T22:53:57Z
+85,chun-doo-hwan,Chun Doo-hwan,person,,General and de facto head of South Korea's martial-law government,,KR,KR,,,,,,published,2026-09-22T22:53:58Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:57Z,2026-09-22T22:53:58Z
+86,saw-maung,Saw Maung,person,,"General, Chairman of the State Law and Order Restoration Council (SLORC)",,MM,MM,,,,,,published,2026-09-22T22:53:59Z,2026-09-22,2026-12-22,1,2026-09-22T22:53:59Z,2026-09-22T22:53:59Z
+87,slorc,State Law and Order Restoration Council (SLORC),body,law_enforcement,Burma's military government from 1988,,MM,MM,,,,,,published,2026-09-22T22:54:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:00Z,2026-09-22T22:54:01Z
+88,li-peng,Li Peng,person,,Premier of the People's Republic of China,,CN,CN,,,,,,published,2026-09-22T22:54:02Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:01Z,2026-09-22T22:54:02Z
+89,john-pomfret,John Pomfret,person,,"Correspondent, Associated Press",,US,US,,,,,,published,2026-09-22T22:54:03Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:03Z,2026-09-22T22:54:03Z
+90,alan-pessin,Alan W. Pessin,person,,"Correspondent, Voice of America",,US,US,,,,,,published,2026-09-22T22:54:05Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:04Z,2026-09-22T22:54:05Z
+91,david-ben-gurion,David Ben-Gurion,person,,Prime Minister of Israel,,IL,IL,,,,,,published,2026-09-22T22:54:06Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:05Z,2026-09-22T22:54:06Z
+92,john-curtin,John Curtin,person,,Prime Minister of Australia,,AU,AU,,,,,,published,2026-09-22T22:54:07Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:07Z,2026-09-22T22:54:07Z
+93,arthur-calwell,Arthur Calwell,person,,Australian Minister for Information,,AU,AU,,,,,,published,2026-09-22T22:54:09Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:08Z,2026-09-22T22:54:09Z
+94,george-hw-bush,George H. W. Bush,person,,President of the United States,,US,US,,,,,,published,2026-09-22T22:54:10Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:10Z,2026-09-22T22:54:10Z
+95,pete-williams,Pete Williams,person,,Assistant Secretary of Defense for Public Affairs,,US,US,,,,,,published,2026-09-22T22:54:11Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:11Z,2026-09-22T22:54:11Z
+96,dick-cheney,Dick Cheney,person,,Secretary of Defense,,US,US,,,,,,published,2026-09-22T22:54:13Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:12Z,2026-09-22T22:54:13Z
+97,george-w-bush,George W. Bush,person,,President of the United States,,US,US,,,,,,published,2026-09-22T22:54:14Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:14Z,2026-09-22T22:54:14Z
+98,patrick-fitzgerald,Patrick Fitzgerald,person,,"Special Counsel, U.S. Department of Justice",,US,US,,,,,,published,2026-09-22T22:54:16Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:15Z,2026-09-22T22:54:16Z
+99,thomas-hogan,Thomas F. Hogan,person,,"Judge, U.S. District Court for the District of Columbia",,US,US,,,,,,published,2026-09-22T22:54:17Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:17Z,2026-09-22T22:54:17Z
+100,scooter-libby,I. Lewis Libby,person,,Chief of Staff to the Vice President,,US,US,,,,,,published,2026-09-22T22:54:18Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:18Z,2026-09-22T22:54:18Z
+101,judith-miller,Judith Miller,person,,"Reporter, The New York Times",,US,US,,,,,,published,2026-09-22T22:54:20Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:19Z,2026-09-22T22:54:20Z
+102,chelsea-manning,Chelsea Manning,person,,U.S. Army intelligence analyst,,US,US,,,,,,published,2026-09-22T22:54:21Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:20Z,2026-09-22T22:54:21Z
+103,john-kiriakou,John Kiriakou,person,,Former Central Intelligence Agency officer,,US,US,,,,,,published,2026-09-22T22:54:22Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:22Z,2026-09-22T22:54:22Z
+104,neil-macbride,Neil MacBride,person,,U.S. Attorney for the Eastern District of Virginia,,US,US,,,,,,published,2026-09-22T22:54:24Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:23Z,2026-09-22T22:54:24Z
+105,leonie-brinkema,Leonie Brinkema,person,,"Judge, U.S. District Court for the Eastern District of Virginia",,US,US,,,,,,published,2026-09-22T22:54:25Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:25Z,2026-09-22T22:54:25Z
+106,eric-holder,Eric Holder,person,,Attorney General of the United States,,US,US,,,,,,published,2026-09-22T22:54:27Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:26Z,2026-09-22T22:54:27Z
+107,gary-pruitt,Gary Pruitt,person,,"President and Chief Executive, The Associated Press",,US,US,,,,,,published,2026-09-22T22:54:28Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:28Z,2026-09-22T22:54:28Z
+108,james-rosen,James Rosen,person,,"Reporter, Fox News",,US,US,,,,,,published,2026-09-22T22:54:30Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:29Z,2026-09-22T22:54:30Z
+109,stephen-kim,Stephen Jin-Woo Kim,person,,State Department arms expert,,US,US,,,,,,published,2026-09-22T22:54:31Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:30Z,2026-09-22T22:54:31Z
+110,james-risen,James Risen,person,,"Reporter, The New York Times",,US,US,,,,,,published,2026-09-22T22:54:32Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:32Z,2026-09-22T22:54:32Z
+111,jeffrey-sterling,Jeffrey Sterling,person,,Former Central Intelligence Agency officer,,US,US,,,,,,published,2026-09-22T22:54:33Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:33Z,2026-09-22T22:54:33Z
+112,sarah-sanders,Sarah Sanders,person,,White House Press Secretary,,US,US,,,,,,published,2026-09-22T22:54:35Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:34Z,2026-09-22T22:54:35Z
+113,jim-acosta,Jim Acosta,person,,"Correspondent, CNN",,US,US,,,,,,published,2026-09-22T22:54:36Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:36Z,2026-09-22T22:54:36Z
+114,john-demers,John Demers,person,,Assistant Attorney General for National Security,,US,US,,,,,,published,2026-09-22T22:54:38Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:37Z,2026-09-22T22:54:38Z
+115,julian-assange,Julian Assange,person,,"Founder, WikiLeaks",,AU,AU,,,,,,published,2026-09-22T22:54:39Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:39Z,2026-09-22T22:54:39Z
+116,sani-abacha,Sani Abacha,person,,Head of State of Nigeria,,NG,NG,,,,,,published,2026-09-22T22:54:41Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:40Z,2026-09-22T22:54:41Z
+117,kunle-ajibade,Kunle Ajibade,person,,"Editor, The News magazine",,NG,NG,,,,,,published,2026-09-22T22:54:42Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:42Z,2026-09-22T22:54:42Z
+118,chris-anyanwu,Chris Anyanwu,person,,"Editor-in-chief, The Sunday Magazine",,NG,NG,,,,,,published,2026-09-22T22:54:43Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:43Z,2026-09-22T22:54:43Z
+119,mahathir-mohamad,Mahathir Mohamad,person,,Prime Minister of Malaysia,,MY,MY,,,,,,published,2026-09-22T22:54:45Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:44Z,2026-09-22T22:54:45Z
+120,anwar-ibrahim,Anwar Ibrahim,person,,Former Deputy Prime Minister of Malaysia,,MY,MY,,,,,,published,2026-09-22T22:54:46Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:46Z,2026-09-22T22:54:46Z
+121,zulkifli-sulong,Zulkifli Sulong,person,,"Editor, Harakah",,MY,MY,,,,,,published,2026-09-22T22:54:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:47Z,2026-09-22T22:54:47Z
+122,vladimir-gusinsky,Vladimir Gusinsky,person,,"Founder, NTV",,RU,RU,,,,,,published,2026-09-22T22:55:23Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:48Z,2026-09-22T22:55:23Z
+123,yevgeny-kiselyov,Yevgeny Kiselyov,person,,"Managing Director, NTV",,RU,RU,,,,,,published,2026-09-22T22:55:24Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:23Z,2026-09-22T22:55:24Z
+124,robert-mugabe,Robert Mugabe,person,,President of Zimbabwe,,ZW,ZW,,,,,,published,2026-09-22T22:55:25Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:25Z,2026-09-22T22:55:25Z
+125,anna-politkovskaya,Anna Politkovskaya,person,,"Journalist, Novaya Gazeta",,RU,RU,,,,,,published,2026-09-22T22:55:27Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:26Z,2026-09-22T22:55:27Z
+126,dmitry-pavlyuchenkov,Dmitry Pavlyuchenkov,person,,"Former officer, Moscow police surveillance unit",,RU,RU,,,,,,published,2026-09-22T22:55:28Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:27Z,2026-09-22T22:55:28Z
+127,mahmoud-ahmadinejad,Mahmoud Ahmadinejad,person,,President of Iran,,IR,IR,,,,,,published,2026-09-22T22:55:29Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:29Z,2026-09-22T22:55:29Z
+128,jon-leyne,Jon Leyne,person,,"Tehran correspondent, BBC",,IR,IR,,,,,,published,2026-09-22T22:55:31Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:30Z,2026-09-22T22:55:31Z
+129,rafael-correa,Rafael Correa,person,,President of Ecuador,,EC,EC,,,,,,published,2026-09-22T22:55:32Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:31Z,2026-09-22T22:55:32Z
+130,lenin-moreno,Lenin Moreno,person,,President of Ecuador,,EC,EC,,,,,,published,2026-09-22T22:55:33Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:33Z,2026-09-22T22:55:33Z
+131,adly-mansour,Adly Mansour,person,,Interim President of Egypt,,EG,EG,,,,,,published,2026-09-22T22:55:35Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:34Z,2026-09-22T22:55:35Z
+132,abdel-fattah-el-sisi,Abdel Fattah el-Sisi,person,,President of Egypt,,EG,EG,,,,,,published,2026-09-22T22:55:36Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:35Z,2026-09-22T22:55:36Z
+133,peter-greste,Peter Greste,person,,"Correspondent, Al Jazeera English",,EG,EG,,,,,,published,2026-09-22T22:55:37Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:37Z,2026-09-22T22:55:37Z
+134,mohamed-fahmy,Mohamed Fahmy,person,,"Bureau Chief, Al Jazeera English, Cairo",,EG,EG,,,,,,published,2026-09-22T22:55:39Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:38Z,2026-09-22T22:55:39Z
+135,baher-mohamed,Baher Mohamed,person,,"Producer, Al Jazeera English, Cairo",,EG,EG,,,,,,published,2026-09-22T22:55:40Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:39Z,2026-09-22T22:55:40Z
+136,beata-szydlo,Beata Szydlo,person,,Prime Minister of Poland,,PL,PL,,,,,,published,2026-09-22T22:55:41Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:41Z,2026-09-22T22:55:41Z
+137,andrzej-duda,Andrzej Duda,person,,President of Poland,,PL,PL,,,,,,published,2026-09-22T22:55:43Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:42Z,2026-09-22T22:55:43Z
+138,hun-sen,Hun Sen,person,,Prime Minister of Cambodia,,KH,KH,,,,,,published,2026-09-22T22:55:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:43Z,2026-09-22T22:55:44Z
+139,john-magufuli,John Magufuli,person,,President of Tanzania,,TZ,TZ,,,,,,published,2026-09-22T22:55:45Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:45Z,2026-09-22T22:55:45Z
+140,aung-san-suu-kyi,Aung San Suu Kyi,person,,State Counsellor of Myanmar,,MM,MM,,,,,,published,2026-09-22T22:55:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:46Z,2026-09-22T22:55:47Z
+141,wa-lone,Wa Lone,person,,"Reporter, Reuters",,MM,MM,,,,,,published,2026-09-22T22:55:48Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:47Z,2026-09-22T22:55:48Z
+142,kyaw-soe-oo,Kyaw Soe Oo,person,,"Reporter, Reuters",,MM,MM,,,,,,published,2026-09-22T22:55:49Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:49Z,2026-09-22T22:55:49Z
+143,king-salman,Salman bin Abdulaziz Al Saud,person,,King of Saudi Arabia,,SA,SA,,,,,,published,2026-09-22T22:55:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:50Z,2026-09-22T22:55:51Z
+144,mohammed-bin-salman,Mohammed bin Salman,person,,Crown Prince of Saudi Arabia,,SA,SA,,,,,,published,2026-09-22T22:55:52Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:51Z,2026-09-22T22:55:52Z
+145,jamal-khashoggi,Jamal Khashoggi,person,,"Columnist, The Washington Post",,SA,SA,,,,,,published,2026-09-22T22:55:53Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:53Z,2026-09-22T22:55:53Z
+146,nicolas-maduro,Nicolas Maduro,person,,President of Venezuela,,VE,VE,,,,,,published,2026-09-22T22:55:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:54Z,2026-09-22T22:55:54Z
+147,scott-morrison,Scott Morrison,person,,"Prime Minister of Australia, 2018-2022",,AU,AU,,,,,,published,2026-09-22T22:55:56Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:55Z,2026-09-22T22:55:56Z
+148,dan-oakes,Dan Oakes,person,,"Investigative journalist, ABC",,AU,AU,,,,,,published,2026-09-22T22:55:57Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:56Z,2026-09-22T22:55:57Z
+149,david-cameron,David Cameron,person,,Prime Minister of the United Kingdom,,GB,GB,,,,,,published,2026-09-22T22:55:58Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:58Z,2026-09-22T22:55:58Z
+150,david-miranda,David Miranda,person,,Partner of journalist Glenn Greenwald,,BR,BR,,,,,,published,2026-09-22T22:56:00Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:59Z,2026-09-22T22:56:00Z
+151,glenn-greenwald,Glenn Greenwald,person,,"Journalist, The Guardian",,GB,GB,,,,,,published,2026-09-22T22:56:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:00Z,2026-09-22T22:56:01Z
+152,alan-rusbridger,Alan Rusbridger,person,,"Editor-in-chief, The Guardian",,GB,GB,,,,,,published,2026-09-22T22:56:02Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:02Z,2026-09-22T22:56:02Z
+153,slobodan-milosevic,Slobodan Milosevic,person,,President of the Federal Republic of Yugoslavia,,RS,RS,,,,,,published,2026-09-22T22:56:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:03Z,2026-09-22T22:56:04Z
+154,laura-kelly,Laura Kelly,person,,Governor of Kansas,,US-KS,US,,,,,,published,2026-09-22T22:56:05Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:05Z,2026-09-22T22:56:05Z
+155,tim-walz,Tim Walz,person,,Governor of Minnesota,,US-MN,US,,,,,,published,2026-09-22T22:56:07Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:06Z,2026-09-22T22:56:07Z
+156,minnesota-state-patrol,Minnesota State Patrol,body,law_enforcement,State police agency,,US-MN,US,,,,,,published,2026-09-22T22:56:08Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:07Z,2026-09-22T22:56:08Z
+157,jacob-frey,Jacob Frey,person,,Mayor of Minneapolis,,US-MN,US,,,,,,published,2026-09-22T22:56:10Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:09Z,2026-09-22T22:56:10Z
+158,minneapolis-police-department,Minneapolis Police Department,body,law_enforcement,Municipal police department,,US-MN,US,,,,,,published,2026-09-22T22:56:11Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:10Z,2026-09-22T22:56:11Z
+159,us-department-of-homeland-security,U.S. Department of Homeland Security,body,agency,Federal department deploying officers to Portland in 2020,,US,US,,,,,,published,2026-09-22T22:56:13Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:12Z,2026-09-22T22:56:13Z
+160,us-department-of-health-and-human-services,U.S. Department of Health and Human Services,body,agency,Federal health department overseeing the CDC,,US,US,,,,,,published,2026-09-22T22:56:14Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:13Z,2026-09-22T22:56:14Z
+161,michael-caputo,Michael Caputo,person,,"HHS Assistant Secretary for Public Affairs, 2020",,US,US,,,,,,published,2026-09-22T22:56:15Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:15Z,2026-09-22T22:56:15Z
+162,joe-biden,Joe Biden,person,,"President of the United States, 2021-2025",,US,US,,,,,,published,2026-09-22T22:56:17Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:16Z,2026-09-22T22:56:17Z
+163,merrick-garland,Merrick Garland,person,,"United States Attorney General, 2021-2025",,US,US,,,,,,published,2026-09-22T22:56:18Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:18Z,2026-09-22T22:56:18Z
+164,gideon-cody,Gideon Cody,person,,"Chief of Police, Marion, Kansas, 2023",,US-KS,US,,,,,,published,2026-09-22T22:56:20Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:19Z,2026-09-22T22:56:20Z
+165,marion-police-department,Marion Police Department,body,law_enforcement,Municipal police department,,US-KS,US,,,,,,published,2026-09-22T22:56:21Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:20Z,2026-09-22T22:56:21Z
+166,doug-ducey,Doug Ducey,person,,"Governor of Arizona, 2015-2023",,US-AZ,US,,,,,,published,2026-09-22T22:56:22Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:22Z,2026-09-22T22:56:22Z
+167,arizona-legislature,Arizona Legislature,body,legislature,State legislature,,US-AZ,US,,,,,,published,2026-09-22T22:56:24Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:23Z,2026-09-22T22:56:24Z
+168,karen-bass,Karen Bass,person,,Mayor of Los Angeles,,US-CA,US,,,,,,published,2026-09-22T22:56:25Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:25Z,2026-09-22T22:56:25Z
+169,los-angeles-police-department,Los Angeles Police Department,body,law_enforcement,Municipal police department,,US-CA,US,,,,,,published,2026-09-22T22:56:27Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:26Z,2026-09-22T22:56:27Z
+170,paramount-skydance,Paramount Skydance,body,other,"Media company, parent of CBS News",,US,US,,,,,,published,2026-09-22T22:56:28Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:28Z,2026-09-22T22:56:28Z
+171,karoline-leavitt,Karoline Leavitt,person,,White House Press Secretary,,US,US,,,,,,published,2026-09-22T22:56:30Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:29Z,2026-09-22T22:56:30Z
+172,steven-cheung,Steven Cheung,person,,White House Communications Director,,US,US,,,,,,published,2026-09-22T22:56:31Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:30Z,2026-09-22T22:56:31Z
+173,tom-homan,Tom Homan,person,,White House Border Czar,,US,US,,,,,,published,2026-09-22T22:56:32Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:32Z,2026-09-22T22:56:32Z
+174,u-s-immigration-and-customs-enforcement,U.S. Immigration and Customs Enforcement,body,law_enforcement,Federal immigration enforcement agency,,US,US,,,,,,published,2026-09-22T22:56:34Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:33Z,2026-09-22T22:56:34Z
+175,u-s-customs-and-border-protection,U.S. Customs and Border Protection,body,law_enforcement,Federal border and customs agency,,US,US,,,,,,published,2026-09-22T22:56:35Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:34Z,2026-09-22T22:56:35Z
+176,fbi,Federal Bureau of Investigation,body,law_enforcement,Federal law enforcement agency,,US,US,,,,,,published,2026-09-22T22:56:36Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:36Z,2026-09-22T22:56:36Z
+177,royal-canadian-mounted-police,Royal Canadian Mounted Police,body,law_enforcement,"Canada's federal police, contracted for provincial policing in British Columbia",,CA-BC,CA,,,,,,published,2026-09-22T22:56:38Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:37Z,2026-09-22T22:56:38Z
+178,john-horgan,John Horgan,person,,"Premier of British Columbia, 2017-2022",,CA-BC,CA,,,,,,published,2026-09-22T22:56:40Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:39Z,2026-09-22T22:56:40Z
+179,min-aung-hlaing,Min Aung Hlaing,person,,"Chairman, Myanmar State Administration Council",,MM,MM,,,,,,published,2026-09-22T22:56:41Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:41Z,2026-09-22T22:56:41Z
+180,myanmar-military,Myanmar military (Tatmadaw),body,law_enforcement,Armed forces and ruling junta since the February 2021 coup,,MM,MM,,,,,,published,2026-09-22T22:56:43Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:42Z,2026-09-22T22:56:43Z
+181,alexander-lukashenko,Alexander Lukashenko,person,,President of Belarus,,BY,BY,,,,,,published,2026-09-22T22:56:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:44Z,2026-09-22T22:56:44Z
+182,belarusian-ministry-of-information,Belarusian Ministry of Information,body,agency,Government information ministry,,BY,BY,,,,,,published,2026-09-22T22:56:46Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:45Z,2026-09-22T22:56:46Z
+183,indian-income-tax-department,Indian Income Tax Department,body,regulator,Tax authority,,IN,IN,,,,,,published,2026-09-22T22:56:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:46Z,2026-09-22T22:56:47Z
+184,ministry-of-electronics-and-information-technology-india,Ministry of Electronics and Information Technology (India),body,agency,Ministry that issued the IT Rules amendment creating the Fact Check Unit,,IN,IN,,,,,,published,2026-09-22T22:56:48Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:48Z,2026-09-22T22:56:48Z
+185,alejandro-giammattei,Alejandro Giammattei,person,,"President of Guatemala, 2020-2024",,GT,GT,,,,,,published,2026-09-22T22:56:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:49Z,2026-09-22T22:56:50Z
+186,guatemalan-public-ministry,Guatemalan Public Ministry,body,executive_office,Public prosecutor's office,,GT,GT,,,,,,published,2026-09-22T22:56:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:50Z,2026-09-22T22:56:51Z
+187,daniel-ortega,Daniel Ortega,person,,President of Nicaragua,,NI,NI,,,,,,published,2026-09-22T22:56:52Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:52Z,2026-09-22T22:56:52Z
+188,nicaraguan-court-of-appeals,Nicaraguan Court of Appeals,body,court,Appellate court that issued the citizenship-stripping rulings,,NI,NI,,,,,,published,2026-09-22T22:56:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:53Z,2026-09-22T22:56:54Z
+189,robert-fico,Robert Fico,person,,Prime Minister of Slovakia,,SK,SK,,,,,,published,2026-09-22T22:56:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:55Z,2026-09-22T22:56:55Z
+190,slovak-parliament,National Council of the Slovak Republic,body,legislature,National legislature,,SK,SK,,,,,,published,2026-09-22T22:56:57Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:56Z,2026-09-22T22:56:57Z
+191,irakli-kobakhidze,Irakli Kobakhidze,person,,Prime Minister of Georgia,,GE,GE,,,,,,published,2026-09-22T22:56:58Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:58Z,2026-09-22T22:56:58Z
+192,georgian-parliament,Parliament of Georgia,body,legislature,National legislature,,GE,GE,,,,,,published,2026-09-22T22:57:00Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:59Z,2026-09-22T22:57:00Z
+193,hong-kong-district-court,Hong Kong District Court,body,court,Trial court,,HK,HK,,,,,,published,2026-09-22T22:57:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:01Z,2026-09-22T22:57:01Z
+194,javier-milei,Javier Milei,person,,President of Argentina,,AR,AR,,,,,,published,2026-09-22T22:57:02Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:02Z,2026-09-22T22:57:02Z
+195,aleksandar-vucic,Aleksandar Vucic,person,,President of Serbia,,RS,RS,,,,,,published,2026-09-22T22:57:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:03Z,2026-09-22T22:57:04Z
+196,serbian-ministry-of-interior,Serbian Ministry of the Interior,body,law_enforcement,Ministry overseeing police,,RS,RS,,,,,,published,2026-09-22T22:57:05Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:05Z,2026-09-22T22:57:05Z
+197,abiy-ahmed,Abiy Ahmed,person,,Prime Minister of Ethiopia,,ET,ET,,,,,,published,2026-09-22T22:57:06Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:06Z,2026-09-22T22:57:06Z
+198,ethiopian-media-authority,Ethiopian Media Authority,body,regulator,Broadcast and media regulator,,ET,ET,,,,,,published,2026-09-22T22:57:08Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:07Z,2026-09-22T22:57:08Z
+199,shehbaz-sharif,Shehbaz Sharif,person,,Prime Minister of Pakistan,,PK,PK,,,,,,published,2026-09-22T22:57:09Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:08Z,2026-09-22T22:57:09Z
+200,parliament-of-pakistan,Parliament of Pakistan,body,legislature,National legislature,,PK,PK,,,,,,published,2026-09-22T22:57:10Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:10Z,2026-09-22T22:57:10Z
+201,muhammad-yunus,Muhammad Yunus,person,,"Chief Adviser, interim government of Bangladesh",,BD,BD,,,,,,published,2026-09-22T22:57:12Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:11Z,2026-09-22T22:57:12Z
+202,venezuelan-national-guard,Venezuelan National Guard (GNB),body,law_enforcement,Military internal security force,,VE,VE,,,,,,published,2026-09-22T22:57:13Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:13Z,2026-09-22T22:57:13Z
+203,turkish-center-for-combating-disinformation,Turkish Center for Combating Disinformation,body,other,Government body that disputes reporting it deems false,,TR,TR,,,,,,published,2026-09-22T22:57:15Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:14Z,2026-09-22T22:57:15Z
+204,kais-saied,Kais Saied,person,,President of Tunisia,,TN,TN,,,,,,published,2026-09-22T22:57:16Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:15Z,2026-09-22T22:57:16Z
+205,samia-suluhu-hassan,Samia Suluhu Hassan,person,,President of Tanzania,,TZ,TZ,,,,,,published,2026-09-22T22:57:17Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:16Z,2026-09-22T22:57:17Z
+206,tanzania-communications-regulatory-authority,Tanzania Communications Regulatory Authority,body,regulator,Telecommunications regulator,,TZ,TZ,,,,,,published,2026-09-22T22:57:18Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:18Z,2026-09-22T22:57:18Z
+207,australian-federal-police,Australian Federal Police,body,law_enforcement,National police force,,AU,AU,,,,,,published,2026-09-22T22:57:20Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:19Z,2026-09-22T22:57:20Z
+208,xi-jinping,Xi Jinping,person,,President of China,,CN,CN,,,,,,published,2026-09-22T22:57:21Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:20Z,2026-09-22T22:57:21Z
+209,chinese-ministry-of-foreign-affairs,Chinese Ministry of Foreign Affairs,body,agency,Foreign ministry,,CN,CN,,,,,,published,2026-09-22T22:57:22Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:22Z,2026-09-22T22:57:22Z
+210,emmerson-mnangagwa,Emmerson Mnangagwa,person,,President of Zimbabwe,,ZW,ZW,,,,,,published,2026-09-22T22:57:24Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:23Z,2026-09-22T22:57:24Z
+211,parliament-of-zimbabwe,Parliament of Zimbabwe,body,legislature,National legislature,,ZW,ZW,,,,,,published,2026-09-22T22:57:25Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:24Z,2026-09-22T22:57:25Z

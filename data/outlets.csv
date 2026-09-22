@@ -17,3 +17,43 @@ id,slug,name,kind,country,homepage_url,wikidata_qid,unknowns,pub_state,published
 16,bbc,BBC,broadcaster,GB,https://www.bbc.com/,,,published,2026-09-22T19:59:51Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:50Z,2026-09-22T21:25:33Z
 17,indian-express,The Indian Express,newspaper,IN,https://indianexpress.com/,,,published,2026-09-22T19:59:52Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:52Z,2026-09-22T21:25:35Z
 18,hindustan-times,Hindustan Times,newspaper,IN,https://www.hindustantimes.com/,,,published,2026-09-22T19:59:54Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:53Z,2026-09-22T21:25:36Z
+19,the-masses,The Masses,magazine,US,,,,published,2026-09-22T22:48:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:49Z,2026-09-22T22:48:50Z
+20,milwaukee-leader,The Milwaukee Leader,newspaper,US,,,,published,2026-09-22T22:48:52Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:51Z,2026-09-22T22:48:52Z
+21,new-york-times-historical,The New York Times,newspaper,US,,,,published,2026-09-22T22:48:53Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:52Z,2026-09-22T22:48:53Z
+22,washington-post-historical,The Washington Post,newspaper,US,,,,published,2026-09-22T22:48:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:54Z,2026-09-22T22:48:55Z
+23,buenos-aires-herald,Buenos Aires Herald,newspaper,AR,,,,published,2026-09-22T22:48:56Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:56Z,2026-09-22T22:48:56Z
+24,la-opinion-argentina,La Opinión,newspaper,AR,,,,published,2026-09-22T22:48:58Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:57Z,2026-09-22T22:48:58Z
+25,radio-haiti-inter,Radio Haiti-Inter,broadcaster,HT,,,,published,2026-09-22T22:49:00Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:59Z,2026-09-22T22:49:00Z
+26,manila-times,Manila Times,newspaper,PH,,,,published,2026-09-22T22:50:38Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:37Z,2026-09-22T22:50:38Z
+27,philippines-free-press,Philippines Free Press,magazine,PH,,,,published,2026-09-22T22:50:40Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:39Z,2026-09-22T22:50:40Z
+28,al-ahram,Al-Ahram,newspaper,EG,,,,published,2026-09-22T22:50:41Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:40Z,2026-09-22T22:50:41Z
+29,hankook-ilbo,Hankook Ilbo,newspaper,KR,,,,published,2026-09-22T22:50:42Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:42Z,2026-09-22T22:50:42Z
+30,radio-magallanes,Radio Magallanes,broadcaster,CL,,,,published,2026-09-22T22:50:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:43Z,2026-09-22T22:50:44Z
+31,radio-candelaria,Radio Candelaria,broadcaster,CL,,,,published,2026-09-22T22:50:45Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:44Z,2026-09-22T22:50:45Z
+32,sunday-telegraph-sydney,Sunday Telegraph (Sydney),newspaper,AU,,,,published,2026-09-22T22:50:46Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:46Z,2026-09-22T22:50:46Z
+33,new-york-times,The New York Times,newspaper,US,https://www.nytimes.com/,,,published,2026-09-22T22:50:48Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:47Z,2026-09-22T22:50:48Z
+34,wikileaks,WikiLeaks,other,AU,https://wikileaks.org/,,,published,2026-09-22T22:50:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:49Z,2026-09-22T22:50:50Z
+35,fox-news,Fox News,broadcaster,US,https://www.foxnews.com/,,,published,2026-09-22T22:50:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:50Z,2026-09-22T22:50:51Z
+36,al-jazeera-english,Al Jazeera English,broadcaster,QA,https://www.aljazeera.com/,,,published,2026-09-22T22:50:53Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:52Z,2026-09-22T22:50:53Z
+37,reuters,Reuters,wire_service,GB,https://www.reuters.com/,,,published,2026-09-22T22:50:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:53Z,2026-09-22T22:50:54Z
+38,abc-australia,Australian Broadcasting Corporation (ABC),broadcaster,AU,https://www.abc.net.au/,,,published,2026-09-22T22:50:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:55Z,2026-09-22T22:50:55Z
+39,the-guardian,The Guardian,other,GB,https://www.theguardian.com/,,,published,2026-09-22T22:50:57Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:56Z,2026-09-22T22:50:57Z
+40,cambodia-daily,The Cambodia Daily,other,KH,https://www.cambodiadaily.com/,,,published,2026-09-22T22:50:59Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:58Z,2026-09-22T22:50:59Z
+41,ntv-russia,NTV,broadcaster,RU,,,,published,2026-09-22T22:51:00Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:59Z,2026-09-22T22:51:00Z
+42,novaya-gazeta,Novaya Gazeta,newspaper,RU,https://novayagazeta.ru/,,,published,2026-09-22T22:51:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:01Z,2026-09-22T22:51:01Z
+43,harakah,Harakah,other,MY,,,,published,2026-09-22T22:51:03Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:02Z,2026-09-22T22:51:03Z
+44,washington-post,The Washington Post,other,US,https://www.washingtonpost.com/,,,published,2026-09-22T22:51:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:04Z,2026-09-22T22:51:04Z
+45,marion-county-record,Marion County Record,newspaper,US,https://www.marioncountyrecord.com/,,,published,2026-09-22T22:51:06Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:05Z,2026-09-22T22:51:06Z
+46,nbc-news,NBC News,broadcaster,US,https://www.nbcnews.com/,,,published,2026-09-22T22:52:40Z,2026-09-22,2026-12-22,2,2026-09-22T22:51:06Z,2026-09-22T22:52:40Z
+47,des-moines-register,Des Moines Register,newspaper,US,https://www.desmoinesregister.com/,,,published,2026-09-22T22:52:42Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:41Z,2026-09-22T22:52:42Z
+48,nine-news-australia,Nine News Australia,broadcaster,AU,https://www.9news.com.au/,,,published,2026-09-22T22:52:43Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:42Z,2026-09-22T22:52:43Z
+49,project-veritas,Project Veritas,other,US,https://www.projectveritas.com/,,,published,2026-09-22T22:52:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:44Z,2026-09-22T22:52:44Z
+50,the-grayzone,The Grayzone,digital,US,https://thegrayzone.com/,,,published,2026-09-22T22:52:46Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:45Z,2026-09-22T22:52:46Z
+51,tut-by,Tut.by,digital,BY,https://зеркало.io/,,,published,2026-09-22T22:52:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:46Z,2026-09-22T22:52:47Z
+52,el-periodico,El Periodico,newspaper,GT,https://elperiodico.com.gt/,,,published,2026-09-22T22:52:48Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:47Z,2026-09-22T22:52:48Z
+53,la-prensa,La Prensa,newspaper,NI,https://www.laprensani.com/,,,published,2026-09-22T22:52:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:49Z,2026-09-22T22:52:50Z
+54,rtvs-stvr,RTVS / STVR,public_media,SK,https://www.stvr.sk/,,,published,2026-09-22T22:52:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:51Z,2026-09-22T22:52:51Z
+55,stand-news,Stand News,digital,HK,,,,published,2026-09-22T22:52:53Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:52Z,2026-09-22T22:52:53Z
+56,telam,Telam,wire_service,AR,,,,published,2026-09-22T22:52:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:53Z,2026-09-22T22:52:54Z
+57,sheger-fm,Sheger FM 102.1,broadcaster,ET,,,,published,2026-09-22T22:52:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:54Z,2026-09-22T22:52:55Z
+58,n1-tv,N1,broadcaster,RS,https://n1info.rs/,,,published,2026-09-22T22:52:56Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:56Z,2026-09-22T22:52:56Z

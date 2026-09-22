@@ -6,3 +6,18 @@ id,slug,name,outlet_id,role,profile_url,pub_state,published_at,reviewed_on,revis
 5,jimmy-lai,Jimmy Lai,13,Founder and publisher,,published,2026-09-22T20:01:20Z,2026-09-22,8,2026-09-22T20:01:19Z,2026-09-22T21:26:38Z
 6,mark-lowen,Mark Lowen,16,"Correspondent, deported from Turkiye while covering protests",,published,2026-09-22T20:01:22Z,2026-09-22,8,2026-09-22T20:01:22Z,2026-09-22T21:26:39Z
 7,ravi-nair,Ravi Nair,17,Investigative journalist,,published,2026-09-22T20:01:24Z,2026-09-22,8,2026-09-22T20:01:23Z,2026-09-22T21:26:41Z
+8,omar-jimenez,Omar Jimenez,1,Reporter,,published,2026-09-22T22:57:27Z,2026-09-22,4,2026-09-22T22:57:26Z,2026-09-22T23:14:11Z
+9,leonel-mendez,Leonel Mendez,1,Reporter,,published,2026-09-22T22:57:28Z,2026-09-22,4,2026-09-22T22:57:27Z,2026-09-22T23:14:13Z
+10,bill-kirkos,Bill Kirkos,1,Reporter,,published,2026-09-22T22:57:29Z,2026-09-22,4,2026-09-22T22:57:29Z,2026-09-22T23:14:14Z
+11,linda-tirado,Linda Tirado,,Reporter,,published,2026-09-22T22:57:31Z,2026-09-22,4,2026-09-22T22:57:30Z,2026-09-22T23:14:16Z
+12,james-okeefe,James O'Keefe,49,Reporter,,published,2026-09-22T22:57:32Z,2026-09-22,4,2026-09-22T22:57:31Z,2026-09-22T23:14:17Z
+13,max-blumenthal,Max Blumenthal,50,Reporter,,published,2026-09-22T22:57:34Z,2026-09-22,4,2026-09-22T22:57:33Z,2026-09-22T23:14:19Z
+14,lauren-tomasi,Lauren Tomasi,48,Reporter,,published,2026-09-22T22:57:35Z,2026-09-22,4,2026-09-22T22:57:35Z,2026-09-22T23:14:20Z
+15,bill-owens,Bill Owens,10,Reporter,,published,2026-09-22T22:57:37Z,2026-09-22,4,2026-09-22T22:57:36Z,2026-09-22T23:14:21Z
+16,eric-meyer,Eric Meyer,45,Reporter,,published,2026-09-22T22:57:38Z,2026-09-22,4,2026-09-22T22:57:37Z,2026-09-22T23:14:23Z
+17,joan-meyer,Joan Meyer,45,Reporter,,published,2026-09-22T22:57:39Z,2026-09-22,4,2026-09-22T22:57:39Z,2026-09-22T23:14:24Z
+18,jose-ruben-zamora,Jose Ruben Zamora,52,Reporter,,published,2026-09-22T22:57:41Z,2026-09-22,4,2026-09-22T22:57:40Z,2026-09-22T23:14:26Z
+19,chung-pui-kuen,Chung Pui-kuen,55,Reporter,,published,2026-09-22T22:57:42Z,2026-09-22,4,2026-09-22T22:57:41Z,2026-09-22T23:14:28Z
+20,patrick-lam,Patrick Lam,55,Reporter,,published,2026-09-22T22:57:44Z,2026-09-22,4,2026-09-22T22:57:43Z,2026-09-22T23:14:29Z
+21,annika-smethurst,Annika Smethurst,,Reporter,,published,2026-09-22T22:57:45Z,2026-09-22,4,2026-09-22T22:57:44Z,2026-09-22T23:14:31Z
+22,carlos-fernando-chamorro,Carlos Fernando Chamorro,53,Reporter,,published,2026-09-22T22:57:46Z,2026-09-22,4,2026-09-22T22:57:45Z,2026-09-22T23:14:33Z
