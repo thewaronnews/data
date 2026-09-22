@@ -1,0 +1,494 @@
+[
+  {
+    "incident_id": 1,
+    "source_id": 1,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 1,
+    "source_id": 2,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 1,
+    "source_id": 3,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 1,
+    "source_id": 4,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 1,
+    "source_id": 5,
+    "role": "reporting",
+    "sort": 4
+  },
+  {
+    "incident_id": 1,
+    "source_id": 6,
+    "role": "reporting",
+    "sort": 5
+  },
+  {
+    "incident_id": 1,
+    "source_id": 7,
+    "role": "reporting",
+    "sort": 6
+  },
+  {
+    "incident_id": 1,
+    "source_id": 16,
+    "role": "reporting",
+    "sort": 7
+  },
+  {
+    "incident_id": 1,
+    "source_id": 111,
+    "role": "reporting",
+    "sort": 8
+  },
+  {
+    "incident_id": 1,
+    "source_id": 113,
+    "role": "reporting",
+    "sort": 9
+  },
+  {
+    "incident_id": 2,
+    "source_id": 30,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 2,
+    "source_id": 31,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 3,
+    "source_id": 33,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 3,
+    "source_id": 75,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 3,
+    "source_id": 104,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 4,
+    "source_id": 28,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 4,
+    "source_id": 112,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 5,
+    "source_id": 82,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 6,
+    "source_id": 22,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 6,
+    "source_id": 23,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 6,
+    "source_id": 106,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 6,
+    "source_id": 107,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 6,
+    "source_id": 108,
+    "role": "reporting",
+    "sort": 4
+  },
+  {
+    "incident_id": 7,
+    "source_id": 27,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 8,
+    "source_id": 46,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 8,
+    "source_id": 47,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 8,
+    "source_id": 48,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 8,
+    "source_id": 86,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 8,
+    "source_id": 87,
+    "role": "reporting",
+    "sort": 4
+  },
+  {
+    "incident_id": 8,
+    "source_id": 88,
+    "role": "reporting",
+    "sort": 5
+  },
+  {
+    "incident_id": 8,
+    "source_id": 109,
+    "role": "reporting",
+    "sort": 6
+  },
+  {
+    "incident_id": 8,
+    "source_id": 110,
+    "role": "reporting",
+    "sort": 7
+  },
+  {
+    "incident_id": 9,
+    "source_id": 36,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 9,
+    "source_id": 37,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 9,
+    "source_id": 38,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 9,
+    "source_id": 77,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 9,
+    "source_id": 78,
+    "role": "reporting",
+    "sort": 4
+  },
+  {
+    "incident_id": 9,
+    "source_id": 116,
+    "role": "reporting",
+    "sort": 5
+  },
+  {
+    "incident_id": 10,
+    "source_id": 39,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 10,
+    "source_id": 79,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 11,
+    "source_id": 59,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 11,
+    "source_id": 60,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 11,
+    "source_id": 61,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 12,
+    "source_id": 19,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 12,
+    "source_id": 20,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 12,
+    "source_id": 21,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 12,
+    "source_id": 24,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 12,
+    "source_id": 25,
+    "role": "reporting",
+    "sort": 4
+  },
+  {
+    "incident_id": 12,
+    "source_id": 114,
+    "role": "reporting",
+    "sort": 5
+  },
+  {
+    "incident_id": 13,
+    "source_id": 29,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 13,
+    "source_id": 30,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 13,
+    "source_id": 31,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 13,
+    "source_id": 103,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 13,
+    "source_id": 115,
+    "role": "reporting",
+    "sort": 4
+  },
+  {
+    "incident_id": 14,
+    "source_id": 32,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 14,
+    "source_id": 80,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 14,
+    "source_id": 83,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 15,
+    "source_id": 38,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 15,
+    "source_id": 78,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 16,
+    "source_id": 41,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 16,
+    "source_id": 42,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 17,
+    "source_id": 43,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 17,
+    "source_id": 44,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 17,
+    "source_id": 45,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 17,
+    "source_id": 99,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 18,
+    "source_id": 54,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 18,
+    "source_id": 55,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 18,
+    "source_id": 56,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 19,
+    "source_id": 57,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 19,
+    "source_id": 58,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 20,
+    "source_id": 62,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 20,
+    "source_id": 63,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 20,
+    "source_id": 64,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 21,
+    "source_id": 65,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 21,
+    "source_id": 66,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 21,
+    "source_id": 67,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 22,
+    "source_id": 68,
+    "role": "reporting",
+    "sort": 0
+  },
+  {
+    "incident_id": 22,
+    "source_id": 69,
+    "role": "reporting",
+    "sort": 1
+  },
+  {
+    "incident_id": 22,
+    "source_id": 70,
+    "role": "reporting",
+    "sort": 2
+  },
+  {
+    "incident_id": 22,
+    "source_id": 84,
+    "role": "reporting",
+    "sort": 3
+  },
+  {
+    "incident_id": 22,
+    "source_id": 85,
+    "role": "reporting",
+    "sort": 4
+  },
+  {
+    "incident_id": 23,
+    "source_id": 81,
+    "role": "reporting",
+    "sort": 0
+  }
+]

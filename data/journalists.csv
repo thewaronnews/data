@@ -1,0 +1,8 @@
+id,slug,name,outlet_id,role,profile_url,pub_state,published_at,reviewed_on,revision,created_at,updated_at
+1,betsy-klein,Betsy Klein,1,White House reporter,,published,2026-09-22T20:01:14Z,2026-09-22,8,2026-09-22T20:01:13Z,2026-09-22T21:26:31Z
+2,akayla-gardner,Akayla Gardner,2,White House correspondent,,published,2026-09-22T20:01:15Z,2026-09-22,8,2026-09-22T20:01:14Z,2026-09-22T21:26:33Z
+3,cheyenne-haslett,Cheyenne Haslett,3,White House reporter,,published,2026-09-22T20:01:17Z,2026-09-22,8,2026-09-22T20:01:16Z,2026-09-22T21:26:35Z
+4,jim-acosta,Jim Acosta,1,Chief White House correspondent (2018),,published,2026-09-22T20:01:19Z,2026-09-22,8,2026-09-22T20:01:18Z,2026-09-22T21:26:36Z
+5,jimmy-lai,Jimmy Lai,13,Founder and publisher,,published,2026-09-22T20:01:20Z,2026-09-22,8,2026-09-22T20:01:19Z,2026-09-22T21:26:38Z
+6,mark-lowen,Mark Lowen,16,"Correspondent, deported from Turkiye while covering protests",,published,2026-09-22T20:01:22Z,2026-09-22,8,2026-09-22T20:01:22Z,2026-09-22T21:26:39Z
+7,ravi-nair,Ravi Nair,17,Investigative journalist,,published,2026-09-22T20:01:24Z,2026-09-22,8,2026-09-22T20:01:23Z,2026-09-22T21:26:41Z

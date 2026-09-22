@@ -1,0 +1,19 @@
+id,slug,name,kind,country,homepage_url,wikidata_qid,unknowns,pub_state,published_at,reviewed_on,next_review_on,revision,created_at,updated_at
+1,cnn,CNN,broadcaster,US,https://www.cnn.com/,,,published,2026-09-22T19:59:28Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:27Z,2026-09-22T21:25:09Z
+2,ms-now,MS NOW,broadcaster,US,https://www.msnow.com/,,,published,2026-09-22T19:59:29Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:28Z,2026-09-22T21:25:11Z
+3,politico,Politico,digital,US,https://www.politico.com/,,,published,2026-09-22T19:59:31Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:30Z,2026-09-22T21:25:12Z
+4,associated-press,The Associated Press,wire_service,US,https://apnews.com/,,,published,2026-09-22T19:59:33Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:32Z,2026-09-22T21:25:14Z
+5,wall-street-journal,The Wall Street Journal,newspaper,US,https://www.wsj.com/,,,published,2026-09-22T19:59:35Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:34Z,2026-09-22T21:25:16Z
+6,npr,NPR,public_media,US,https://www.npr.org/,,,published,2026-09-22T19:59:36Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:35Z,2026-09-22T21:25:17Z
+7,pbs,PBS,public_media,US,https://www.pbs.org/,,,published,2026-09-22T19:59:38Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:37Z,2026-09-22T21:25:19Z
+8,voice-of-america,Voice of America,public_media,US,https://www.voanews.com/,,,published,2026-09-22T19:59:39Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:38Z,2026-09-22T21:25:20Z
+9,abc-news,ABC News,broadcaster,US,https://abcnews.go.com/,,,published,2026-09-22T19:59:41Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:40Z,2026-09-22T21:25:22Z
+10,cbs-news,CBS News,broadcaster,US,https://www.cbsnews.com/,,,published,2026-09-22T19:59:42Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:41Z,2026-09-22T21:25:24Z
+11,military-times,Military Times / Defense News,digital,US,https://www.militarytimes.com/,,,published,2026-09-22T19:59:44Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:43Z,2026-09-22T21:25:26Z
+12,el-faro,El Faro,digital,SV,https://elfaro.net/,,,published,2026-09-22T19:59:45Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:45Z,2026-09-22T21:25:27Z
+13,apple-daily,Apple Daily,newspaper,HK,https://en.wikipedia.org/wiki/Apple_Daily,,,published,2026-09-22T19:59:47Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:46Z,2026-09-22T21:25:29Z
+14,next-magazine,Next Magazine,digital,HK,https://en.wikipedia.org/wiki/Next_Magazine_(Hong_Kong),,,published,2026-09-22T19:59:48Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:47Z,2026-09-22T21:25:30Z
+15,the-nation,The Nation,newspaper,US,https://www.thenation.com/,,,published,2026-09-22T19:59:50Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:49Z,2026-09-22T21:25:32Z
+16,bbc,BBC,broadcaster,GB,https://www.bbc.com/,,,published,2026-09-22T19:59:51Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:50Z,2026-09-22T21:25:33Z
+17,indian-express,The Indian Express,newspaper,IN,https://indianexpress.com/,,,published,2026-09-22T19:59:52Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:52Z,2026-09-22T21:25:35Z
+18,hindustan-times,Hindustan Times,newspaper,IN,https://www.hindustantimes.com/,,,published,2026-09-22T19:59:54Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:53Z,2026-09-22T21:25:36Z

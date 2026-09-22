@@ -1,0 +1,2339 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "the-war-on-news",
+  "title": "The War On News",
+  "description": "How governments have limited journalists, 1900 to today. The public record of https://thewaronnews.com: incidents, events, actors, outlets, journalists, cases, sources, claims, tactics, countries, recent coverage, explainers, glossary terms, their join tables and the change ledger.",
+  "homepage": "https://thewaronnews.com",
+  "version": "2026.09.22",
+  "created": "2026-09-22T22:40:08Z",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Peter Benes",
+      "roles": [
+        "publisher",
+        "editor"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "The War On News",
+      "path": "https://thewaronnews.com"
+    }
+  ],
+  "keywords": [
+    "press freedom",
+    "journalism",
+    "government",
+    "first amendment",
+    "open data"
+  ],
+  "repository": "https://github.com/thewaronnews/data",
+  "resources": [
+    {
+      "name": "incidents",
+      "path": "data/incidents.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per recorded incident: a dated government action that limited reporting.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "title (incidents)."
+          },
+          {
+            "name": "occurred_on",
+            "type": "date",
+            "description": "Date of the action (first day of the period when imprecise)."
+          },
+          {
+            "name": "occurred_on_precision",
+            "type": "string",
+            "description": "day, month, year or approximate.",
+            "constraints": {
+              "enum": [
+                "day",
+                "month",
+                "year",
+                "approximate"
+              ]
+            }
+          },
+          {
+            "name": "ended_on",
+            "type": "date",
+            "description": "ended on (incidents)."
+          },
+          {
+            "name": "jurisdiction",
+            "type": "string",
+            "description": "US (federal), ISO 3166-2 (US-LA), place (US-LA:new-orleans) or ISO 3166-1 alpha-2."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 country code."
+          },
+          {
+            "name": "continent",
+            "type": "string",
+            "description": "continent (incidents)."
+          },
+          {
+            "name": "level",
+            "type": "string",
+            "description": "level (incidents).",
+            "constraints": {
+              "enum": [
+                "national",
+                "state_or_province",
+                "municipal",
+                "supranational"
+              ]
+            }
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "type (incidents).",
+            "constraints": {
+              "enum": [
+                "access_ban",
+                "credential_revocation",
+                "lawsuit_against_press",
+                "regulatory_pressure",
+                "funding_cut",
+                "arrest_or_detention",
+                "subpoena_or_seizure",
+                "legislation",
+                "physical_obstruction",
+                "other"
+              ]
+            }
+          },
+          {
+            "name": "tactic_primary",
+            "type": "string",
+            "description": "tactic primary (incidents)."
+          },
+          {
+            "name": "leader_slug",
+            "type": "string",
+            "description": "leader slug (incidents)."
+          },
+          {
+            "name": "issue_of_the_day",
+            "type": "string",
+            "description": "issue of the day (incidents)."
+          },
+          {
+            "name": "outcome",
+            "type": "string",
+            "description": "outcome (incidents).",
+            "constraints": {
+              "enum": [
+                "reversed",
+                "upheld",
+                "sustained",
+                "ongoing",
+                "unknown"
+              ]
+            }
+          },
+          {
+            "name": "outcome_on",
+            "type": "string",
+            "description": "outcome on (incidents)."
+          },
+          {
+            "name": "outcome_note",
+            "type": "string",
+            "description": "outcome note (incidents)."
+          },
+          {
+            "name": "granularity",
+            "type": "string",
+            "description": "granularity (incidents).",
+            "constraints": {
+              "enum": [
+                "anchor",
+                "granular"
+              ]
+            }
+          },
+          {
+            "name": "era",
+            "type": "string",
+            "description": "era (incidents)."
+          },
+          {
+            "name": "summary",
+            "type": "string",
+            "description": "Direct answer to what happened, with {c:ID} claim references."
+          },
+          {
+            "name": "what_happened",
+            "type": "string",
+            "description": "Narrative of the action, Markdown with {c:ID} claim references."
+          },
+          {
+            "name": "stated_justification",
+            "type": "string",
+            "description": "The reason the actor gave, quoted verbatim, with claim references."
+          },
+          {
+            "name": "effect_on_reporting",
+            "type": "string",
+            "description": "What changed for reporting, with claim references."
+          },
+          {
+            "name": "unknowns",
+            "type": "string",
+            "description": "What the record does not establish, stated in terms of the record."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Status value from the table's enumerated list.",
+            "constraints": {
+              "enum": [
+                "in_effect",
+                "in_litigation",
+                "enjoined",
+                "reversed",
+                "expired",
+                "resolved",
+                "historical"
+              ]
+            }
+          },
+          {
+            "name": "status_updated_on",
+            "type": "date",
+            "description": "status updated on (incidents)."
+          },
+          {
+            "name": "external_ids",
+            "type": "string",
+            "description": "external ids (incidents)."
+          },
+          {
+            "name": "illustration_key",
+            "type": "string",
+            "description": "illustration key (incidents)."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "reviewed_on",
+            "type": "date",
+            "description": "Date of the last full review against sources."
+          },
+          {
+            "name": "next_review_on",
+            "type": "date",
+            "description": "Date the next full review is due."
+          },
+          {
+            "name": "revision",
+            "type": "integer",
+            "description": "Revision number; every prose change appends a revision."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "events",
+      "path": "data/events.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Dated developments of an incident or case, each backed by a claim.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (events)."
+          },
+          {
+            "name": "case_id",
+            "type": "integer",
+            "description": "case id (events)."
+          },
+          {
+            "name": "occurred_on",
+            "type": "date",
+            "description": "Date of the action (first day of the period when imprecise)."
+          },
+          {
+            "name": "occurred_on_precision",
+            "type": "string",
+            "description": "day, month, year or approximate.",
+            "constraints": {
+              "enum": [
+                "day",
+                "month",
+                "year",
+                "approximate"
+              ]
+            }
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "kind (events).",
+            "constraints": {
+              "enum": [
+                "announcement",
+                "action",
+                "filing",
+                "hearing",
+                "ruling",
+                "appeal",
+                "reversal",
+                "statement",
+                "legislative_step",
+                "other"
+              ]
+            }
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "label (events)."
+          },
+          {
+            "name": "claim_id",
+            "type": "integer",
+            "description": "claim id (events)."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "case_id"
+            ],
+            "reference": {
+              "resource": "cases",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "claim_id"
+            ],
+            "reference": {
+              "resource": "claims",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "actors",
+      "path": "data/actors.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Officials and bodies named in incidents. No descriptive or party field by design.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "name (actors)."
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "kind (actors).",
+            "constraints": {
+              "enum": [
+                "person",
+                "body"
+              ]
+            }
+          },
+          {
+            "name": "body_type",
+            "type": "string",
+            "description": "body type (actors).",
+            "constraints": {
+              "enum": [
+                "executive_office",
+                "agency",
+                "regulator",
+                "legislature",
+                "court",
+                "law_enforcement",
+                "foreign_government",
+                "other"
+              ]
+            }
+          },
+          {
+            "name": "role",
+            "type": "string",
+            "description": "role (actors)."
+          },
+          {
+            "name": "office",
+            "type": "string",
+            "description": "office (actors)."
+          },
+          {
+            "name": "jurisdiction",
+            "type": "string",
+            "description": "US (federal), ISO 3166-2 (US-LA), place (US-LA:new-orleans) or ISO 3166-1 alpha-2."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 country code."
+          },
+          {
+            "name": "term_start",
+            "type": "date",
+            "description": "term start (actors)."
+          },
+          {
+            "name": "term_end",
+            "type": "date",
+            "description": "term end (actors)."
+          },
+          {
+            "name": "official_url",
+            "type": "string",
+            "description": "official url (actors)."
+          },
+          {
+            "name": "wikidata_qid",
+            "type": "string",
+            "description": "wikidata qid (actors)."
+          },
+          {
+            "name": "unknowns",
+            "type": "string",
+            "description": "What the record does not establish, stated in terms of the record."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "reviewed_on",
+            "type": "date",
+            "description": "Date of the last full review against sources."
+          },
+          {
+            "name": "next_review_on",
+            "type": "date",
+            "description": "Date the next full review is due."
+          },
+          {
+            "name": "revision",
+            "type": "integer",
+            "description": "Revision number; every prose change appends a revision."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "outlets",
+      "path": "data/outlets.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "News organizations named in incidents.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "name (outlets)."
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "kind (outlets).",
+            "constraints": {
+              "enum": [
+                "newspaper",
+                "broadcaster",
+                "cable_news",
+                "wire_service",
+                "digital",
+                "magazine",
+                "public_media",
+                "press_association",
+                "other"
+              ]
+            }
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 country code."
+          },
+          {
+            "name": "homepage_url",
+            "type": "string",
+            "description": "homepage url (outlets)."
+          },
+          {
+            "name": "wikidata_qid",
+            "type": "string",
+            "description": "wikidata qid (outlets)."
+          },
+          {
+            "name": "unknowns",
+            "type": "string",
+            "description": "What the record does not establish, stated in terms of the record."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "reviewed_on",
+            "type": "date",
+            "description": "Date of the last full review against sources."
+          },
+          {
+            "name": "next_review_on",
+            "type": "date",
+            "description": "Date the next full review is due."
+          },
+          {
+            "name": "revision",
+            "type": "integer",
+            "description": "Revision number; every prose change appends a revision."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "journalists",
+      "path": "data/journalists.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Journalists named in incidents; professional facts only.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "name (journalists)."
+          },
+          {
+            "name": "outlet_id",
+            "type": "integer",
+            "description": "outlet id (journalists)."
+          },
+          {
+            "name": "role",
+            "type": "string",
+            "description": "role (journalists)."
+          },
+          {
+            "name": "profile_url",
+            "type": "string",
+            "description": "profile url (journalists)."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "reviewed_on",
+            "type": "date",
+            "description": "Date of the last full review against sources."
+          },
+          {
+            "name": "revision",
+            "type": "integer",
+            "description": "Revision number; every prose change appends a revision."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "outlet_id"
+            ],
+            "reference": {
+              "resource": "outlets",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cases",
+      "path": "data/cases.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Court cases connected to incidents.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "caption",
+            "type": "string",
+            "description": "caption (cases)."
+          },
+          {
+            "name": "short_name",
+            "type": "string",
+            "description": "short name (cases)."
+          },
+          {
+            "name": "court",
+            "type": "string",
+            "description": "court (cases)."
+          },
+          {
+            "name": "court_level",
+            "type": "string",
+            "description": "court level (cases).",
+            "constraints": {
+              "enum": [
+                "trial",
+                "appellate",
+                "supreme",
+                "agency",
+                "foreign"
+              ]
+            }
+          },
+          {
+            "name": "docket",
+            "type": "string",
+            "description": "docket (cases)."
+          },
+          {
+            "name": "reporter_citation",
+            "type": "string",
+            "description": "reporter citation (cases)."
+          },
+          {
+            "name": "filed_on",
+            "type": "date",
+            "description": "filed on (cases)."
+          },
+          {
+            "name": "decided_on",
+            "type": "date",
+            "description": "decided on (cases)."
+          },
+          {
+            "name": "judges",
+            "type": "string",
+            "description": "judges (cases)."
+          },
+          {
+            "name": "holding",
+            "type": "string",
+            "description": "holding (cases)."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Status value from the table's enumerated list.",
+            "constraints": {
+              "enum": [
+                "pending",
+                "decided",
+                "on_appeal",
+                "settled",
+                "dismissed",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "courtlistener_url",
+            "type": "string",
+            "description": "courtlistener url (cases)."
+          },
+          {
+            "name": "unknowns",
+            "type": "string",
+            "description": "What the record does not establish, stated in terms of the record."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "reviewed_on",
+            "type": "date",
+            "description": "Date of the last full review against sources."
+          },
+          {
+            "name": "next_review_on",
+            "type": "date",
+            "description": "Date the next full review is due."
+          },
+          {
+            "name": "revision",
+            "type": "integer",
+            "description": "Revision number; every prose change appends a revision."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "sources",
+      "path": "data/sources.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Every source the record cites, with its latest link state and Wayback snapshot.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "url (sources)."
+          },
+          {
+            "name": "final_url",
+            "type": "string",
+            "description": "final url (sources)."
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "title (sources)."
+          },
+          {
+            "name": "publisher",
+            "type": "string",
+            "description": "publisher (sources)."
+          },
+          {
+            "name": "outlet_id",
+            "type": "integer",
+            "description": "outlet id (sources)."
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "description": "source kind (sources).",
+            "constraints": {
+              "enum": [
+                "reporting",
+                "primary_document",
+                "court_record",
+                "official_statement",
+                "dataset",
+                "reference"
+              ]
+            }
+          },
+          {
+            "name": "published_on",
+            "type": "string",
+            "description": "published on (sources)."
+          },
+          {
+            "name": "first_seen",
+            "type": "datetime",
+            "description": "first seen (sources)."
+          },
+          {
+            "name": "last_checked",
+            "type": "datetime",
+            "description": "last checked (sources)."
+          },
+          {
+            "name": "http_status",
+            "type": "integer",
+            "description": "http status (sources)."
+          },
+          {
+            "name": "link_state",
+            "type": "string",
+            "description": "unchecked, live, paywalled, bot_blocked, dead or redirected."
+          },
+          {
+            "name": "link_state_since",
+            "type": "datetime",
+            "description": "link state since (sources)."
+          },
+          {
+            "name": "consecutive_failures",
+            "type": "integer",
+            "description": "consecutive failures (sources)."
+          },
+          {
+            "name": "wayback_url",
+            "type": "string",
+            "description": "Internet Archive snapshot of the source."
+          },
+          {
+            "name": "wayback_saved_at",
+            "type": "string",
+            "description": "wayback saved at (sources)."
+          },
+          {
+            "name": "archive_attempts",
+            "type": "integer",
+            "description": "archive attempts (sources)."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "claims",
+      "path": "data/claims.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "The atomic record: one dated statement with a verbatim quote, source, method and check date. All statuses; claims are append-only.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "subject_type",
+            "type": "string",
+            "description": "subject type (claims)."
+          },
+          {
+            "name": "subject_id",
+            "type": "integer",
+            "description": "subject id (claims)."
+          },
+          {
+            "name": "field",
+            "type": "string",
+            "description": "field (claims)."
+          },
+          {
+            "name": "value",
+            "type": "string",
+            "description": "value (claims)."
+          },
+          {
+            "name": "statement",
+            "type": "string",
+            "description": "One English sentence stating the fact."
+          },
+          {
+            "name": "attribution",
+            "type": "string",
+            "description": "attribution (claims)."
+          },
+          {
+            "name": "source_id",
+            "type": "integer",
+            "description": "sources.id the claim or note rests on."
+          },
+          {
+            "name": "evidence_quote",
+            "type": "string",
+            "description": "Verbatim quotation of 300 characters or fewer from the source."
+          },
+          {
+            "name": "evidence_date",
+            "type": "string",
+            "description": "evidence date (claims)."
+          },
+          {
+            "name": "method",
+            "type": "string",
+            "description": "How the claim is established.",
+            "constraints": {
+              "enum": [
+                "primary_document",
+                "outlet_report",
+                "court_record",
+                "official_statement",
+                "observed_here"
+              ]
+            }
+          },
+          {
+            "name": "verified_at",
+            "type": "string",
+            "description": "Date the claim was checked against its source."
+          },
+          {
+            "name": "confidence",
+            "type": "string",
+            "description": "confidence (claims).",
+            "constraints": {
+              "enum": [
+                "high",
+                "medium",
+                "low"
+              ]
+            }
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Status value from the table's enumerated list."
+          },
+          {
+            "name": "supersedes_id",
+            "type": "integer",
+            "description": "supersedes id (claims)."
+          },
+          {
+            "name": "superseded_by",
+            "type": "string",
+            "description": "superseded by (claims)."
+          },
+          {
+            "name": "supersede_reason",
+            "type": "string",
+            "description": "supersede reason (claims)."
+          },
+          {
+            "name": "batch_label",
+            "type": "string",
+            "description": "batch label (claims)."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "source_id"
+            ],
+            "reference": {
+              "resource": "sources",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "tactics",
+      "path": "data/tactics.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "The fixed taxonomy of tactics governments use against journalists, with a plain definition of each.",
+      "schema": {
+        "fields": [
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "name (tactics)."
+          },
+          {
+            "name": "definition",
+            "type": "string",
+            "description": "definition (tactics)."
+          },
+          {
+            "name": "first_recorded_on",
+            "type": "string",
+            "description": "first recorded on (tactics)."
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "description": "notes (tactics)."
+          },
+          {
+            "name": "sort",
+            "type": "integer",
+            "description": "sort (tactics)."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "slug"
+        ]
+      }
+    },
+    {
+      "name": "countries",
+      "path": "data/countries.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "ISO 3166-1 countries with continent, UN M49 region and the latest RSF World Press Freedom Index rank where recorded.",
+      "schema": {
+        "fields": [
+          {
+            "name": "iso2",
+            "type": "string",
+            "description": "iso2 (countries)."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "name (countries)."
+          },
+          {
+            "name": "continent",
+            "type": "string",
+            "description": "continent (countries)."
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "region (countries)."
+          },
+          {
+            "name": "press_freedom_rank_latest",
+            "type": "string",
+            "description": "press freedom rank latest (countries)."
+          },
+          {
+            "name": "press_freedom_rank_year",
+            "type": "string",
+            "description": "press freedom rank year (countries)."
+          },
+          {
+            "name": "press_freedom_source_url",
+            "type": "string",
+            "description": "press freedom source url (countries)."
+          },
+          {
+            "name": "press_freedom_source_id",
+            "type": "integer",
+            "description": "press freedom source id (countries)."
+          },
+          {
+            "name": "notes",
+            "type": "string",
+            "description": "notes (countries)."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "iso2"
+        ]
+      }
+    },
+    {
+      "name": "incident_tactics",
+      "path": "data/incident_tactics.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "The tactics each incident used; is_primary marks the main one.",
+      "schema": {
+        "fields": [
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (incident_tactics)."
+          },
+          {
+            "name": "tactic_slug",
+            "type": "string",
+            "description": "tactic slug (incident_tactics)."
+          },
+          {
+            "name": "is_primary",
+            "type": "string",
+            "description": "is primary (incident_tactics)."
+          }
+        ],
+        "primaryKey": [
+          "incident_id",
+          "tactic_slug"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "coverage_items",
+      "path": "data/coverage_items.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Recent coverage: links to reporting from the last 60 days, with the automated relevance score and tactic and country guesses. Headlines and summaries belong to their publishers.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "url (coverage_items)."
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "title (coverage_items)."
+          },
+          {
+            "name": "publisher",
+            "type": "string",
+            "description": "publisher (coverage_items)."
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "summary",
+            "type": "string",
+            "description": "Direct answer to what happened, with {c:ID} claim references."
+          },
+          {
+            "name": "jev_in_scope",
+            "type": "string",
+            "description": "jev in scope (coverage_items)."
+          },
+          {
+            "name": "jev_model",
+            "type": "string",
+            "description": "jev model (coverage_items)."
+          },
+          {
+            "name": "tactic_guess",
+            "type": "string",
+            "description": "tactic guess (coverage_items)."
+          },
+          {
+            "name": "tactic_confidence",
+            "type": "string",
+            "description": "tactic confidence (coverage_items)."
+          },
+          {
+            "name": "country_guess",
+            "type": "string",
+            "description": "country guess (coverage_items)."
+          },
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (coverage_items)."
+          },
+          {
+            "name": "fetched_at",
+            "type": "string",
+            "description": "fetched at (coverage_items)."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "explainers",
+      "path": "data/explainers.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Explainer articles.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "title (explainers)."
+          },
+          {
+            "name": "dek",
+            "type": "string",
+            "description": "dek (explainers)."
+          },
+          {
+            "name": "body_md",
+            "type": "string",
+            "description": "body md (explainers)."
+          },
+          {
+            "name": "target_keyword",
+            "type": "string",
+            "description": "target keyword (explainers)."
+          },
+          {
+            "name": "surfer_score",
+            "type": "integer",
+            "description": "surfer score (explainers)."
+          },
+          {
+            "name": "surfer_exception",
+            "type": "integer",
+            "description": "surfer exception (explainers)."
+          },
+          {
+            "name": "word_count",
+            "type": "integer",
+            "description": "word count (explainers)."
+          },
+          {
+            "name": "illustration_key",
+            "type": "string",
+            "description": "illustration key (explainers)."
+          },
+          {
+            "name": "unknowns",
+            "type": "string",
+            "description": "What the record does not establish, stated in terms of the record."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "reviewed_on",
+            "type": "date",
+            "description": "Date of the last full review against sources."
+          },
+          {
+            "name": "next_review_on",
+            "type": "date",
+            "description": "Date the next full review is due."
+          },
+          {
+            "name": "revision",
+            "type": "integer",
+            "description": "Revision number; every prose change appends a revision."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "glossary_terms",
+      "path": "data/glossary_terms.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Glossary terms and definitions.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "URL identifier; the record lives at https://thewaronnews.com/<section>/<slug>."
+          },
+          {
+            "name": "term",
+            "type": "string",
+            "description": "term (glossary_terms)."
+          },
+          {
+            "name": "definition",
+            "type": "string",
+            "description": "definition (glossary_terms)."
+          },
+          {
+            "name": "body_md",
+            "type": "string",
+            "description": "body md (glossary_terms)."
+          },
+          {
+            "name": "see_also",
+            "type": "string",
+            "description": "see also (glossary_terms)."
+          },
+          {
+            "name": "pub_state",
+            "type": "string",
+            "description": "draft, published or withdrawn. Withdrawn rows keep identity fields; prose is null.",
+            "constraints": {
+              "enum": [
+                "published",
+                "withdrawn"
+              ]
+            }
+          },
+          {
+            "name": "published_at",
+            "type": "datetime",
+            "description": "UTC timestamp of first publication."
+          },
+          {
+            "name": "reviewed_on",
+            "type": "date",
+            "description": "Date of the last full review against sources."
+          },
+          {
+            "name": "revision",
+            "type": "integer",
+            "description": "Revision number; every prose change appends a revision."
+          },
+          {
+            "name": "created_at",
+            "type": "datetime",
+            "description": "UTC timestamp the row was created."
+          },
+          {
+            "name": "updated_at",
+            "type": "datetime",
+            "description": "UTC timestamp of the last content change."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "incident_actors",
+      "path": "data/incident_actors.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Which actors took part in which incidents, and in what role.",
+      "schema": {
+        "fields": [
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (incident_actors)."
+          },
+          {
+            "name": "actor_id",
+            "type": "integer",
+            "description": "actor id (incident_actors)."
+          },
+          {
+            "name": "role",
+            "type": "string",
+            "description": "role (incident_actors).",
+            "constraints": {
+              "enum": [
+                "ordered",
+                "announced",
+                "implemented",
+                "enforced",
+                "defended",
+                "legislated",
+                "ruled",
+                "other"
+              ]
+            }
+          },
+          {
+            "name": "role_at_time",
+            "type": "string",
+            "description": "role at time (incident_actors)."
+          }
+        ],
+        "primaryKey": [
+          "incident_id",
+          "actor_id",
+          "role"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "actor_id"
+            ],
+            "reference": {
+              "resource": "actors",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "incident_outlets",
+      "path": "data/incident_outlets.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Outlets affected by or party to incidents.",
+      "schema": {
+        "fields": [
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (incident_outlets)."
+          },
+          {
+            "name": "outlet_id",
+            "type": "integer",
+            "description": "outlet id (incident_outlets)."
+          },
+          {
+            "name": "relation",
+            "type": "string",
+            "description": "relation (incident_outlets).",
+            "constraints": {
+              "enum": [
+                "affected",
+                "plaintiff",
+                "intervenor"
+              ]
+            }
+          }
+        ],
+        "primaryKey": [
+          "incident_id",
+          "outlet_id",
+          "relation"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "outlet_id"
+            ],
+            "reference": {
+              "resource": "outlets",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "incident_journalists",
+      "path": "data/incident_journalists.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Journalists affected by or party to incidents.",
+      "schema": {
+        "fields": [
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (incident_journalists)."
+          },
+          {
+            "name": "journalist_id",
+            "type": "integer",
+            "description": "journalist id (incident_journalists)."
+          },
+          {
+            "name": "outlet_id_at_time",
+            "type": "string",
+            "description": "outlet id at time (incident_journalists)."
+          },
+          {
+            "name": "relation",
+            "type": "string",
+            "description": "relation (incident_journalists).",
+            "constraints": {
+              "enum": [
+                "affected",
+                "plaintiff"
+              ]
+            }
+          }
+        ],
+        "primaryKey": [
+          "incident_id",
+          "journalist_id",
+          "relation"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "journalist_id"
+            ],
+            "reference": {
+              "resource": "journalists",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "incident_cases",
+      "path": "data/incident_cases.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Cases arising from incidents or cited as precedent.",
+      "schema": {
+        "fields": [
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (incident_cases)."
+          },
+          {
+            "name": "case_id",
+            "type": "integer",
+            "description": "case id (incident_cases)."
+          },
+          {
+            "name": "relation",
+            "type": "string",
+            "description": "relation (incident_cases).",
+            "constraints": {
+              "enum": [
+                "arising_from",
+                "precedent_cited"
+              ]
+            }
+          }
+        ],
+        "primaryKey": [
+          "incident_id",
+          "case_id",
+          "relation"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "case_id"
+            ],
+            "reference": {
+              "resource": "cases",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "incident_sources",
+      "path": "data/incident_sources.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Sources cited by each incident.",
+      "schema": {
+        "fields": [
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (incident_sources)."
+          },
+          {
+            "name": "source_id",
+            "type": "integer",
+            "description": "sources.id the claim or note rests on."
+          },
+          {
+            "name": "role",
+            "type": "string",
+            "description": "role (incident_sources).",
+            "constraints": {
+              "enum": [
+                "primary",
+                "reporting",
+                "background"
+              ]
+            }
+          },
+          {
+            "name": "sort",
+            "type": "integer",
+            "description": "sort (incident_sources)."
+          }
+        ],
+        "primaryKey": [
+          "incident_id",
+          "source_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "source_id"
+            ],
+            "reference": {
+              "resource": "sources",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "incident_related",
+      "path": "data/incident_related.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Links between related incidents.",
+      "schema": {
+        "fields": [
+          {
+            "name": "incident_id",
+            "type": "integer",
+            "description": "incident id (incident_related)."
+          },
+          {
+            "name": "related_id",
+            "type": "integer",
+            "description": "related id (incident_related)."
+          },
+          {
+            "name": "relation",
+            "type": "string",
+            "description": "relation (incident_related).",
+            "constraints": {
+              "enum": [
+                "precedent",
+                "follow_on",
+                "parallel"
+              ]
+            }
+          }
+        ],
+        "primaryKey": [
+          "incident_id",
+          "related_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "incident_id"
+            ],
+            "reference": {
+              "resource": "incidents",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "case_parties",
+      "path": "data/case_parties.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Parties to each case.",
+      "schema": {
+        "fields": [
+          {
+            "name": "case_id",
+            "type": "integer",
+            "description": "case id (case_parties)."
+          },
+          {
+            "name": "party_type",
+            "type": "string",
+            "description": "party type (case_parties).",
+            "constraints": {
+              "enum": [
+                "actor",
+                "outlet",
+                "journalist"
+              ]
+            }
+          },
+          {
+            "name": "party_id",
+            "type": "integer",
+            "description": "party id (case_parties)."
+          },
+          {
+            "name": "side",
+            "type": "string",
+            "description": "side (case_parties).",
+            "constraints": {
+              "enum": [
+                "plaintiff",
+                "defendant",
+                "appellant",
+                "appellee",
+                "intervenor",
+                "amicus"
+              ]
+            }
+          }
+        ],
+        "primaryKey": [
+          "case_id",
+          "party_type",
+          "party_id",
+          "side"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "case_id"
+            ],
+            "reference": {
+              "resource": "cases",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "case_sources",
+      "path": "data/case_sources.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Court documents and reporting for each case.",
+      "schema": {
+        "fields": [
+          {
+            "name": "case_id",
+            "type": "integer",
+            "description": "case id (case_sources)."
+          },
+          {
+            "name": "source_id",
+            "type": "integer",
+            "description": "sources.id the claim or note rests on."
+          },
+          {
+            "name": "role",
+            "type": "string",
+            "description": "role (case_sources).",
+            "constraints": {
+              "enum": [
+                "complaint",
+                "opinion",
+                "order",
+                "docket",
+                "brief",
+                "reporting"
+              ]
+            }
+          }
+        ],
+        "primaryKey": [
+          "case_id",
+          "source_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "case_id"
+            ],
+            "reference": {
+              "resource": "cases",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "source_id"
+            ],
+            "reference": {
+              "resource": "sources",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "explainer_sources",
+      "path": "data/explainer_sources.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Sources cited by explainers.",
+      "schema": {
+        "fields": [
+          {
+            "name": "explainer_id",
+            "type": "integer",
+            "description": "explainer id (explainer_sources)."
+          },
+          {
+            "name": "source_id",
+            "type": "integer",
+            "description": "sources.id the claim or note rests on."
+          },
+          {
+            "name": "sort",
+            "type": "integer",
+            "description": "sort (explainer_sources)."
+          }
+        ],
+        "primaryKey": [
+          "explainer_id",
+          "source_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "explainer_id"
+            ],
+            "reference": {
+              "resource": "explainers",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "source_id"
+            ],
+            "reference": {
+              "resource": "sources",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "glossary_sources",
+      "path": "data/glossary_sources.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Sources for glossary terms.",
+      "schema": {
+        "fields": [
+          {
+            "name": "term_id",
+            "type": "integer",
+            "description": "term id (glossary_sources)."
+          },
+          {
+            "name": "source_id",
+            "type": "integer",
+            "description": "sources.id the claim or note rests on."
+          }
+        ],
+        "primaryKey": [
+          "term_id",
+          "source_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "term_id"
+            ],
+            "reference": {
+              "resource": "glossary_terms",
+              "fields": [
+                "id"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "source_id"
+            ],
+            "reference": {
+              "resource": "sources",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "changes",
+      "path": "data/changes.csv",
+      "type": "table",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "The public ledger of new, superseded, disputed and retired claims, publications, revisions, withdrawals, reverted notes and link-state changes.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable numeric identifier."
+          },
+          {
+            "name": "changed_at",
+            "type": "datetime",
+            "description": "changed at (changes)."
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "kind (changes)."
+          },
+          {
+            "name": "record_type",
+            "type": "string",
+            "description": "record type (changes)."
+          },
+          {
+            "name": "record_id",
+            "type": "integer",
+            "description": "record id (changes)."
+          },
+          {
+            "name": "claim_id",
+            "type": "integer",
+            "description": "claim id (changes)."
+          },
+          {
+            "name": "old_value",
+            "type": "string",
+            "description": "old value (changes)."
+          },
+          {
+            "name": "new_value",
+            "type": "string",
+            "description": "new value (changes)."
+          },
+          {
+            "name": "reason",
+            "type": "string",
+            "description": "reason (changes)."
+          },
+          {
+            "name": "is_correction",
+            "type": "integer",
+            "description": "is correction (changes)."
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    }
+  ]
+}

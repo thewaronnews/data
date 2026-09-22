@@ -1,0 +1,7 @@
+id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub_state,created_at
+1,1,,2026-09-18,day,announcement,"Trump announces CNN, MS NOW and Politico will be banned from the White House",1,published,2026-09-22T20:47:52Z
+2,1,,2026-09-19,day,action,Secret Service deactivates the three outlets' hard passes; reporters denied entry,3,published,2026-09-22T20:47:53Z
+3,1,,2026-09-19,day,statement,"WHCA statement on the White House's position on CNN, MS NOW and Politico",90,published,2026-09-22T20:47:54Z
+4,1,,2026-09-20,day,action,Other pool networks decline to fill CNN's vacated rotating pool slot,91,published,2026-09-22T20:47:54Z
+5,1,,2026-09-21,day,filing,"CNN, MS NOW and Politico file suit against Trump and the White House",4,published,2026-09-22T20:47:55Z
+6,1,,2026-09-23,day,hearing,"Hearing scheduled in Cable News Network, Inc. v. Trump",92,published,2026-09-22T20:47:55Z

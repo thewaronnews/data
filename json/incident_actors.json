@@ -1,0 +1,266 @@
+[
+  {
+    "incident_id": 1,
+    "actor_id": 1,
+    "role": "announced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 1,
+    "actor_id": 2,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 1,
+    "actor_id": 3,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 1,
+    "actor_id": 4,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 2,
+    "actor_id": 12,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 2,
+    "actor_id": 13,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 3,
+    "actor_id": 1,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 3,
+    "actor_id": 2,
+    "role": "announced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 3,
+    "actor_id": 3,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 3,
+    "actor_id": 5,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 4,
+    "actor_id": 14,
+    "role": "announced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 4,
+    "actor_id": 15,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 5,
+    "actor_id": 1,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 6,
+    "actor_id": 1,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 6,
+    "actor_id": 18,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 6,
+    "actor_id": 19,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 7,
+    "actor_id": 16,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 7,
+    "actor_id": 17,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 8,
+    "actor_id": 1,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 8,
+    "actor_id": 8,
+    "role": "ruled",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 9,
+    "actor_id": 20,
+    "role": "legislated",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 10,
+    "actor_id": 22,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 11,
+    "actor_id": 29,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 12,
+    "actor_id": 1,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 12,
+    "actor_id": 2,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 12,
+    "actor_id": 6,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 13,
+    "actor_id": 12,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 13,
+    "actor_id": 13,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 14,
+    "actor_id": 1,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 14,
+    "actor_id": 35,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 15,
+    "actor_id": 20,
+    "role": "defended",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 15,
+    "actor_id": 21,
+    "role": "ruled",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 16,
+    "actor_id": 23,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 16,
+    "actor_id": 24,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 17,
+    "actor_id": 17,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 17,
+    "actor_id": 25,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 18,
+    "actor_id": 26,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 18,
+    "actor_id": 27,
+    "role": "legislated",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 19,
+    "actor_id": 28,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 20,
+    "actor_id": 30,
+    "role": "legislated",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 20,
+    "actor_id": 31,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 21,
+    "actor_id": 32,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 22,
+    "actor_id": 33,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 23,
+    "actor_id": 34,
+    "role": "enforced",
+    "role_at_time": null
+  }
+]

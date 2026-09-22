@@ -1,0 +1,40 @@
+id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end,official_url,wikidata_qid,unknowns,pub_state,published_at,reviewed_on,next_review_on,revision,created_at,updated_at
+1,donald-trump,Donald Trump,person,,President of the United States,,US,US,,,,,,published,2026-09-22T19:59:56Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:55Z,2026-09-22T21:25:38Z
+2,white-house-press-office,White House Press Office,body,executive_office,Office of the White House Press Secretary,,US,US,,,,,,published,2026-09-22T19:59:57Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:56Z,2026-09-22T21:25:40Z
+3,white-house-correspondents-association,White House Correspondents' Association,body,other,Professional association of accredited White House reporters,,US,US,,,,,,published,2026-09-22T19:59:59Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:58Z,2026-09-22T21:25:41Z
+4,jacqui-heinrich,Jacqui Heinrich,person,,"President, White House Correspondents' Association (2026)",,US,US,,,,,,published,2026-09-22T20:00:01Z,2026-09-22,2026-12-22,9,2026-09-22T20:00:00Z,2026-09-22T21:25:43Z
+5,eugene-daniels,Eugene Daniels,person,,"President, White House Correspondents' Association (2025)",,US,US,,,,,,published,2026-09-22T20:00:06Z,2026-09-22,2026-12-22,9,2026-09-22T20:00:05Z,2026-09-22T21:25:44Z
+6,taylor-budowich,Taylor Budowich,person,,White House Deputy Chief of Staff for Communications,,US,US,,,,,,published,2026-09-22T20:00:08Z,2026-09-22,2026-12-22,9,2026-09-22T20:00:07Z,2026-09-22T21:25:45Z
+7,trevor-mcfadden,Trevor N. McFadden,body,court,"Judge, U.S. District Court for the District of Columbia",,US,US,,,,,,published,2026-09-22T20:00:09Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:08Z,2026-09-22T21:25:47Z
+8,timothy-j-kelly,Timothy J. Kelly,body,court,"Judge, U.S. District Court for the District of Columbia",,US,US,,,,,,published,2026-09-22T20:00:11Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:10Z,2026-09-22T21:25:48Z
+9,cornelia-pillard,Cornelia Pillard,body,court,"Judge, U.S. Court of Appeals for the D.C. Circuit",,US,US,,,,,,published,2026-09-22T20:00:13Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:12Z,2026-09-22T21:25:50Z
+10,gregory-katsas,Gregory G. Katsas,body,court,"Judge, U.S. Court of Appeals for the D.C. Circuit",,US,US,,,,,,published,2026-09-22T20:00:14Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:14Z,2026-09-22T21:25:51Z
+11,neomi-rao,Neomi Rao,body,court,"Judge, U.S. Court of Appeals for the D.C. Circuit",,US,US,,,,,,published,2026-09-22T20:00:16Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:15Z,2026-09-22T21:25:53Z
+12,pete-hegseth,Pete Hegseth,person,,United States Secretary of Defense,,US,US,,,,,,published,2026-09-22T20:00:18Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:17Z,2026-09-22T21:25:55Z
+13,us-department-of-defense,United States Department of Defense,body,agency,Federal executive department,,US,US,,,,,,published,2026-09-22T20:00:19Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:19Z,2026-09-22T21:25:56Z
+14,brendan-carr,Brendan Carr,person,,"Chair, Federal Communications Commission",,US,US,,,,,,published,2026-09-22T20:00:21Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:20Z,2026-09-22T21:25:58Z
+15,federal-communications-commission,Federal Communications Commission,body,agency,Independent federal regulatory agency,,US,US,,,,,,published,2026-09-22T20:00:22Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:22Z,2026-09-22T21:25:59Z
+16,pam-bondi,Pam Bondi,person,,Attorney General of the United States,,US,US,,,,,,published,2026-09-22T20:00:24Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:23Z,2026-09-22T21:26:01Z
+17,us-department-of-justice,United States Department of Justice,body,agency,Federal executive department,,US,US,,,,,,published,2026-09-22T20:00:26Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:25Z,2026-09-22T21:26:02Z
+18,kari-lake,Kari Lake,person,,"Senior Advisor, U.S. Agency for Global Media",,US,US,,,,,,published,2026-09-22T20:00:27Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:26Z,2026-09-22T21:26:04Z
+19,us-agency-for-global-media,U.S. Agency for Global Media,body,agency,Federal agency overseeing Voice of America,,US,US,,,,,,published,2026-09-22T20:00:29Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:28Z,2026-09-22T21:26:06Z
+20,louisiana-legislature,Louisiana Legislature,body,legislature,State legislature,,US-LA,US,,,,,,published,2026-09-22T20:00:30Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:29Z,2026-09-22T21:26:07Z
+21,john-w-degravelles,John W. deGravelles,body,court,"Judge, U.S. District Court for the Middle District of Louisiana",,US-LA,US,,,,,,published,2026-09-22T20:00:32Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:31Z,2026-09-22T21:26:09Z
+22,ron-desantis,Ron DeSantis,person,,Governor of Florida,,US-FL,US,,,,,,published,2026-09-22T20:00:33Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:32Z,2026-09-22T21:26:11Z
+23,richard-nixon,Richard Nixon,person,,President of the United States (1969-1974),,US,US,,,,,,published,2026-09-22T20:00:35Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:34Z,2026-09-22T21:26:12Z
+24,charles-colson,Charles Colson,person,,Special Counsel to the President (Nixon administration),,US,US,,,,,,published,2026-09-22T20:00:46Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:45Z,2026-09-22T21:26:14Z
+25,barack-obama,Barack Obama,person,,President of the United States (2009-2017),,US,US,,,,,,published,2026-09-22T20:00:47Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:46Z,2026-09-22T21:26:15Z
+26,viktor-orban,Viktor Orban,person,,Prime Minister of Hungary (through 2026),,HU,HU,,,,,,published,2026-09-22T20:00:49Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:48Z,2026-09-22T21:26:17Z
+27,hungarian-national-assembly,National Assembly of Hungary,body,legislature,National legislature,,HU,HU,,,,,,published,2026-09-22T20:00:50Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:50Z,2026-09-22T21:26:18Z
+28,adani-group,Adani Group,body,other,Private conglomerate; complainant in defamation proceedings against a journalist,,IN,IN,,,,,,published,2026-09-22T20:00:58Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:57Z,2026-09-22T21:26:20Z
+29,government-of-israel,Government of Israel,body,other,National government,,IL,IL,,,,,,published,2026-09-22T20:01:00Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:59Z,2026-09-22T21:26:21Z
+30,state-duma,State Duma of Russia,body,legislature,Lower house of the Federal Assembly of Russia,,RU,RU,,,,,,published,2026-09-22T20:01:01Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:00Z,2026-09-22T21:26:23Z
+31,vladimir-putin,Vladimir Putin,person,,President of Russia,,RU,RU,,,,,,published,2026-09-22T20:01:03Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:02Z,2026-09-22T21:26:24Z
+32,nayib-bukele,Nayib Bukele,person,,President of El Salvador,,SV,SV,,,,,,published,2026-09-22T20:01:04Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:04Z,2026-09-22T21:26:25Z
+33,hong-kong-department-of-justice,Hong Kong Department of Justice,body,agency,"Prosecuting authority, Hong Kong Special Administrative Region",,HK,HK,,,,,,published,2026-09-22T20:01:06Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:05Z,2026-09-22T21:26:27Z
+34,government-of-turkiye,Government of Turkiye,body,other,National government,,TR,TR,,,,,,published,2026-09-22T20:01:11Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:10Z,2026-09-22T21:26:29Z
+35,congress-of-the-united-states,United States Congress,body,legislature,Federal legislature,,US,US,,,,,,published,2026-09-22T20:01:12Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:11Z,2026-09-22T21:26:30Z
+36,jeff-landry,Jeff Landry,person,,Governor of Louisiana,,US-LA,US,,,,,,published,2026-09-22T22:29:59Z,2026-09-22,2026-12-22,1,2026-09-22T22:29:58Z,2026-09-22T22:29:59Z
+37,narendra-modi,Narendra Modi,person,,Prime Minister of India,,IN,IN,,,,,,published,2026-09-22T22:30:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:00Z,2026-09-22T22:30:01Z
+38,recep-tayyip-erdogan,Recep Tayyip Erdoğan,person,,President of Türkiye,,TR,TR,,,,,,published,2026-09-22T22:30:02Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:01Z,2026-09-22T22:30:02Z
+39,john-lee,John Lee,person,,Chief Executive of Hong Kong (from July 2022),,HK,HK,,,,,,published,2026-09-22T22:30:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:03Z,2026-09-22T22:30:04Z

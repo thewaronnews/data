@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "The War On News"
+type: dataset
+authors:
+  - name: "Peter Benes"
+version: "2026.09.22"
+date-released: "2026-09-22"
+url: "https://thewaronnews.com"
+license: CC-BY-4.0
