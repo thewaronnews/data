@@ -112,12 +112,12 @@
     "name": "Argentina",
     "continent": "south-america",
     "region": "South America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 98,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:44Z"
   },
   {
     "iso2": "AS",
@@ -148,12 +148,12 @@
     "name": "Australia",
     "continent": "oceania",
     "region": "Australia and New Zealand",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 33,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:45Z"
   },
   {
     "iso2": "AW",
@@ -220,12 +220,12 @@
     "name": "Bangladesh",
     "continent": "asia",
     "region": "Southern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 152,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:47Z"
   },
   {
     "iso2": "BE",
@@ -364,12 +364,12 @@
     "name": "Brazil",
     "continent": "south-america",
     "region": "South America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 52,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:48Z"
   },
   {
     "iso2": "BS",
@@ -424,12 +424,12 @@
     "name": "Belarus",
     "continent": "europe",
     "region": "Eastern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 165,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:49Z"
   },
   {
     "iso2": "BZ",
@@ -448,12 +448,12 @@
     "name": "Canada",
     "continent": "north-america",
     "region": "Northern America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 20,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:50Z"
   },
   {
     "iso2": "CC",
@@ -544,12 +544,12 @@
     "name": "Chile",
     "continent": "south-america",
     "region": "South America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 70,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:51Z"
   },
   {
     "iso2": "CM",
@@ -568,12 +568,12 @@
     "name": "China",
     "continent": "asia",
     "region": "Eastern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 178,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:53Z"
   },
   {
     "iso2": "CO",
@@ -664,24 +664,24 @@
     "name": "Czechia",
     "continent": "europe",
     "region": "Eastern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 11,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/country-czechia",
+    "press_freedom_source_id": 329,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:39Z"
   },
   {
     "iso2": "DE",
     "name": "Germany",
     "continent": "europe",
     "region": "Western Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 14,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:54Z"
   },
   {
     "iso2": "DJ",
@@ -748,12 +748,12 @@
     "name": "Ecuador",
     "continent": "south-america",
     "region": "South America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 125,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:55Z"
   },
   {
     "iso2": "EE",
@@ -772,12 +772,12 @@
     "name": "Egypt",
     "continent": "africa",
     "region": "Northern Africa",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 169,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:56Z"
   },
   {
     "iso2": "EH",
@@ -808,24 +808,24 @@
     "name": "Spain",
     "continent": "europe",
     "region": "Southern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 29,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:57Z"
   },
   {
     "iso2": "ET",
     "name": "Ethiopia",
     "continent": "africa",
     "region": "Eastern Africa",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 148,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:13:59Z"
   },
   {
     "iso2": "FI",
@@ -916,12 +916,12 @@
     "name": "United Kingdom",
     "continent": "europe",
     "region": "Northern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 18,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:00Z"
   },
   {
     "iso2": "GD",
@@ -940,12 +940,12 @@
     "name": "Georgia",
     "continent": "asia",
     "region": "Western Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 135,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:01Z"
   },
   {
     "iso2": "GF",
@@ -1084,12 +1084,12 @@
     "name": "Guatemala",
     "continent": "north-america",
     "region": "Central America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 128,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:02Z"
   },
   {
     "iso2": "GU",
@@ -1132,12 +1132,12 @@
     "name": "Hong Kong",
     "continent": "asia",
     "region": "Eastern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 140,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:04Z"
   },
   {
     "iso2": "HM",
@@ -1180,24 +1180,24 @@
     "name": "Haiti",
     "continent": "north-america",
     "region": "Caribbean",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 107,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:05Z"
   },
   {
     "iso2": "HU",
     "name": "Hungary",
     "continent": "europe",
     "region": "Eastern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 74,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:06Z"
   },
   {
     "iso2": "ID",
@@ -1228,12 +1228,12 @@
     "name": "Israel",
     "continent": "asia",
     "region": "Western Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 116,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:07Z"
   },
   {
     "iso2": "IM",
@@ -1252,12 +1252,12 @@
     "name": "India",
     "continent": "asia",
     "region": "Southern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 157,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:09Z"
   },
   {
     "iso2": "IO",
@@ -1288,12 +1288,12 @@
     "name": "Iran",
     "continent": "asia",
     "region": "Southern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 177,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:10Z"
   },
   {
     "iso2": "IS",
@@ -1396,12 +1396,12 @@
     "name": "Cambodia",
     "continent": "asia",
     "region": "South-eastern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 151,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:11Z"
   },
   {
     "iso2": "KI",
@@ -1456,12 +1456,12 @@
     "name": "South Korea",
     "continent": "asia",
     "region": "Eastern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 47,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:13Z"
   },
   {
     "iso2": "KW",
@@ -1744,12 +1744,12 @@
     "name": "Myanmar",
     "continent": "asia",
     "region": "South-eastern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 166,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:14Z"
   },
   {
     "iso2": "MN",
@@ -1888,12 +1888,12 @@
     "name": "Malaysia",
     "continent": "asia",
     "region": "South-eastern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 95,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:15Z"
   },
   {
     "iso2": "MZ",
@@ -1960,24 +1960,24 @@
     "name": "Nigeria",
     "continent": "africa",
     "region": "Western Africa",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 112,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:16Z"
   },
   {
     "iso2": "NI",
     "name": "Nicaragua",
     "continent": "north-america",
     "region": "Central America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 168,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:18Z"
   },
   {
     "iso2": "NL",
@@ -2116,36 +2116,36 @@
     "name": "Philippines",
     "continent": "asia",
     "region": "South-eastern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 114,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:19Z"
   },
   {
     "iso2": "PK",
     "name": "Pakistan",
     "continent": "asia",
     "region": "Southern Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 153,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:20Z"
   },
   {
     "iso2": "PL",
     "name": "Poland",
     "continent": "europe",
     "region": "Eastern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 27,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:21Z"
   },
   {
     "iso2": "PM",
@@ -2200,12 +2200,12 @@
     "name": "Portugal",
     "continent": "europe",
     "region": "Southern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 10,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:23Z"
   },
   {
     "iso2": "PW",
@@ -2272,24 +2272,24 @@
     "name": "Serbia",
     "continent": "europe",
     "region": "Southern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 104,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:24Z"
   },
   {
     "iso2": "RU",
     "name": "Russia",
     "continent": "europe",
     "region": "Eastern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 172,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:25Z"
   },
   {
     "iso2": "RW",
@@ -2308,12 +2308,12 @@
     "name": "Saudi Arabia",
     "continent": "asia",
     "region": "Western Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 176,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:26Z"
   },
   {
     "iso2": "SB",
@@ -2416,12 +2416,12 @@
     "name": "Slovakia",
     "continent": "europe",
     "region": "Eastern Europe",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 37,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:28Z"
   },
   {
     "iso2": "SL",
@@ -2512,12 +2512,12 @@
     "name": "El Salvador",
     "continent": "north-america",
     "region": "Central America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 143,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/country/el-salvador",
+    "press_freedom_source_id": 328,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:38Z"
   },
   {
     "iso2": "SX",
@@ -2668,12 +2668,12 @@
     "name": "Tunisia",
     "continent": "africa",
     "region": "Northern Africa",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 137,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:29Z"
   },
   {
     "iso2": "TO",
@@ -2692,12 +2692,12 @@
     "name": "Türkiye",
     "continent": "asia",
     "region": "Western Asia",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 163,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:30Z"
   },
   {
     "iso2": "TT",
@@ -2740,12 +2740,12 @@
     "name": "Tanzania",
     "continent": "africa",
     "region": "Eastern Africa",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 117,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:32Z"
   },
   {
     "iso2": "UA",
@@ -2788,12 +2788,12 @@
     "name": "United States",
     "continent": "north-america",
     "region": "Northern America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 64,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:33Z"
   },
   {
     "iso2": "UY",
@@ -2848,12 +2848,12 @@
     "name": "Venezuela",
     "continent": "south-america",
     "region": "South America",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 159,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:34Z"
   },
   {
     "iso2": "VG",
@@ -2968,12 +2968,12 @@
     "name": "South Africa",
     "continent": "africa",
     "region": "Southern Africa",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 21,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:35Z"
   },
   {
     "iso2": "ZM",
@@ -2992,11 +2992,11 @@
     "name": "Zimbabwe",
     "continent": "africa",
     "region": "Eastern Africa",
-    "press_freedom_rank_latest": null,
-    "press_freedom_rank_year": null,
-    "press_freedom_source_url": null,
-    "press_freedom_source_id": null,
+    "press_freedom_rank_latest": 124,
+    "press_freedom_rank_year": 2026,
+    "press_freedom_source_url": "https://rsf.org/en/index",
+    "press_freedom_source_id": 327,
     "notes": null,
-    "updated_at": null
+    "updated_at": "2026-09-23T00:14:37Z"
   }
 ]

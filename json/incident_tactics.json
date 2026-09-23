@@ -1078,5 +1078,315 @@
     "incident_id": 129,
     "tactic_slug": "secrets_and_espionage_laws",
     "is_primary": 1
+  },
+  {
+    "incident_id": 130,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 131,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 132,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 133,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 134,
+    "tactic_slug": "access_ban",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 135,
+    "tactic_slug": "credential_control",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 136,
+    "tactic_slug": "credential_control",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 137,
+    "tactic_slug": "credential_control",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 138,
+    "tactic_slug": "credential_control",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 139,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 140,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 141,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 142,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 143,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 144,
+    "tactic_slug": "outlet_licensing",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 145,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 146,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 147,
+    "tactic_slug": "prior_restraint",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 148,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 149,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 150,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 151,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 152,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 153,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 154,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 155,
+    "tactic_slug": "insult_and_defamation_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 156,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 157,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 158,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 159,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 160,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 161,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 162,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 163,
+    "tactic_slug": "funding_and_ownership_pressure",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 164,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 165,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 166,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 167,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 168,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 169,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 170,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 171,
+    "tactic_slug": "shutdowns_and_blocking",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 172,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 173,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 174,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 175,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 176,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 177,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 178,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 179,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 180,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 181,
+    "tactic_slug": "lawsuits_against_press",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 182,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 183,
+    "tactic_slug": "secrets_and_espionage_laws",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 184,
+    "tactic_slug": "surveillance_and_subpoenas",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 185,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 186,
+    "tactic_slug": "expulsion_and_visa_denial",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 187,
+    "tactic_slug": "detention_and_violence",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 188,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 189,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 190,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
+  },
+  {
+    "incident_id": 191,
+    "tactic_slug": "disinformation_labeling",
+    "is_primary": 1
   }
 ]

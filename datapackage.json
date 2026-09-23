@@ -4,8 +4,8 @@
   "title": "The War On News",
   "description": "How governments have limited journalists, 1900 to today. The public record of https://thewaronnews.com: incidents, events, actors, outlets, journalists, cases, sources, claims, tactics, countries, recent coverage, explainers, glossary terms, their join tables and the change ledger.",
   "homepage": "https://thewaronnews.com",
-  "version": "2026.09.22",
-  "created": "2026-09-22T23:22:47Z",
+  "version": "2026.09.23",
+  "created": "2026-09-23T01:49:27Z",
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -284,6 +284,25 @@
             "name": "updated_at",
             "type": "datetime",
             "description": "UTC timestamp of the last content change."
+          },
+          {
+            "name": "stage",
+            "type": "string",
+            "description": "stage (incidents).",
+            "constraints": {
+              "enum": [
+                "restrict",
+                "pressure",
+                "punish",
+                "silence",
+                "eliminate"
+              ]
+            }
+          },
+          {
+            "name": "ladder_note",
+            "type": "string",
+            "description": "ladder note (incidents)."
           }
         ],
         "primaryKey": [

@@ -11,35 +11,35 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 - `json/<table>.json`: the same rows as JSON.
 - `snapshots/YYYY-MM-DD/`: weekly snapshots (Sundays and on schema change).
 
-## Tables (export of 2026-09-22)
+## Tables (export of 2026-09-23)
 
 | Table | Rows |
 | --- | --- |
-| incidents | 128 |
+| incidents | 190 |
 | events | 6 |
-| actors | 211 |
-| outlets | 58 |
-| journalists | 22 |
+| actors | 243 |
+| outlets | 111 |
+| journalists | 79 |
 | cases | 4 |
-| sources | 326 |
-| claims | 484 |
+| sources | 403 |
+| claims | 698 |
 | tactics | 13 |
 | countries | 250 |
-| incident_tactics | 216 |
+| incident_tactics | 278 |
 | coverage_items | 17 |
 | explainers | 0 |
 | glossary_terms | 67 |
-| incident_actors | 266 |
-| incident_outlets | 87 |
-| incident_journalists | 22 |
+| incident_actors | 344 |
+| incident_outlets | 161 |
+| incident_journalists | 84 |
 | incident_cases | 5 |
-| incident_sources | 260 |
+| incident_sources | 341 |
 | incident_related | 0 |
 | case_parties | 0 |
 | case_sources | 21 |
 | explainer_sources | 0 |
 | glossary_sources | 51 |
-| changes | 1969 |
+| changes | 2898 |
 
 ## Licence and attribution
 

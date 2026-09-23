@@ -1594,5 +1594,473 @@
     "actor_id": 211,
     "role": "legislated",
     "role_at_time": null
+  },
+  {
+    "incident_id": 130,
+    "actor_id": 26,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 130,
+    "actor_id": 232,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 131,
+    "actor_id": 31,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 132,
+    "actor_id": 208,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 132,
+    "actor_id": 220,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 133,
+    "actor_id": 181,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 133,
+    "actor_id": 212,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 134,
+    "actor_id": 221,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 134,
+    "actor_id": 227,
+    "role": "enforced",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 134,
+    "actor_id": 239,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 135,
+    "actor_id": 38,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 136,
+    "actor_id": 124,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 137,
+    "actor_id": 229,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 138,
+    "actor_id": 208,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 139,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 139,
+    "actor_id": 216,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 140,
+    "actor_id": 214,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 141,
+    "actor_id": 224,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 142,
+    "actor_id": 124,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 143,
+    "actor_id": 26,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 144,
+    "actor_id": 138,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 145,
+    "actor_id": 213,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 145,
+    "actor_id": 223,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 146,
+    "actor_id": 38,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 147,
+    "actor_id": 132,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 148,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 149,
+    "actor_id": 218,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 150,
+    "actor_id": 208,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 151,
+    "actor_id": 231,
+    "role": "ordered",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 152,
+    "actor_id": 38,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 153,
+    "actor_id": 243,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 154,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 155,
+    "actor_id": 181,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 155,
+    "actor_id": 217,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 156,
+    "actor_id": 26,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 157,
+    "actor_id": 241,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 158,
+    "actor_id": 143,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 159,
+    "actor_id": 26,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 159,
+    "actor_id": 230,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 160,
+    "actor_id": 26,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 161,
+    "actor_id": 233,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 161,
+    "actor_id": 238,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 162,
+    "actor_id": 38,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 162,
+    "actor_id": 235,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 163,
+    "actor_id": 38,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 163,
+    "actor_id": 215,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 164,
+    "actor_id": 197,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 164,
+    "actor_id": 198,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 165,
+    "actor_id": 38,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 166,
+    "actor_id": 37,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 167,
+    "actor_id": 179,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 168,
+    "actor_id": 197,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 169,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 169,
+    "actor_id": 240,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 170,
+    "actor_id": 222,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 171,
+    "actor_id": 37,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 172,
+    "actor_id": 208,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 173,
+    "actor_id": 181,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 174,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 175,
+    "actor_id": 239,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 176,
+    "actor_id": 226,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 177,
+    "actor_id": 239,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 178,
+    "actor_id": 38,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 179,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 180,
+    "actor_id": 228,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 181,
+    "actor_id": 229,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 182,
+    "actor_id": 236,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 183,
+    "actor_id": 237,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 184,
+    "actor_id": 219,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 185,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 186,
+    "actor_id": 187,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 187,
+    "actor_id": 225,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 188,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 189,
+    "actor_id": 31,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 190,
+    "actor_id": 132,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 190,
+    "actor_id": 242,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 191,
+    "actor_id": 181,
+    "role": "other",
+    "role_at_time": null
+  },
+  {
+    "incident_id": 191,
+    "actor_id": 234,
+    "role": "other",
+    "role_at_time": null
   }
 ]

@@ -3,7 +3,7 @@ id,slug,name,outlet_id,role,profile_url,pub_state,published_at,reviewed_on,revis
 2,akayla-gardner,Akayla Gardner,2,White House correspondent,,published,2026-09-22T20:01:15Z,2026-09-22,8,2026-09-22T20:01:14Z,2026-09-22T21:26:33Z
 3,cheyenne-haslett,Cheyenne Haslett,3,White House reporter,,published,2026-09-22T20:01:17Z,2026-09-22,8,2026-09-22T20:01:16Z,2026-09-22T21:26:35Z
 4,jim-acosta,Jim Acosta,1,Chief White House correspondent (2018),,published,2026-09-22T20:01:19Z,2026-09-22,8,2026-09-22T20:01:18Z,2026-09-22T21:26:36Z
-5,jimmy-lai,Jimmy Lai,13,Founder and publisher,,published,2026-09-22T20:01:20Z,2026-09-22,8,2026-09-22T20:01:19Z,2026-09-22T21:26:38Z
+5,jimmy-lai,Jimmy Lai,13,Founder and publisher,,published,2026-09-22T20:01:20Z,2026-09-22,10,2026-09-22T20:01:19Z,2026-09-23T01:29:24Z
 6,mark-lowen,Mark Lowen,16,"Correspondent, deported from Turkiye while covering protests",,published,2026-09-22T20:01:22Z,2026-09-22,8,2026-09-22T20:01:22Z,2026-09-22T21:26:39Z
 7,ravi-nair,Ravi Nair,17,Investigative journalist,,published,2026-09-22T20:01:24Z,2026-09-22,8,2026-09-22T20:01:23Z,2026-09-22T21:26:41Z
 8,omar-jimenez,Omar Jimenez,1,Reporter,,published,2026-09-22T22:57:27Z,2026-09-22,4,2026-09-22T22:57:26Z,2026-09-22T23:14:11Z
@@ -21,3 +21,60 @@ id,slug,name,outlet_id,role,profile_url,pub_state,published_at,reviewed_on,revis
 20,patrick-lam,Patrick Lam,55,Reporter,,published,2026-09-22T22:57:44Z,2026-09-22,4,2026-09-22T22:57:43Z,2026-09-22T23:14:29Z
 21,annika-smethurst,Annika Smethurst,,Reporter,,published,2026-09-22T22:57:45Z,2026-09-22,4,2026-09-22T22:57:44Z,2026-09-22T23:14:31Z
 22,carlos-fernando-chamorro,Carlos Fernando Chamorro,53,Reporter,,published,2026-09-22T22:57:46Z,2026-09-22,4,2026-09-22T22:57:45Z,2026-09-22T23:14:33Z
+23,aatish-taseer,Aatish Taseer,107,Writer and journalist,,published,2026-09-23T01:13:21Z,2026-09-22,2,2026-09-23T01:13:20Z,2026-09-23T01:28:39Z
+24,aleh-hruzdzilovich,Aleh Hruzdzilovich,94,Former correspondent,,published,2026-09-23T01:13:22Z,2026-09-22,2,2026-09-23T01:13:22Z,2026-09-23T01:28:41Z
+25,alsu-kurmasheva,Alsu Kurmasheva,94,Editor,,published,2026-09-23T01:13:24Z,2026-09-22,2,2026-09-23T01:13:23Z,2026-09-23T01:28:42Z
+26,aluf-benn,Aluf Benn,78,Editor-in-chief,,published,2026-09-23T01:13:25Z,2026-09-22,2,2026-09-23T01:13:25Z,2026-09-23T01:28:44Z
+27,ananth-baliga,Ananth Baliga,110,Associate editor,,published,2026-09-23T01:13:27Z,2026-09-22,2,2026-09-23T01:13:26Z,2026-09-23T01:28:45Z
+28,anastasia-sharkevich,Anastasia Sharkevich,,Journalist,,published,2026-09-23T01:13:28Z,2026-09-22,2,2026-09-23T01:13:27Z,2026-09-23T01:28:47Z
+29,andras-arato,Andras Arato,84,Owner,,published,2026-09-23T01:13:29Z,2026-09-22,2,2026-09-23T01:13:29Z,2026-09-23T01:28:48Z
+30,andrzej-poczobut,Andrzej Poczobut,64,Correspondent for Gazeta Wyborcza and political commentator,,published,2026-09-23T01:13:31Z,2026-09-22,2,2026-09-23T01:13:30Z,2026-09-23T01:28:50Z
+31,ans-boersma,Ans Boersma,,Freelance journalist,,published,2026-09-23T01:13:32Z,2026-09-22,2,2026-09-23T01:13:32Z,2026-09-23T01:28:51Z
+32,aung-marm-oo,Aung Marm Oo,,Editor,,published,2026-09-23T01:13:34Z,2026-09-22,2,2026-09-23T01:13:33Z,2026-09-23T01:28:53Z
+33,azamat-omarov,Azamat Omarov,,Journalist,,published,2026-09-23T01:13:35Z,2026-09-22,2,2026-09-23T01:13:34Z,2026-09-23T01:28:54Z
+34,canan-coskun,Canan Coskun,,Journalist,,published,2026-09-23T01:13:37Z,2026-09-22,2,2026-09-23T01:13:36Z,2026-09-23T01:28:56Z
+35,carl-david-goette-luciak,Carl David Goette-Luciak,,Freelance correspondent,,published,2026-09-23T01:13:38Z,2026-09-22,2,2026-09-23T01:13:37Z,2026-09-23T01:28:57Z
+36,carlos-loret-de-mola,Carlos Loret de Mola,,Investigative journalist,,published,2026-09-23T01:13:39Z,2026-09-22,2,2026-09-23T01:13:39Z,2026-09-23T01:28:59Z
+37,carmen-aristegui,Carmen Aristegui,62,Investigative journalist,,published,2026-09-23T01:13:41Z,2026-09-22,2,2026-09-23T01:13:40Z,2026-09-23T01:29:00Z
+38,celil-sagir,Celil Sagir,111,Journalist,,published,2026-09-23T01:13:42Z,2026-09-22,2,2026-09-23T01:13:42Z,2026-09-23T01:29:02Z
+39,chao-deng,Chao Deng,5,Reporter,,published,2026-09-23T01:13:44Z,2026-09-22,2,2026-09-23T01:13:43Z,2026-09-23T01:29:04Z
+40,cheung-kim-hung,Cheung Kim Hung,13,Former chief executive,,published,2026-09-23T01:13:45Z,2026-09-22,2,2026-09-23T01:13:45Z,2026-09-23T01:29:05Z
+41,daphne-caruana-galizia,Daphne Caruana Galizia,,Investigative journalist,,published,2026-09-23T01:13:47Z,2026-09-22,2,2026-09-23T01:13:46Z,2026-09-23T01:29:06Z
+42,dawit-isaac,Dawit Isaac,100,Journalist and co-owner,,published,2026-09-23T01:13:48Z,2026-09-22,2,2026-09-23T01:13:47Z,2026-09-23T01:29:08Z
+43,diana-okremova,Diana Okremova,,Journalist,,published,2026-09-23T01:13:49Z,2026-09-22,2,2026-09-23T01:13:49Z,2026-09-23T01:29:09Z
+44,dong-yuyu,Dong Yuyu,77,Editor and columnist,,published,2026-09-23T01:13:51Z,2026-09-22,2,2026-09-23T01:13:50Z,2026-09-23T01:29:11Z
+45,elahe-mohammadi,Elahe Mohammadi,80,Journalist,,published,2026-09-23T01:13:52Z,2026-09-22,2,2026-09-23T01:13:52Z,2026-09-23T01:29:12Z
+46,euna-lee,Euna Lee,68,Journalist,,published,2026-09-23T01:13:54Z,2026-09-22,2,2026-09-23T01:13:53Z,2026-09-23T01:29:14Z
+47,evan-gershkovich,Evan Gershkovich,5,Correspondent,,published,2026-09-23T01:13:55Z,2026-09-22,2,2026-09-23T01:13:54Z,2026-09-23T01:29:15Z
+48,fatih-polat,Fatih Polat,73,Journalist,,published,2026-09-23T01:13:57Z,2026-09-22,2,2026-09-23T01:13:56Z,2026-09-23T01:29:17Z
+49,imad-stitou,Imad Stitou,,Journalist,,published,2026-09-23T01:13:58Z,2026-09-22,2,2026-09-23T01:13:57Z,2026-09-23T01:29:18Z
+50,ivan-safronov,Ivan Safronov,85,Former military correspondent,,published,2026-09-23T01:14:00Z,2026-09-22,2,2026-09-23T01:13:59Z,2026-09-23T01:29:20Z
+51,jakrapob-penkair,Jakrapob Penkair,90,Former government spokesman,,published,2026-09-23T01:14:01Z,2026-09-22,2,2026-09-23T01:14:00Z,2026-09-23T01:29:21Z
+52,jamal-khashoggi,Jamal Khashoggi,44,Journalist,,published,2026-09-23T01:14:02Z,2026-09-22,2,2026-09-23T01:14:02Z,2026-09-23T01:29:22Z
+53,josh-chin,Josh Chin,5,Deputy bureau chief,,published,2026-09-23T01:14:05Z,2026-09-22,2,2026-09-23T01:14:05Z,2026-09-23T01:29:26Z
+54,judit-presinszky,Judit Presinszky,103,Correspondent,,published,2026-09-23T01:14:07Z,2026-09-22,2,2026-09-23T01:14:06Z,2026-09-23T01:29:28Z
+55,khadija-ismayilova,Khadija Ismayilova,,Investigative journalist,,published,2026-09-23T01:14:08Z,2026-09-22,2,2026-09-23T01:14:07Z,2026-09-23T01:29:29Z
+56,laura-ling,Laura Ling,68,Journalist,,published,2026-09-23T01:14:09Z,2026-09-22,2,2026-09-23T01:14:09Z,2026-09-23T01:29:31Z
+57,maria-ponomarenko,Maria Ponomarenko,99,Correspondent,,published,2026-09-23T01:14:11Z,2026-09-22,2,2026-09-23T01:14:10Z,2026-09-23T01:29:32Z
+58,maria-ressa,Maria Ressa,96,Chief executive officer and executive editor,,published,2026-09-23T01:14:12Z,2026-09-22,2,2026-09-23T01:14:11Z,2026-09-23T01:29:34Z
+59,maya-misikir,Maya Misikir,,Journalist,,published,2026-09-23T01:14:14Z,2026-09-22,2,2026-09-23T01:14:13Z,2026-09-23T01:29:35Z
+60,mehves-evin,Mehves Evin,,Journalist,,published,2026-09-23T01:14:15Z,2026-09-22,2,2026-09-23T01:14:14Z,2026-09-23T01:29:37Z
+61,mohammad-mosaed,Mohammad Mosaed,,Journalist,,published,2026-09-23T01:14:16Z,2026-09-22,2,2026-09-23T01:14:16Z,2026-09-23T01:29:38Z
+62,niloofar-hamedi,Niloofar Hamedi,101,Journalist,,published,2026-09-23T01:14:18Z,2026-09-22,2,2026-09-23T01:14:17Z,2026-09-23T01:29:40Z
+63,nora-siteri,Nora Siteri,103,Camera operator,,published,2026-09-23T01:14:19Z,2026-09-22,2,2026-09-23T01:14:18Z,2026-09-23T01:29:41Z
+64,nora-younis,Nora Younis,60,Editor,,published,2026-09-23T01:14:20Z,2026-09-22,2,2026-09-23T01:14:20Z,2026-09-23T01:29:43Z
+65,omar-abdulaziz,Omar Abdulaziz,,Dissident and associate of journalist Jamal Khashoggi,,published,2026-09-23T01:14:22Z,2026-09-22,2,2026-09-23T01:14:21Z,2026-09-23T01:29:44Z
+66,omar-radi,Omar Radi,86,Investigative journalist,,published,2026-09-23T01:14:23Z,2026-09-22,2,2026-09-23T01:14:22Z,2026-09-23T01:29:46Z
+67,pham-doan-trang,Pham Doan Trang,106,Founding editor,,published,2026-09-23T01:14:24Z,2026-09-22,2,2026-09-23T01:14:24Z,2026-09-23T01:29:47Z
+68,philip-wen,Philip Wen,5,Reporter,,published,2026-09-23T01:14:26Z,2026-09-22,2,2026-09-23T01:14:25Z,2026-09-23T01:29:49Z
+69,pia-ranada,Pia Ranada,96,Reporter,,published,2026-09-23T01:14:27Z,2026-09-22,2,2026-09-23T01:14:26Z,2026-09-23T01:29:50Z
+70,reynaldo-santos-jr,Reynaldo Santos Jr.,96,Researcher,,published,2026-09-23T01:14:28Z,2026-09-22,2,2026-09-23T01:14:28Z,2026-09-23T01:29:52Z
+71,ryan-law-wai-kwong,Ryan Law Wai-kwong,13,Former editor-in-chief,,published,2026-09-23T01:14:30Z,2026-09-22,2,2026-09-23T01:14:29Z,2026-09-23T01:29:53Z
+72,sedef-kabas,Sedef Kabas,,Journalist,,published,2026-09-23T01:14:31Z,2026-09-22,2,2026-09-23T01:14:30Z,2026-09-23T01:29:55Z
+73,sevgi-akarcesme,Sevgi Akarcesme,108,Editor,,published,2026-09-23T01:14:32Z,2026-09-22,2,2026-09-23T01:14:32Z,2026-09-23T01:29:56Z
+74,simon-marks,Simon Marks,33,Correspondent,,published,2026-09-23T01:14:34Z,2026-09-22,2,2026-09-23T01:14:33Z,2026-09-23T01:29:58Z
+75,somyot-prueksakasemsuk,Somyot Prueksakasemsuk,90,Magazine editor,,published,2026-09-23T01:14:35Z,2026-09-22,2,2026-09-23T01:14:34Z,2026-09-23T01:29:59Z
+76,szabolcs-dull,Szabolcs Dull,82,Editor-in-chief,,published,2026-09-23T01:14:36Z,2026-09-22,2,2026-09-23T01:14:36Z,2026-09-23T01:30:01Z
+77,szabolcs-panyi,Szabolcs Panyi,71,Investigative journalist,,published,2026-09-23T01:14:38Z,2026-09-22,2,2026-09-23T01:14:37Z,2026-09-23T01:30:03Z
+78,tom-gardner,Tom Gardner,104,Correspondent,,published,2026-09-23T01:14:39Z,2026-09-22,2,2026-09-23T01:14:38Z,2026-09-23T01:30:05Z
+79,zhang-zhan,Zhang Zhan,,Citizen journalist,,published,2026-09-23T01:14:41Z,2026-09-22,2,2026-09-23T01:14:40Z,2026-09-23T01:30:06Z

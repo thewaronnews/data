@@ -24,19 +24,19 @@ id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end
 23,richard-nixon,Richard Nixon,person,,President of the United States (1969-1974),,US,US,,,,,,published,2026-09-22T20:00:35Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:34Z,2026-09-22T21:26:12Z
 24,charles-colson,Charles Colson,person,,Special Counsel to the President (Nixon administration),,US,US,,,,,,published,2026-09-22T20:00:46Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:45Z,2026-09-22T21:26:14Z
 25,barack-obama,Barack Obama,person,,President of the United States (2009-2017),,US,US,,,,,,published,2026-09-22T20:00:47Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:46Z,2026-09-22T21:26:15Z
-26,viktor-orban,Viktor Orban,person,,Prime Minister of Hungary (through 2026),,HU,HU,,,,,,published,2026-09-22T20:00:49Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:48Z,2026-09-22T21:26:17Z
+26,viktor-orban,Viktor Orban,person,,Prime Minister of Hungary (through 2026),,HU,HU,,,,,,published,2026-09-22T20:00:49Z,2026-09-22,2026-12-22,10,2026-09-22T20:00:48Z,2026-09-23T01:28:34Z
 27,hungarian-national-assembly,National Assembly of Hungary,body,legislature,National legislature,,HU,HU,,,,,,published,2026-09-22T20:00:50Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:50Z,2026-09-22T21:26:18Z
 28,adani-group,Adani Group,body,other,Private conglomerate; complainant in defamation proceedings against a journalist,,IN,IN,,,,,,published,2026-09-22T20:00:58Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:57Z,2026-09-22T21:26:20Z
 29,government-of-israel,Government of Israel,body,other,National government,,IL,IL,,,,,,published,2026-09-22T20:01:00Z,2026-09-22,2026-12-22,8,2026-09-22T20:00:59Z,2026-09-22T21:26:21Z
 30,state-duma,State Duma of Russia,body,legislature,Lower house of the Federal Assembly of Russia,,RU,RU,,,,,,published,2026-09-22T20:01:01Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:00Z,2026-09-22T21:26:23Z
-31,vladimir-putin,Vladimir Putin,person,,President of Russia,,RU,RU,,,,,,published,2026-09-22T20:01:03Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:02Z,2026-09-22T21:26:24Z
+31,vladimir-putin,Vladimir Putin,person,,President of Russia,,RU,RU,,,,,,published,2026-09-22T20:01:03Z,2026-09-22,2026-12-22,10,2026-09-22T20:01:02Z,2026-09-23T01:28:35Z
 32,nayib-bukele,Nayib Bukele,person,,President of El Salvador,,SV,SV,,,,,,published,2026-09-22T20:01:04Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:04Z,2026-09-22T21:26:25Z
 33,hong-kong-department-of-justice,Hong Kong Department of Justice,body,agency,"Prosecuting authority, Hong Kong Special Administrative Region",,HK,HK,,,,,,published,2026-09-22T20:01:06Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:05Z,2026-09-22T21:26:27Z
 34,government-of-turkiye,Government of Turkiye,body,other,National government,,TR,TR,,,,,,published,2026-09-22T20:01:11Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:10Z,2026-09-22T21:26:29Z
 35,congress-of-the-united-states,United States Congress,body,legislature,Federal legislature,,US,US,,,,,,published,2026-09-22T20:01:12Z,2026-09-22,2026-12-22,8,2026-09-22T20:01:11Z,2026-09-22T21:26:30Z
 36,jeff-landry,Jeff Landry,person,,Governor of Louisiana,,US-LA,US,,,,,,published,2026-09-22T22:29:59Z,2026-09-22,2026-12-22,1,2026-09-22T22:29:58Z,2026-09-22T22:29:59Z
-37,narendra-modi,Narendra Modi,person,,Prime Minister of India,,IN,IN,,,,,,published,2026-09-22T22:30:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:00Z,2026-09-22T22:30:01Z
-38,recep-tayyip-erdogan,Recep Tayyip Erdoğan,person,,President of Türkiye,,TR,TR,,,,,,published,2026-09-22T22:30:02Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:01Z,2026-09-22T22:30:02Z
+37,narendra-modi,Narendra Modi,person,,Prime Minister of India,,IN,IN,,,,,,published,2026-09-22T22:30:01Z,2026-09-22,2026-12-22,3,2026-09-22T22:30:00Z,2026-09-23T01:28:17Z
+38,recep-tayyip-erdogan,Recep Tayyip Erdoğan,person,,President of Türkiye,,TR,TR,,,,,,published,2026-09-22T22:30:02Z,2026-09-22,2026-12-22,3,2026-09-22T22:30:01Z,2026-09-23T01:28:24Z
 39,john-lee,John Lee,person,,Chief Executive of Hong Kong (from July 2022),,HK,HK,,,,,,published,2026-09-22T22:30:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:30:03Z,2026-09-22T22:30:04Z
 40,woodrow-wilson,Woodrow Wilson,person,,President of the United States,,US,US,,,,,,published,2026-09-22T22:52:58Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:57Z,2026-09-22T22:52:58Z
 41,thomas-patten,Thomas G. Patten,person,,Postmaster of New York City,,US,US,,,,,,published,2026-09-22T22:52:59Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:58Z,2026-09-22T22:52:59Z
@@ -122,7 +122,7 @@ id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end
 121,zulkifli-sulong,Zulkifli Sulong,person,,"Editor, Harakah",,MY,MY,,,,,,published,2026-09-22T22:54:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:47Z,2026-09-22T22:54:47Z
 122,vladimir-gusinsky,Vladimir Gusinsky,person,,"Founder, NTV",,RU,RU,,,,,,published,2026-09-22T22:55:23Z,2026-09-22,2026-12-22,1,2026-09-22T22:54:48Z,2026-09-22T22:55:23Z
 123,yevgeny-kiselyov,Yevgeny Kiselyov,person,,"Managing Director, NTV",,RU,RU,,,,,,published,2026-09-22T22:55:24Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:23Z,2026-09-22T22:55:24Z
-124,robert-mugabe,Robert Mugabe,person,,President of Zimbabwe,,ZW,ZW,,,,,,published,2026-09-22T22:55:25Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:25Z,2026-09-22T22:55:25Z
+124,robert-mugabe,Robert Mugabe,person,,President of Zimbabwe,,ZW,ZW,,,,,,published,2026-09-22T22:55:25Z,2026-09-22,2026-12-22,3,2026-09-22T22:55:25Z,2026-09-23T01:28:26Z
 125,anna-politkovskaya,Anna Politkovskaya,person,,"Journalist, Novaya Gazeta",,RU,RU,,,,,,published,2026-09-22T22:55:27Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:26Z,2026-09-22T22:55:27Z
 126,dmitry-pavlyuchenkov,Dmitry Pavlyuchenkov,person,,"Former officer, Moscow police surveillance unit",,RU,RU,,,,,,published,2026-09-22T22:55:28Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:27Z,2026-09-22T22:55:28Z
 127,mahmoud-ahmadinejad,Mahmoud Ahmadinejad,person,,President of Iran,,IR,IR,,,,,,published,2026-09-22T22:55:29Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:29Z,2026-09-22T22:55:29Z
@@ -130,18 +130,18 @@ id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end
 129,rafael-correa,Rafael Correa,person,,President of Ecuador,,EC,EC,,,,,,published,2026-09-22T22:55:32Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:31Z,2026-09-22T22:55:32Z
 130,lenin-moreno,Lenin Moreno,person,,President of Ecuador,,EC,EC,,,,,,published,2026-09-22T22:55:33Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:33Z,2026-09-22T22:55:33Z
 131,adly-mansour,Adly Mansour,person,,Interim President of Egypt,,EG,EG,,,,,,published,2026-09-22T22:55:35Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:34Z,2026-09-22T22:55:35Z
-132,abdel-fattah-el-sisi,Abdel Fattah el-Sisi,person,,President of Egypt,,EG,EG,,,,,,published,2026-09-22T22:55:36Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:35Z,2026-09-22T22:55:36Z
+132,abdel-fattah-el-sisi,Abdel Fattah el-Sisi,person,,President of Egypt,,EG,EG,,,,,,published,2026-09-22T22:55:36Z,2026-09-22,2026-12-22,3,2026-09-22T22:55:35Z,2026-09-23T01:27:32Z
 133,peter-greste,Peter Greste,person,,"Correspondent, Al Jazeera English",,EG,EG,,,,,,published,2026-09-22T22:55:37Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:37Z,2026-09-22T22:55:37Z
 134,mohamed-fahmy,Mohamed Fahmy,person,,"Bureau Chief, Al Jazeera English, Cairo",,EG,EG,,,,,,published,2026-09-22T22:55:39Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:38Z,2026-09-22T22:55:39Z
 135,baher-mohamed,Baher Mohamed,person,,"Producer, Al Jazeera English, Cairo",,EG,EG,,,,,,published,2026-09-22T22:55:40Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:39Z,2026-09-22T22:55:40Z
 136,beata-szydlo,Beata Szydlo,person,,Prime Minister of Poland,,PL,PL,,,,,,published,2026-09-22T22:55:41Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:41Z,2026-09-22T22:55:41Z
 137,andrzej-duda,Andrzej Duda,person,,President of Poland,,PL,PL,,,,,,published,2026-09-22T22:55:43Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:42Z,2026-09-22T22:55:43Z
-138,hun-sen,Hun Sen,person,,Prime Minister of Cambodia,,KH,KH,,,,,,published,2026-09-22T22:55:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:43Z,2026-09-22T22:55:44Z
+138,hun-sen,Hun Sen,person,,Prime Minister of Cambodia,,KH,KH,,,,,,published,2026-09-22T22:55:44Z,2026-09-22,2026-12-22,3,2026-09-22T22:55:43Z,2026-09-23T01:27:57Z
 139,john-magufuli,John Magufuli,person,,President of Tanzania,,TZ,TZ,,,,,,published,2026-09-22T22:55:45Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:45Z,2026-09-22T22:55:45Z
 140,aung-san-suu-kyi,Aung San Suu Kyi,person,,State Counsellor of Myanmar,,MM,MM,,,,,,published,2026-09-22T22:55:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:46Z,2026-09-22T22:55:47Z
 141,wa-lone,Wa Lone,person,,"Reporter, Reuters",,MM,MM,,,,,,published,2026-09-22T22:55:48Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:47Z,2026-09-22T22:55:48Z
 142,kyaw-soe-oo,Kyaw Soe Oo,person,,"Reporter, Reuters",,MM,MM,,,,,,published,2026-09-22T22:55:49Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:49Z,2026-09-22T22:55:49Z
-143,king-salman,Salman bin Abdulaziz Al Saud,person,,King of Saudi Arabia,,SA,SA,,,,,,published,2026-09-22T22:55:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:50Z,2026-09-22T22:55:51Z
+143,king-salman,Salman bin Abdulaziz Al Saud,person,,King of Saudi Arabia,,SA,SA,,,,,,published,2026-09-22T22:55:51Z,2026-09-22,2026-12-22,3,2026-09-22T22:55:50Z,2026-09-23T01:28:10Z
 144,mohammed-bin-salman,Mohammed bin Salman,person,,Crown Prince of Saudi Arabia,,SA,SA,,,,,,published,2026-09-22T22:55:52Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:51Z,2026-09-22T22:55:52Z
 145,jamal-khashoggi,Jamal Khashoggi,person,,"Columnist, The Washington Post",,SA,SA,,,,,,published,2026-09-22T22:55:53Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:53Z,2026-09-22T22:55:53Z
 146,nicolas-maduro,Nicolas Maduro,person,,President of Venezuela,,VE,VE,,,,,,published,2026-09-22T22:55:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:55:54Z,2026-09-22T22:55:54Z
@@ -177,15 +177,15 @@ id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end
 176,fbi,Federal Bureau of Investigation,body,law_enforcement,Federal law enforcement agency,,US,US,,,,,,published,2026-09-22T22:56:36Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:36Z,2026-09-22T22:56:36Z
 177,royal-canadian-mounted-police,Royal Canadian Mounted Police,body,law_enforcement,"Canada's federal police, contracted for provincial policing in British Columbia",,CA-BC,CA,,,,,,published,2026-09-22T22:56:38Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:37Z,2026-09-22T22:56:38Z
 178,john-horgan,John Horgan,person,,"Premier of British Columbia, 2017-2022",,CA-BC,CA,,,,,,published,2026-09-22T22:56:40Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:39Z,2026-09-22T22:56:40Z
-179,min-aung-hlaing,Min Aung Hlaing,person,,"Chairman, Myanmar State Administration Council",,MM,MM,,,,,,published,2026-09-22T22:56:41Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:41Z,2026-09-22T22:56:41Z
+179,min-aung-hlaing,Min Aung Hlaing,person,,"Chairman, Myanmar State Administration Council",,MM,MM,,,,,,published,2026-09-22T22:56:41Z,2026-09-22,2026-12-22,3,2026-09-22T22:56:41Z,2026-09-23T01:28:14Z
 180,myanmar-military,Myanmar military (Tatmadaw),body,law_enforcement,Armed forces and ruling junta since the February 2021 coup,,MM,MM,,,,,,published,2026-09-22T22:56:43Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:42Z,2026-09-22T22:56:43Z
-181,alexander-lukashenko,Alexander Lukashenko,person,,President of Belarus,,BY,BY,,,,,,published,2026-09-22T22:56:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:44Z,2026-09-22T22:56:44Z
+181,alexander-lukashenko,Alexander Lukashenko,person,,President of Belarus,,BY,BY,,,,,,published,2026-09-22T22:56:44Z,2026-09-22,2026-12-22,3,2026-09-22T22:56:44Z,2026-09-23T01:27:35Z
 182,belarusian-ministry-of-information,Belarusian Ministry of Information,body,agency,Government information ministry,,BY,BY,,,,,,published,2026-09-22T22:56:46Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:45Z,2026-09-22T22:56:46Z
 183,indian-income-tax-department,Indian Income Tax Department,body,regulator,Tax authority,,IN,IN,,,,,,published,2026-09-22T22:56:47Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:46Z,2026-09-22T22:56:47Z
 184,ministry-of-electronics-and-information-technology-india,Ministry of Electronics and Information Technology (India),body,agency,Ministry that issued the IT Rules amendment creating the Fact Check Unit,,IN,IN,,,,,,published,2026-09-22T22:56:48Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:48Z,2026-09-22T22:56:48Z
 185,alejandro-giammattei,Alejandro Giammattei,person,,"President of Guatemala, 2020-2024",,GT,GT,,,,,,published,2026-09-22T22:56:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:49Z,2026-09-22T22:56:50Z
 186,guatemalan-public-ministry,Guatemalan Public Ministry,body,executive_office,Public prosecutor's office,,GT,GT,,,,,,published,2026-09-22T22:56:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:50Z,2026-09-22T22:56:51Z
-187,daniel-ortega,Daniel Ortega,person,,President of Nicaragua,,NI,NI,,,,,,published,2026-09-22T22:56:52Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:52Z,2026-09-22T22:56:52Z
+187,daniel-ortega,Daniel Ortega,person,,President of Nicaragua,,NI,NI,,,,,,published,2026-09-22T22:56:52Z,2026-09-22,2026-12-22,3,2026-09-22T22:56:52Z,2026-09-23T01:27:40Z
 188,nicaraguan-court-of-appeals,Nicaraguan Court of Appeals,body,court,Appellate court that issued the citizenship-stripping rulings,,NI,NI,,,,,,published,2026-09-22T22:56:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:53Z,2026-09-22T22:56:54Z
 189,robert-fico,Robert Fico,person,,Prime Minister of Slovakia,,SK,SK,,,,,,published,2026-09-22T22:56:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:55Z,2026-09-22T22:56:55Z
 190,slovak-parliament,National Council of the Slovak Republic,body,legislature,National legislature,,SK,SK,,,,,,published,2026-09-22T22:56:57Z,2026-09-22,2026-12-22,1,2026-09-22T22:56:56Z,2026-09-22T22:56:57Z
@@ -195,8 +195,8 @@ id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end
 194,javier-milei,Javier Milei,person,,President of Argentina,,AR,AR,,,,,,published,2026-09-22T22:57:02Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:02Z,2026-09-22T22:57:02Z
 195,aleksandar-vucic,Aleksandar Vucic,person,,President of Serbia,,RS,RS,,,,,,published,2026-09-22T22:57:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:03Z,2026-09-22T22:57:04Z
 196,serbian-ministry-of-interior,Serbian Ministry of the Interior,body,law_enforcement,Ministry overseeing police,,RS,RS,,,,,,published,2026-09-22T22:57:05Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:05Z,2026-09-22T22:57:05Z
-197,abiy-ahmed,Abiy Ahmed,person,,Prime Minister of Ethiopia,,ET,ET,,,,,,published,2026-09-22T22:57:06Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:06Z,2026-09-22T22:57:06Z
-198,ethiopian-media-authority,Ethiopian Media Authority,body,regulator,Broadcast and media regulator,,ET,ET,,,,,,published,2026-09-22T22:57:08Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:07Z,2026-09-22T22:57:08Z
+197,abiy-ahmed,Abiy Ahmed,person,,Prime Minister of Ethiopia,,ET,ET,,,,,,published,2026-09-22T22:57:06Z,2026-09-22,2026-12-22,3,2026-09-22T22:57:06Z,2026-09-23T01:27:33Z
+198,ethiopian-media-authority,Ethiopian Media Authority,body,executive_office,Broadcast and media regulator,,ET,ET,,,,,,published,2026-09-22T22:57:08Z,2026-09-22,2026-12-22,3,2026-09-22T22:57:07Z,2026-09-23T01:27:48Z
 199,shehbaz-sharif,Shehbaz Sharif,person,,Prime Minister of Pakistan,,PK,PK,,,,,,published,2026-09-22T22:57:09Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:08Z,2026-09-22T22:57:09Z
 200,parliament-of-pakistan,Parliament of Pakistan,body,legislature,National legislature,,PK,PK,,,,,,published,2026-09-22T22:57:10Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:10Z,2026-09-22T22:57:10Z
 201,muhammad-yunus,Muhammad Yunus,person,,"Chief Adviser, interim government of Bangladesh",,BD,BD,,,,,,published,2026-09-22T22:57:12Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:11Z,2026-09-22T22:57:12Z
@@ -206,7 +206,39 @@ id,slug,name,kind,body_type,role,office,jurisdiction,country,term_start,term_end
 205,samia-suluhu-hassan,Samia Suluhu Hassan,person,,President of Tanzania,,TZ,TZ,,,,,,published,2026-09-22T22:57:17Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:16Z,2026-09-22T22:57:17Z
 206,tanzania-communications-regulatory-authority,Tanzania Communications Regulatory Authority,body,regulator,Telecommunications regulator,,TZ,TZ,,,,,,published,2026-09-22T22:57:18Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:18Z,2026-09-22T22:57:18Z
 207,australian-federal-police,Australian Federal Police,body,law_enforcement,National police force,,AU,AU,,,,,,published,2026-09-22T22:57:20Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:19Z,2026-09-22T22:57:20Z
-208,xi-jinping,Xi Jinping,person,,President of China,,CN,CN,,,,,,published,2026-09-22T22:57:21Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:20Z,2026-09-22T22:57:21Z
+208,xi-jinping,Xi Jinping,person,,President of China,,CN,CN,,,,,,published,2026-09-22T22:57:21Z,2026-09-22,2026-12-22,3,2026-09-22T22:57:20Z,2026-09-23T01:28:36Z
 209,chinese-ministry-of-foreign-affairs,Chinese Ministry of Foreign Affairs,body,agency,Foreign ministry,,CN,CN,,,,,,published,2026-09-22T22:57:22Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:22Z,2026-09-22T22:57:22Z
 210,emmerson-mnangagwa,Emmerson Mnangagwa,person,,President of Zimbabwe,,ZW,ZW,,,,,,published,2026-09-22T22:57:24Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:23Z,2026-09-22T22:57:24Z
 211,parliament-of-zimbabwe,Parliament of Zimbabwe,body,legislature,National legislature,,ZW,ZW,,,,,,published,2026-09-22T22:57:25Z,2026-09-22,2026-12-22,1,2026-09-22T22:57:24Z,2026-09-22T22:57:25Z
+212,anatoly-glaz,Anatoly Glaz,person,,Spokesman for Belarus's Foreign Ministry,,BY,BY,,,,,,published,2026-09-23T01:12:14Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:13Z,2026-09-23T01:27:36Z
+213,benjamin-netanyahu,Benjamin Netanyahu,person,,Prime Minister of Israel,,IL,IL,,,,,,published,2026-09-23T01:12:15Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:14Z,2026-09-23T01:27:37Z
+214,carrie-lam,Carrie Lam,person,,Chief Executive of Hong Kong,,HK,HK,,,,,,published,2026-09-23T01:12:17Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:16Z,2026-09-23T01:27:39Z
+215,demiroren-holding,Demiroren Holding,body,other,Turkish conglomerate aligned with the governing party,,TR,TR,,,,,,published,2026-09-23T01:12:20Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:19Z,2026-09-23T01:27:42Z
+216,dmitry-muratov,Dmitry Muratov,person,,Editor of Novaya Gazeta,,RU,RU,,,,,,published,2026-09-23T01:12:21Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:20Z,2026-09-23T01:27:43Z
+217,donald-tusk,Donald Tusk,person,,Prime Minister of Poland,,PL,PL,,,,,,published,2026-09-23T01:12:23Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:22Z,2026-09-23T01:27:44Z
+218,ebrahim-raisi,Ebrahim Raisi,person,,President of Iran,,IR,IR,,,,,,published,2026-09-23T01:12:24Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:23Z,2026-09-23T01:27:46Z
+219,enrique-pena-nieto,Enrique Pena Nieto,person,,President of Mexico,,MX,MX,,,,,,published,2026-09-23T01:12:26Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:25Z,2026-09-23T01:27:47Z
+220,geng-shuang,Geng Shuang,person,,Spokesperson for China's Ministry of Foreign Affairs,,CN,CN,,,,,,published,2026-09-23T01:12:29Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:28Z,2026-09-23T01:27:50Z
+221,harry-roque,Harry Roque,person,,Presidential spokesperson of the Philippines,,PH,PH,,,,,,published,2026-09-23T01:12:31Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:30Z,2026-09-23T01:27:52Z
+222,hassan-rouhani,Hassan Rouhani,person,,President of Iran,,IR,IR,,,,,,published,2026-09-23T01:12:33Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:32Z,2026-09-23T01:27:53Z
+223,hila-gerstl,Hila Gerstl,person,,Israeli district court judge,,IL,IL,,,,,,published,2026-09-23T01:12:34Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:33Z,2026-09-23T01:27:54Z
+224,hugo-chavez,Hugo Chavez,person,,President of Venezuela,,VE,VE,,,,,,published,2026-09-23T01:12:36Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:35Z,2026-09-23T01:27:56Z
+225,ilham-aliyev,Ilham Aliyev,person,,President of Azerbaijan,,AZ,AZ,,,,,,published,2026-09-23T01:12:39Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:38Z,2026-09-23T01:27:59Z
+226,isaias-afwerki,Isaias Afwerki,person,,President of Eritrea,,ER,ER,,,,,,published,2026-09-23T01:12:40Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:39Z,2026-09-23T01:28:01Z
+227,jhopee-avancena,Jhopee Avancena,person,,Head of Malacanang Palace's internal house affairs office,,PH,PH,,,,,,published,2026-09-23T01:12:42Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:41Z,2026-09-23T01:28:02Z
+228,joseph-muscat,Joseph Muscat,person,,Prime Minister of Malta,,MT,MT,,,,,,published,2026-09-23T01:12:43Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:43Z,2026-09-23T01:28:04Z
+229,kassym-jomart-tokayev,Kassym-Jomart Tokayev,person,,President of Kazakhstan,,KZ,KZ,,,,,,published,2026-09-23T01:12:45Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:44Z,2026-09-23T01:28:05Z
+230,kesma,Central European Press and Media Foundation (KESMA),body,other,Government-aligned media holding foundation,,HU,HU,,,,,,published,2026-09-23T01:12:46Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:46Z,2026-09-23T01:28:07Z
+231,kim-jong-il,Kim Jong Il,person,,Chairman of the National Defence Commission of North Korea,,KP,KP,,,,,,published,2026-09-23T01:12:48Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:47Z,2026-09-23T01:28:08Z
+232,laszlo-vecsei,Laszlo Vecsei,person,,"Mayor of Csakbereny, Hungary",,HU,HU,,,,,,published,2026-09-23T01:12:51Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:50Z,2026-09-23T01:28:11Z
+233,mateusz-morawiecki,Mateusz Morawiecki,person,,Prime Minister of Poland,,PL,PL,,,,,,published,2026-09-23T01:12:52Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:51Z,2026-09-23T01:28:13Z
+234,minsk-central-district-court,"Central District Court, Minsk",body,agency,Belarusian court that issued the extremist designations,,BY,BY,,,,,,published,2026-09-23T01:12:55Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:54Z,2026-09-23T01:28:15Z
+235,ndh-turkish-court-istanbul,Istanbul court (Feza Media Group case),body,agency,Court that ordered trustees installed at Feza Media Group,,TR,TR,,,,,,published,2026-09-23T01:12:58Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:57Z,2026-09-23T01:28:18Z
+236,nguyen-tan-dung,Nguyen Tan Dung,person,,Prime Minister of Vietnam,,VN,VN,,,,,,published,2026-09-23T01:12:59Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:59Z,2026-09-23T01:28:20Z
+237,nguyen-xuan-phuc,Nguyen Xuan Phuc,person,,Prime Minister of Vietnam,,VN,VN,,,,,,published,2026-09-23T01:13:01Z,2026-09-22,2026-12-22,2,2026-09-23T01:13:00Z,2026-09-23T01:28:21Z
+238,pkn-orlen,PKN Orlen,body,other,Poland's state-controlled oil and gas company,,PL,PL,,,,,,published,2026-09-23T01:13:02Z,2026-09-22,2026-12-22,2,2026-09-23T01:13:02Z,2026-09-23T01:28:22Z
+239,rodrigo-duterte,Rodrigo Duterte,person,,President of the Philippines,,PH,PH,,,,,,published,2026-09-23T01:13:08Z,2026-09-22,2026-12-22,2,2026-09-23T01:13:07Z,2026-09-23T01:28:28Z
+240,roskomnadzor,Roskomnadzor,body,agency,Russia's federal media and communications regulator,,RU,RU,,,,,,published,2026-09-23T01:13:09Z,2026-09-22,2026-12-22,2,2026-09-23T01:13:08Z,2026-09-23T01:28:29Z
+241,saadeddine-othmani,Saadeddine Othmani,person,,Prime Minister of Morocco,,MA,MA,,,,,,published,2026-09-23T01:13:11Z,2026-09-22,2026-12-22,2,2026-09-23T01:13:10Z,2026-09-23T01:28:31Z
+242,supreme-council-for-media-regulation-egypt,Supreme Council for Media Regulation,body,agency,Egypt's state media regulator,,EG,EG,,,,,,published,2026-09-23T01:13:12Z,2026-09-22,2026-12-22,2,2026-09-23T01:13:11Z,2026-09-23T01:28:32Z
+243,yingluck-shinawatra,Yingluck Shinawatra,person,,Prime Minister of Thailand,,TH,TH,,,,,,published,2026-09-23T01:13:19Z,2026-09-22,2026-12-22,2,2026-09-23T01:13:19Z,2026-09-23T01:28:38Z

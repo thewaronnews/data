@@ -1968,3 +1968,932 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 1967,2026-09-22T23:20:44Z,record_published,glossary_term,65,,,,first publication,0
 1968,2026-09-22T23:20:46Z,record_published,glossary_term,66,,,,first publication,0
 1969,2026-09-22T23:20:47Z,record_published,glossary_term,67,,,,first publication,0
+1970,2026-09-23T00:08:06Z,record_revised,incident,1,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1971,2026-09-23T00:08:09Z,record_revised,incident,20,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1972,2026-09-23T00:08:11Z,record_revised,incident,105,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1973,2026-09-23T00:08:13Z,record_revised,incident,102,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1974,2026-09-23T00:08:16Z,record_revised,incident,21,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1975,2026-09-23T00:08:18Z,record_revised,incident,19,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1976,2026-09-23T00:08:20Z,record_revised,incident,11,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1977,2026-09-23T00:08:22Z,record_revised,incident,22,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1978,2026-09-23T00:08:25Z,record_revised,incident,101,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1979,2026-09-23T00:08:27Z,record_revised,incident,125,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1980,2026-09-23T00:08:29Z,record_revised,incident,2,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1981,2026-09-23T00:08:31Z,record_revised,incident,13,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1982,2026-09-23T00:08:34Z,record_revised,incident,4,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1983,2026-09-23T00:08:36Z,record_revised,incident,95,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1984,2026-09-23T00:08:38Z,record_revised,incident,118,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1985,2026-09-23T00:08:40Z,record_revised,incident,119,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1986,2026-09-23T00:08:42Z,record_revised,incident,100,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1987,2026-09-23T00:08:44Z,record_revised,incident,93,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1988,2026-09-23T00:08:46Z,record_revised,incident,92,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1989,2026-09-23T00:08:48Z,record_revised,incident,5,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1990,2026-09-23T00:08:51Z,record_revised,incident,96,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1991,2026-09-23T00:08:53Z,record_revised,incident,14,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1992,2026-09-23T00:08:55Z,record_revised,incident,7,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1993,2026-09-23T00:08:57Z,record_revised,incident,97,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1994,2026-09-23T00:08:59Z,record_revised,incident,98,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1995,2026-09-23T00:09:02Z,record_revised,incident,23,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1996,2026-09-23T00:09:04Z,record_revised,incident,6,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1997,2026-09-23T00:09:06Z,record_revised,incident,3,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1998,2026-09-23T00:09:08Z,record_revised,incident,12,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+1999,2026-09-23T00:09:10Z,record_revised,incident,99,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2000,2026-09-23T00:09:13Z,record_revised,incident,121,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2001,2026-09-23T00:09:15Z,record_revised,incident,15,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2002,2026-09-23T00:09:18Z,record_revised,incident,120,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2003,2026-09-23T00:09:20Z,record_revised,incident,91,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2004,2026-09-23T00:09:22Z,record_revised,incident,124,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2005,2026-09-23T00:09:24Z,record_revised,incident,10,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2006,2026-09-23T00:09:27Z,record_revised,incident,94,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2007,2026-09-23T00:09:29Z,record_revised,incident,116,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2008,2026-09-23T00:09:31Z,record_revised,incident,122,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2009,2026-09-23T00:09:34Z,record_revised,incident,114,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2010,2026-09-23T00:09:36Z,record_revised,incident,115,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2011,2026-09-23T00:09:38Z,record_revised,incident,9,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2012,2026-09-23T00:09:41Z,record_revised,incident,117,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2013,2026-09-23T00:09:43Z,record_revised,incident,111,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2014,2026-09-23T00:09:45Z,record_revised,incident,18,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2015,2026-09-23T00:09:47Z,record_revised,incident,123,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2016,2026-09-23T00:09:50Z,record_revised,incident,89,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2017,2026-09-23T00:09:52Z,record_revised,incident,90,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2018,2026-09-23T00:09:54Z,record_revised,incident,129,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2019,2026-09-23T00:09:56Z,record_revised,incident,112,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2020,2026-09-23T00:09:59Z,record_revised,incident,113,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2021,2026-09-23T00:10:01Z,record_revised,incident,110,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2022,2026-09-23T00:10:03Z,record_revised,incident,109,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2023,2026-09-23T00:10:05Z,record_revised,incident,104,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2024,2026-09-23T00:10:08Z,record_revised,incident,126,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2025,2026-09-23T00:10:10Z,record_revised,incident,88,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2026,2026-09-23T00:10:12Z,record_revised,incident,108,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2027,2026-09-23T00:10:15Z,record_revised,incident,107,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2028,2026-09-23T00:10:17Z,record_revised,incident,87,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2029,2026-09-23T00:10:19Z,record_revised,incident,86,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2030,2026-09-23T00:10:21Z,record_revised,incident,103,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2031,2026-09-23T00:10:23Z,record_revised,incident,85,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2032,2026-09-23T00:10:25Z,record_revised,incident,127,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2033,2026-09-23T00:10:28Z,record_revised,incident,106,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2034,2026-09-23T00:10:30Z,record_revised,incident,128,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2035,2026-09-23T00:10:32Z,record_revised,incident,79,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2036,2026-09-23T00:10:34Z,record_revised,incident,82,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2037,2026-09-23T00:10:36Z,record_revised,incident,64,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2038,2026-09-23T00:10:38Z,record_revised,incident,63,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2039,2026-09-23T00:10:40Z,record_revised,incident,8,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2040,2026-09-23T00:10:42Z,record_revised,incident,80,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2041,2026-09-23T00:10:45Z,record_revised,incident,78,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2042,2026-09-23T00:10:47Z,record_revised,incident,77,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2043,2026-09-23T00:10:49Z,record_revised,incident,76,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2044,2026-09-23T00:10:51Z,record_revised,incident,81,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2045,2026-09-23T00:10:53Z,record_revised,incident,65,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2046,2026-09-23T00:10:55Z,record_revised,incident,75,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2047,2026-09-23T00:10:57Z,record_revised,incident,62,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2048,2026-09-23T00:10:59Z,record_revised,incident,74,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2049,2026-09-23T00:11:01Z,record_revised,incident,17,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2050,2026-09-23T00:11:03Z,record_revised,incident,83,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2051,2026-09-23T00:11:05Z,record_revised,incident,73,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2052,2026-09-23T00:11:08Z,record_revised,incident,61,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2053,2026-09-23T00:11:10Z,record_revised,incident,60,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2054,2026-09-23T00:11:12Z,record_revised,incident,59,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2055,2026-09-23T00:11:14Z,record_revised,incident,72,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2056,2026-09-23T00:11:16Z,record_revised,incident,58,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2057,2026-09-23T00:11:18Z,record_revised,incident,71,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2058,2026-09-23T00:11:20Z,record_revised,incident,70,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2059,2026-09-23T00:11:22Z,record_revised,incident,57,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2060,2026-09-23T00:11:24Z,record_revised,incident,56,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2061,2026-09-23T00:11:26Z,record_revised,incident,69,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2062,2026-09-23T00:11:28Z,record_revised,incident,68,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2063,2026-09-23T00:11:30Z,record_revised,incident,84,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2064,2026-09-23T00:11:32Z,record_revised,incident,67,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2065,2026-09-23T00:11:34Z,record_revised,incident,66,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2066,2026-09-23T00:11:36Z,record_revised,incident,55,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2067,2026-09-23T00:11:38Z,record_revised,incident,52,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2068,2026-09-23T00:11:41Z,record_revised,incident,44,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2069,2026-09-23T00:11:43Z,record_revised,incident,51,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2070,2026-09-23T00:11:45Z,record_revised,incident,47,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2071,2026-09-23T00:11:47Z,record_revised,incident,33,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2072,2026-09-23T00:11:49Z,record_revised,incident,43,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2073,2026-09-23T00:11:51Z,record_revised,incident,34,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2074,2026-09-23T00:11:54Z,record_revised,incident,50,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2075,2026-09-23T00:11:56Z,record_revised,incident,37,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2076,2026-09-23T00:11:58Z,record_revised,incident,48,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2077,2026-09-23T00:12:00Z,record_revised,incident,36,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2078,2026-09-23T00:12:02Z,record_revised,incident,49,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2079,2026-09-23T00:12:05Z,record_revised,incident,16,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2080,2026-09-23T00:12:07Z,record_revised,incident,30,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2081,2026-09-23T00:12:09Z,record_revised,incident,31,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2082,2026-09-23T00:12:11Z,record_revised,incident,32,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2083,2026-09-23T00:12:14Z,record_revised,incident,42,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2084,2026-09-23T00:12:16Z,record_revised,incident,46,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2085,2026-09-23T00:12:18Z,record_revised,incident,29,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2086,2026-09-23T00:12:20Z,record_revised,incident,45,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2087,2026-09-23T00:12:22Z,record_revised,incident,53,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2088,2026-09-23T00:12:24Z,record_revised,incident,54,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2089,2026-09-23T00:12:27Z,record_revised,incident,28,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2090,2026-09-23T00:12:29Z,record_revised,incident,35,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2091,2026-09-23T00:12:31Z,record_revised,incident,40,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2092,2026-09-23T00:12:33Z,record_revised,incident,38,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2093,2026-09-23T00:12:35Z,record_revised,incident,41,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2094,2026-09-23T00:12:38Z,record_revised,incident,27,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2095,2026-09-23T00:12:40Z,record_revised,incident,39,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2096,2026-09-23T00:12:42Z,record_revised,incident,25,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2097,2026-09-23T00:12:44Z,record_revised,incident,26,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2098,2026-09-23T00:25:41Z,record_revised,incident,80,,,,v3 escalation stage (brief v3-ladder-brief-2026-09-22),0
+2099,2026-09-23T00:38:42Z,claim_new,incident,108,485,,2021-05-18,,0
+2100,2026-09-23T00:38:43Z,record_revised,incident,108,,,,"Correction: the raids, blocking and arrests took place on 2021-05-18 (CPJ, 2021-05-18: ""Today, officers ... raided""), not 2021-05-19. The later ""extremist"" designation of August 2021 is a separate event.",1
+2101,2026-09-23T00:38:45Z,claim_new,incident,113,486,,2023-02-15,,0
+2102,2026-09-23T00:38:46Z,record_revised,incident,113,,,,"Correction: the appeals court announced the decision on Wednesday, 2023-02-15 (Al Jazeera, 2023-02-16, ""said in a statement on Wednesday""), not 2023-02-16.",1
+2103,2026-09-23T00:38:49Z,claim_new,incident,95,487,,2025-09-15,,0
+2104,2026-09-23T00:38:49Z,record_revised,incident,95,,,,"Correction: the complaint was filed on 2025-09-15 (docket entry and case summary, Civil Rights Litigation Clearinghouse); 2025-09-16 is the date of The New York Times Company's public response.",1
+2105,2026-09-23T00:38:52Z,claim_new,incident,91,488,,2025-01-22,,0
+2106,2026-09-23T00:38:53Z,record_revised,incident,91,,,,Correction: Carr reinstated the complaints on 2025-01-22 (U.S. Press Freedom Tracker entry dated 2025-01-22); 2025-01-29 is the date of the demand for the CBS transcript.,1
+2107,2026-09-23T00:38:56Z,claim_new,incident,92,489,,2025-07-24,,0
+2108,2026-09-23T00:38:57Z,record_revised,incident,92,,,,"Correction: the rescission became law on 2025-07-24 (Public Law 119-28, ""Approved July 24, 2025""); 2025-07-18 was the date of final congressional action as reported.",1
+2109,2026-09-23T00:39:00Z,claim_superseded,incident,86,490,2020-07-16,2020-07-16,Refiled as a status claim: the 2020-07-16 preliminary injunction applied to the Portland police; the order covering federal agents is dated 2020-07-23.,1
+2110,2026-09-23T00:39:01Z,claim_new,incident,86,491,,2020-07-23,,0
+2111,2026-09-23T00:39:02Z,record_revised,incident,86,,,,"Correction: the order covering federal officers was issued on 2020-07-23 (ACLU of Oregon, 2020-07-23); the 2020-07-16 preliminary injunction applied to the Portland police.",1
+2112,2026-09-23T00:39:06Z,claim_new,incident,73,492,,2019-02-20,,0
+2113,2026-09-23T00:39:07Z,record_revised,incident,73,,,,"Correction: the reform of the Communication Law was published on 2019-02-20 (Registro Oficial No. 432, supplement, as cited by ARCOTEL); no source supports 2018-07-24.",1
+2114,2026-09-23T00:39:10Z,claim_new,incident,114,493,,2024-07-01,,0
+2115,2026-09-23T00:39:11Z,record_revised,incident,114,,,,"Correction: the act was promulgated and STVR succeeded RTVS on 2024-07-01 (European Audiovisual Observatory, IRIS 2024-8:1/24), not 2024-07-04.",1
+2116,2026-09-23T00:39:14Z,claim_new,incident,127,494,,warrant quashed; seized material kept,,0
+2117,2026-09-23T00:39:15Z,record_revised,incident,127,,,,"Update: the outcome note now states that the High Court quashed the warrant without ordering the seized material returned or destroyed (verification note, ABC News 2020-04-15).",0
+2118,2026-09-23T00:39:41Z,record_revised,incident,12,,,,"Correction: prose date brought in line with the record: the exclusion of AP began on 2025-02-11 (claim 108, VOA 2025-02-12).",1
+2119,2026-09-23T00:39:44Z,record_revised,incident,13,,,,"Correction: prose date brought in line with the record: the rules were made public on 2025-09-19 (claim 109, NPR 2025-09-20).",1
+2120,2026-09-23T00:39:45Z,record_revised,incident,9,,,,"Correction: prose date brought in line with the record: the governor signed HB 173 on 2024-05-24 (claim 110, Louisiana Legislature bill history).",1
+2121,2026-09-23T01:08:15Z,record_published,outlet,59,,,,first publication,0
+2122,2026-09-23T01:08:17Z,record_published,outlet,60,,,,first publication,0
+2123,2026-09-23T01:08:19Z,record_published,outlet,61,,,,first publication,0
+2124,2026-09-23T01:08:20Z,record_revised,outlet,13,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2125,2026-09-23T01:08:22Z,record_published,outlet,62,,,,first publication,0
+2126,2026-09-23T01:08:23Z,record_revised,outlet,4,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2127,2026-09-23T01:08:25Z,record_revised,outlet,16,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2128,2026-09-23T01:08:27Z,record_published,outlet,63,,,,first publication,0
+2129,2026-09-23T01:08:29Z,record_published,outlet,64,,,,first publication,0
+2130,2026-09-23T01:08:30Z,record_published,outlet,65,,,,first publication,0
+2131,2026-09-23T01:08:32Z,record_published,outlet,66,,,,first publication,0
+2132,2026-09-23T01:08:33Z,record_published,outlet,67,,,,first publication,0
+2133,2026-09-23T01:08:35Z,record_published,outlet,68,,,,first publication,0
+2134,2026-09-23T01:08:36Z,record_published,outlet,69,,,,first publication,0
+2135,2026-09-23T01:08:38Z,record_published,outlet,70,,,,first publication,0
+2136,2026-09-23T01:08:39Z,record_published,outlet,71,,,,first publication,0
+2137,2026-09-23T01:08:40Z,record_published,outlet,72,,,,first publication,0
+2138,2026-09-23T01:08:42Z,record_published,outlet,73,,,,first publication,0
+2139,2026-09-23T01:08:43Z,record_published,outlet,74,,,,first publication,0
+2140,2026-09-23T01:08:45Z,record_published,outlet,75,,,,first publication,0
+2141,2026-09-23T01:08:46Z,record_published,outlet,76,,,,first publication,0
+2142,2026-09-23T01:08:48Z,record_published,outlet,77,,,,first publication,0
+2143,2026-09-23T01:08:49Z,record_published,outlet,78,,,,first publication,0
+2144,2026-09-23T01:08:50Z,record_published,outlet,79,,,,first publication,0
+2145,2026-09-23T01:08:52Z,record_published,outlet,80,,,,first publication,0
+2146,2026-09-23T01:08:53Z,record_published,outlet,81,,,,first publication,0
+2147,2026-09-23T01:08:55Z,record_published,outlet,82,,,,first publication,0
+2148,2026-09-23T01:08:56Z,record_published,outlet,83,,,,first publication,0
+2149,2026-09-23T01:08:58Z,record_published,outlet,84,,,,first publication,0
+2150,2026-09-23T01:08:59Z,record_published,outlet,85,,,,first publication,0
+2151,2026-09-23T01:09:00Z,record_published,outlet,86,,,,first publication,0
+2152,2026-09-23T01:09:02Z,record_published,outlet,87,,,,first publication,0
+2153,2026-09-23T01:09:03Z,record_published,outlet,88,,,,first publication,0
+2154,2026-09-23T01:09:06Z,record_published,outlet,89,,,,first publication,0
+2155,2026-09-23T01:09:07Z,record_published,outlet,90,,,,first publication,0
+2156,2026-09-23T01:09:09Z,record_published,outlet,91,,,,first publication,0
+2157,2026-09-23T01:09:10Z,record_published,outlet,92,,,,first publication,0
+2158,2026-09-23T01:09:12Z,record_published,outlet,93,,,,first publication,0
+2159,2026-09-23T01:09:13Z,record_published,outlet,94,,,,first publication,0
+2160,2026-09-23T01:09:15Z,record_published,outlet,95,,,,first publication,0
+2161,2026-09-23T01:09:16Z,record_published,outlet,96,,,,first publication,0
+2162,2026-09-23T01:09:18Z,record_published,outlet,97,,,,first publication,0
+2163,2026-09-23T01:09:19Z,record_published,outlet,98,,,,first publication,0
+2164,2026-09-23T01:09:20Z,record_revised,outlet,37,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2165,2026-09-23T01:09:22Z,record_published,outlet,99,,,,first publication,0
+2166,2026-09-23T01:09:24Z,record_published,outlet,100,,,,first publication,0
+2167,2026-09-23T01:09:25Z,record_published,outlet,101,,,,first publication,0
+2168,2026-09-23T01:10:31Z,record_revised,outlet,59,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2169,2026-09-23T01:10:33Z,record_revised,outlet,60,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2170,2026-09-23T01:10:34Z,record_revised,outlet,61,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2171,2026-09-23T01:10:36Z,record_revised,outlet,13,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2172,2026-09-23T01:10:38Z,record_revised,outlet,62,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2173,2026-09-23T01:10:39Z,record_revised,outlet,4,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2174,2026-09-23T01:10:41Z,record_revised,outlet,16,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2175,2026-09-23T01:10:43Z,record_revised,outlet,63,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2176,2026-09-23T01:10:44Z,record_revised,outlet,64,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2177,2026-09-23T01:10:46Z,record_revised,outlet,65,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2178,2026-09-23T01:10:48Z,record_revised,outlet,66,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2179,2026-09-23T01:10:49Z,record_revised,outlet,67,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2180,2026-09-23T01:10:51Z,record_revised,outlet,68,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2181,2026-09-23T01:10:53Z,record_revised,outlet,69,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2182,2026-09-23T01:10:54Z,record_revised,outlet,70,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2183,2026-09-23T01:10:56Z,record_revised,outlet,71,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2184,2026-09-23T01:10:57Z,record_revised,outlet,72,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2185,2026-09-23T01:10:59Z,record_revised,outlet,73,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2186,2026-09-23T01:11:00Z,record_revised,outlet,74,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2187,2026-09-23T01:11:02Z,record_revised,outlet,75,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2188,2026-09-23T01:11:03Z,record_revised,outlet,76,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2189,2026-09-23T01:11:05Z,record_revised,outlet,77,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2190,2026-09-23T01:11:07Z,record_revised,outlet,78,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2191,2026-09-23T01:11:08Z,record_revised,outlet,79,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2192,2026-09-23T01:11:10Z,record_revised,outlet,80,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2193,2026-09-23T01:11:12Z,record_revised,outlet,81,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2194,2026-09-23T01:11:14Z,record_revised,outlet,82,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2195,2026-09-23T01:11:15Z,record_revised,outlet,83,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2196,2026-09-23T01:11:17Z,record_revised,outlet,84,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2197,2026-09-23T01:11:19Z,record_revised,outlet,85,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2198,2026-09-23T01:11:20Z,record_revised,outlet,86,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2199,2026-09-23T01:11:22Z,record_revised,outlet,87,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2200,2026-09-23T01:11:23Z,record_revised,outlet,88,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2201,2026-09-23T01:11:26Z,record_revised,outlet,89,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2202,2026-09-23T01:11:28Z,record_revised,outlet,90,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2203,2026-09-23T01:11:30Z,record_revised,outlet,91,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2204,2026-09-23T01:11:31Z,record_revised,outlet,92,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2205,2026-09-23T01:11:33Z,record_revised,outlet,93,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2206,2026-09-23T01:11:35Z,record_revised,outlet,94,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2207,2026-09-23T01:11:36Z,record_revised,outlet,95,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2208,2026-09-23T01:11:38Z,record_revised,outlet,96,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2209,2026-09-23T01:11:40Z,record_revised,outlet,97,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2210,2026-09-23T01:11:41Z,record_revised,outlet,98,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2211,2026-09-23T01:11:43Z,record_revised,outlet,37,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2212,2026-09-23T01:11:44Z,record_revised,outlet,99,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2213,2026-09-23T01:11:46Z,record_revised,outlet,100,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2214,2026-09-23T01:11:48Z,record_revised,outlet,101,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2215,2026-09-23T01:11:50Z,record_published,outlet,102,,,,first publication,0
+2216,2026-09-23T01:11:51Z,record_published,outlet,103,,,,first publication,0
+2217,2026-09-23T01:11:53Z,record_published,outlet,104,,,,first publication,0
+2218,2026-09-23T01:11:54Z,record_published,outlet,105,,,,first publication,0
+2219,2026-09-23T01:11:56Z,record_published,outlet,106,,,,first publication,0
+2220,2026-09-23T01:11:57Z,record_published,outlet,107,,,,first publication,0
+2221,2026-09-23T01:11:59Z,record_published,outlet,108,,,,first publication,0
+2222,2026-09-23T01:12:00Z,record_published,outlet,109,,,,first publication,0
+2223,2026-09-23T01:12:01Z,record_revised,outlet,8,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2224,2026-09-23T01:12:04Z,record_published,outlet,110,,,,first publication,0
+2225,2026-09-23T01:12:05Z,record_revised,outlet,5,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2226,2026-09-23T01:12:07Z,record_published,outlet,111,,,,first publication,0
+2227,2026-09-23T01:12:08Z,record_revised,actor,132,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2228,2026-09-23T01:12:10Z,record_revised,actor,197,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2229,2026-09-23T01:12:12Z,record_revised,actor,181,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2230,2026-09-23T01:12:14Z,record_published,actor,212,,,,first publication,0
+2231,2026-09-23T01:12:15Z,record_published,actor,213,,,,first publication,0
+2232,2026-09-23T01:12:17Z,record_published,actor,214,,,,first publication,0
+2233,2026-09-23T01:12:17Z,record_revised,actor,187,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2234,2026-09-23T01:12:20Z,record_published,actor,215,,,,first publication,0
+2235,2026-09-23T01:12:21Z,record_published,actor,216,,,,first publication,0
+2236,2026-09-23T01:12:23Z,record_published,actor,217,,,,first publication,0
+2237,2026-09-23T01:12:24Z,record_published,actor,218,,,,first publication,0
+2238,2026-09-23T01:12:26Z,record_published,actor,219,,,,first publication,0
+2239,2026-09-23T01:12:27Z,record_revised,actor,198,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2240,2026-09-23T01:12:29Z,record_published,actor,220,,,,first publication,0
+2241,2026-09-23T01:12:31Z,record_published,actor,221,,,,first publication,0
+2242,2026-09-23T01:12:33Z,record_published,actor,222,,,,first publication,0
+2243,2026-09-23T01:12:34Z,record_published,actor,223,,,,first publication,0
+2244,2026-09-23T01:12:36Z,record_published,actor,224,,,,first publication,0
+2245,2026-09-23T01:12:36Z,record_revised,actor,138,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2246,2026-09-23T01:12:39Z,record_published,actor,225,,,,first publication,0
+2247,2026-09-23T01:12:40Z,record_published,actor,226,,,,first publication,0
+2248,2026-09-23T01:12:42Z,record_published,actor,227,,,,first publication,0
+2249,2026-09-23T01:12:43Z,record_published,actor,228,,,,first publication,0
+2250,2026-09-23T01:12:45Z,record_published,actor,229,,,,first publication,0
+2251,2026-09-23T01:12:46Z,record_published,actor,230,,,,first publication,0
+2252,2026-09-23T01:12:48Z,record_published,actor,231,,,,first publication,0
+2253,2026-09-23T01:12:49Z,record_revised,actor,143,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2254,2026-09-23T01:12:51Z,record_published,actor,232,,,,first publication,0
+2255,2026-09-23T01:12:52Z,record_published,actor,233,,,,first publication,0
+2256,2026-09-23T01:12:53Z,record_revised,actor,179,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2257,2026-09-23T01:12:55Z,record_published,actor,234,,,,first publication,0
+2258,2026-09-23T01:12:56Z,record_revised,actor,37,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2259,2026-09-23T01:12:58Z,record_published,actor,235,,,,first publication,0
+2260,2026-09-23T01:12:59Z,record_published,actor,236,,,,first publication,0
+2261,2026-09-23T01:13:01Z,record_published,actor,237,,,,first publication,0
+2262,2026-09-23T01:13:02Z,record_published,actor,238,,,,first publication,0
+2263,2026-09-23T01:13:03Z,record_revised,actor,38,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2264,2026-09-23T01:13:05Z,record_revised,actor,124,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2265,2026-09-23T01:13:08Z,record_published,actor,239,,,,first publication,0
+2266,2026-09-23T01:13:09Z,record_published,actor,240,,,,first publication,0
+2267,2026-09-23T01:13:11Z,record_published,actor,241,,,,first publication,0
+2268,2026-09-23T01:13:12Z,record_published,actor,242,,,,first publication,0
+2269,2026-09-23T01:13:13Z,record_revised,actor,26,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2270,2026-09-23T01:13:15Z,record_revised,actor,31,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2271,2026-09-23T01:13:17Z,record_revised,actor,208,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2272,2026-09-23T01:13:19Z,record_published,actor,243,,,,first publication,0
+2273,2026-09-23T01:13:21Z,record_published,journalist,23,,,,first publication,0
+2274,2026-09-23T01:13:22Z,record_published,journalist,24,,,,first publication,0
+2275,2026-09-23T01:13:24Z,record_published,journalist,25,,,,first publication,0
+2276,2026-09-23T01:13:25Z,record_published,journalist,26,,,,first publication,0
+2277,2026-09-23T01:13:27Z,record_published,journalist,27,,,,first publication,0
+2278,2026-09-23T01:13:28Z,record_published,journalist,28,,,,first publication,0
+2279,2026-09-23T01:13:30Z,record_published,journalist,29,,,,first publication,0
+2280,2026-09-23T01:13:31Z,record_published,journalist,30,,,,first publication,0
+2281,2026-09-23T01:13:32Z,record_published,journalist,31,,,,first publication,0
+2282,2026-09-23T01:13:34Z,record_published,journalist,32,,,,first publication,0
+2283,2026-09-23T01:13:35Z,record_published,journalist,33,,,,first publication,0
+2284,2026-09-23T01:13:37Z,record_published,journalist,34,,,,first publication,0
+2285,2026-09-23T01:13:38Z,record_published,journalist,35,,,,first publication,0
+2286,2026-09-23T01:13:39Z,record_published,journalist,36,,,,first publication,0
+2287,2026-09-23T01:13:41Z,record_published,journalist,37,,,,first publication,0
+2288,2026-09-23T01:13:42Z,record_published,journalist,38,,,,first publication,0
+2289,2026-09-23T01:13:44Z,record_published,journalist,39,,,,first publication,0
+2290,2026-09-23T01:13:45Z,record_published,journalist,40,,,,first publication,0
+2291,2026-09-23T01:13:47Z,record_published,journalist,41,,,,first publication,0
+2292,2026-09-23T01:13:48Z,record_published,journalist,42,,,,first publication,0
+2293,2026-09-23T01:13:49Z,record_published,journalist,43,,,,first publication,0
+2294,2026-09-23T01:13:51Z,record_published,journalist,44,,,,first publication,0
+2295,2026-09-23T01:13:52Z,record_published,journalist,45,,,,first publication,0
+2296,2026-09-23T01:13:54Z,record_published,journalist,46,,,,first publication,0
+2297,2026-09-23T01:13:55Z,record_published,journalist,47,,,,first publication,0
+2298,2026-09-23T01:13:57Z,record_published,journalist,48,,,,first publication,0
+2299,2026-09-23T01:13:58Z,record_published,journalist,49,,,,first publication,0
+2300,2026-09-23T01:14:00Z,record_published,journalist,50,,,,first publication,0
+2301,2026-09-23T01:14:01Z,record_published,journalist,51,,,,first publication,0
+2302,2026-09-23T01:14:02Z,record_published,journalist,52,,,,first publication,0
+2303,2026-09-23T01:14:03Z,record_revised,journalist,5,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2304,2026-09-23T01:14:05Z,record_published,journalist,53,,,,first publication,0
+2305,2026-09-23T01:14:07Z,record_published,journalist,54,,,,first publication,0
+2306,2026-09-23T01:14:08Z,record_published,journalist,55,,,,first publication,0
+2307,2026-09-23T01:14:09Z,record_published,journalist,56,,,,first publication,0
+2308,2026-09-23T01:14:11Z,record_published,journalist,57,,,,first publication,0
+2309,2026-09-23T01:14:12Z,record_published,journalist,58,,,,first publication,0
+2310,2026-09-23T01:14:14Z,record_published,journalist,59,,,,first publication,0
+2311,2026-09-23T01:14:15Z,record_published,journalist,60,,,,first publication,0
+2312,2026-09-23T01:14:16Z,record_published,journalist,61,,,,first publication,0
+2313,2026-09-23T01:14:18Z,record_published,journalist,62,,,,first publication,0
+2314,2026-09-23T01:14:19Z,record_published,journalist,63,,,,first publication,0
+2315,2026-09-23T01:14:20Z,record_published,journalist,64,,,,first publication,0
+2316,2026-09-23T01:14:22Z,record_published,journalist,65,,,,first publication,0
+2317,2026-09-23T01:14:23Z,record_published,journalist,66,,,,first publication,0
+2318,2026-09-23T01:14:24Z,record_published,journalist,67,,,,first publication,0
+2319,2026-09-23T01:14:26Z,record_published,journalist,68,,,,first publication,0
+2320,2026-09-23T01:14:27Z,record_published,journalist,69,,,,first publication,0
+2321,2026-09-23T01:14:28Z,record_published,journalist,70,,,,first publication,0
+2322,2026-09-23T01:14:30Z,record_published,journalist,71,,,,first publication,0
+2323,2026-09-23T01:14:31Z,record_published,journalist,72,,,,first publication,0
+2324,2026-09-23T01:14:32Z,record_published,journalist,73,,,,first publication,0
+2325,2026-09-23T01:14:34Z,record_published,journalist,74,,,,first publication,0
+2326,2026-09-23T01:14:35Z,record_published,journalist,75,,,,first publication,0
+2327,2026-09-23T01:14:37Z,record_published,journalist,76,,,,first publication,0
+2328,2026-09-23T01:14:38Z,record_published,journalist,77,,,,first publication,0
+2329,2026-09-23T01:14:39Z,record_published,journalist,78,,,,first publication,0
+2330,2026-09-23T01:14:41Z,record_published,journalist,79,,,,first publication,0
+2331,2026-09-23T01:14:45Z,claim_new,incident,130,495,,criminal complaint filed,,0
+2332,2026-09-23T01:14:46Z,record_published,incident,130,,,,first publication,0
+2333,2026-09-23T01:14:51Z,claim_new,incident,131,496,,visa procedures suspended,,0
+2334,2026-09-23T01:14:53Z,record_published,incident,131,,,,first publication,0
+2335,2026-09-23T01:14:56Z,claim_new,incident,132,497,,headline called racist,,0
+2336,2026-09-23T01:14:58Z,record_published,incident,132,,,,first publication,0
+2337,2026-09-23T01:15:03Z,claim_new,incident,133,498,,counter-terrorism unit recommendation,,0
+2338,2026-09-23T01:15:04Z,claim_new,incident,133,499,,same-day deportations,,0
+2339,2026-09-23T01:15:05Z,record_published,incident,133,,,,first publication,0
+2340,2026-09-23T01:15:09Z,claim_new,incident,134,500,,"""lost trust"" and ""fake news""",,0
+2341,2026-09-23T01:15:10Z,claim_new,incident,134,501,,coverage by television only,,0
+2342,2026-09-23T01:15:11Z,record_published,incident,134,,,,first publication,0
+2343,2026-09-23T01:15:16Z,claim_new,incident,135,502,,about 300 journalists waiting,,0
+2344,2026-09-23T01:15:17Z,claim_new,incident,135,503,,presidency defends the rules,,0
+2345,2026-09-23T01:15:19Z,record_published,incident,135,,,,first publication,0
+2346,2026-09-23T01:15:24Z,claim_new,incident,136,504,,commission demanded extra information,,0
+2347,2026-09-23T01:15:25Z,claim_new,incident,136,505,,CPJ's assessment of the process,,0
+2348,2026-09-23T01:15:27Z,record_published,incident,136,,,,first publication,0
+2349,2026-09-23T01:15:32Z,claim_new,incident,137,506,,Radio Azattyq journalists affected,,0
+2350,2026-09-23T01:15:32Z,claim_new,incident,137,507,,no government response,,0
+2351,2026-09-23T01:15:34Z,record_published,incident,137,,,,first publication,0
+2352,2026-09-23T01:15:39Z,claim_new,incident,138,508,,18 journalists expelled in first half of 2020,,0
+2353,2026-09-23T01:15:40Z,record_published,incident,138,,,,first publication,0
+2354,2026-09-23T01:15:45Z,claim_new,incident,139,509,,2006 ownership documents cited,,0
+2355,2026-09-23T01:15:46Z,claim_new,incident,139,510,,editor calls it a political act,,0
+2356,2026-09-23T01:15:46Z,claim_new,incident,139,511,,newspaper's own statement,,0
+2357,2026-09-23T01:15:48Z,record_published,incident,139,,,,first publication,0
+2358,2026-09-23T01:15:52Z,claim_new,incident,140,512,,Lai's detention,,0
+2359,2026-09-23T01:15:53Z,claim_new,incident,140,513,,potential life sentence,,0
+2360,2026-09-23T01:15:56Z,record_published,incident,140,,,,first publication,0
+2361,2026-09-23T01:16:01Z,claim_new,incident,141,514,,government calls it automatic,,0
+2362,2026-09-23T01:16:03Z,record_published,incident,141,,,,first publication,0
+2363,2026-09-23T01:16:13Z,claim_new,incident,143,515,,Media Council's stated reason,,0
+2364,2026-09-23T01:16:15Z,record_published,incident,143,,,,first publication,0
+2365,2026-09-23T01:16:20Z,claim_new,incident,144,516,,Hun Sen's stated reason,,0
+2366,2026-09-23T01:16:21Z,claim_new,incident,144,517,,editor warns of unchecked corruption,,0
+2367,2026-09-23T01:16:23Z,record_published,incident,144,,,,first publication,0
+2368,2026-09-23T01:16:28Z,claim_new,incident,145,518,,military censorship standard,,0
+2369,2026-09-23T01:16:28Z,claim_new,incident,145,519,,editor declines Editors' Committee,,0
+2370,2026-09-23T01:16:30Z,record_published,incident,145,,,,first publication,0
+2371,2026-09-23T01:16:36Z,claim_new,incident,146,520,,CPJ calls for reversal,,0
+2372,2026-09-23T01:16:37Z,record_published,incident,146,,,,first publication,0
+2373,2026-09-23T01:16:42Z,claim_new,incident,147,521,,application unanswered since 2018,,0
+2374,2026-09-23T01:16:43Z,claim_new,incident,147,522,,cybercrime law on software use,,0
+2375,2026-09-23T01:16:45Z,record_published,incident,147,,,,first publication,0
+2376,2026-09-23T01:17:00Z,claim_new,incident,150,523,,son calls case political,,0
+2377,2026-09-23T01:17:02Z,record_published,incident,150,,,,first publication,0
+2378,2026-09-23T01:17:11Z,claim_new,incident,152,524,,Article 299 of the penal code,,0
+2379,2026-09-23T01:17:13Z,record_published,incident,152,,,,first publication,0
+2380,2026-09-23T01:17:33Z,claim_new,incident,156,525,,sources grow afraid,,0
+2381,2026-09-23T01:17:34Z,claim_new,incident,156,526,,chilling effect on reporting,,0
+2382,2026-09-23T01:17:36Z,record_published,incident,156,,,,first publication,0
+2383,2026-09-23T01:17:41Z,claim_new,incident,157,527,,private material extracted despite precautions,,0
+2384,2026-09-23T01:17:44Z,record_published,incident,157,,,,first publication,0
+2385,2026-09-23T01:17:50Z,claim_new,incident,158,528,,killing follows one day later,,0
+2386,2026-09-23T01:17:51Z,record_published,incident,158,,,,first publication,0
+2387,2026-09-23T01:17:56Z,claim_new,incident,159,529,,KESMA now controls about 80 percent of the country's media market,,0
+2388,2026-09-23T01:17:57Z,claim_new,incident,159,530,,Public broadcasting became a government messaging tool,,0
+2389,2026-09-23T01:17:59Z,record_published,incident,159,,,,first publication,0
+2390,2026-09-23T01:18:03Z,claim_new,incident,160,531,,More than 70 staff resign,,0
+2391,2026-09-23T01:18:05Z,record_published,incident,160,,,,first publication,0
+2392,2026-09-23T01:18:10Z,claim_new,incident,161,532,,Polska Times editor notes no immediate change but concern,,0
+2393,2026-09-23T01:18:12Z,record_published,incident,161,,,,first publication,0
+2394,2026-09-23T01:18:17Z,claim_new,incident,162,533,,Police used tear gas and water cannons on supporters,,0
+2395,2026-09-23T01:18:18Z,claim_new,incident,162,534,,Editor says the takeover targets more than one paper,,0
+2396,2026-09-23T01:18:20Z,record_published,incident,162,,,,first publication,0
+2397,2026-09-23T01:18:25Z,claim_new,incident,163,535,,Earlier Demiroren purchases turned pro-government,,0
+2398,2026-09-23T01:18:27Z,record_published,incident,163,,,,first publication,0
+2399,2026-09-23T01:18:32Z,claim_new,incident,164,536,,Authority cites failure to meet conduct standards,,0
+2400,2026-09-23T01:18:33Z,claim_new,incident,164,537,,The Economist calls Gardner's reporting professional and unbiased,,0
+2401,2026-09-23T01:18:35Z,record_published,incident,164,,,,first publication,0
+2402,2026-09-23T01:18:41Z,claim_new,incident,165,538,,Officials cite alleged Jabhat al-Nusra ties,,0
+2403,2026-09-23T01:18:42Z,claim_new,incident,165,539,,Dutch government says it made no such request,,0
+2404,2026-09-23T01:18:44Z,record_published,incident,165,,,,first publication,0
+2405,2026-09-23T01:18:48Z,claim_new,incident,166,540,,Ministry cites father's Pakistani nationality,,0
+2406,2026-09-23T01:18:51Z,record_published,incident,166,,,,first publication,0
+2407,2026-09-23T01:18:55Z,claim_new,incident,167,541,,Reporters in different townships cannot send stories,,0
+2408,2026-09-23T01:18:58Z,record_published,incident,167,,,,first publication,0
+2409,2026-09-23T01:19:02Z,claim_new,incident,168,542,,Partial restoration uneven across the region,,0
+2410,2026-09-23T01:19:04Z,record_published,incident,168,,,,first publication,0
+2411,2026-09-23T01:19:10Z,claim_new,incident,169,543,,Authorities move to establish total control of information,,0
+2412,2026-09-23T01:19:12Z,record_published,incident,169,,,,first publication,0
+2413,2026-09-23T01:19:17Z,claim_new,incident,170,544,,At least 11 journalists arrested since the protests began,,0
+2414,2026-09-23T01:19:18Z,record_published,incident,170,,,,first publication,0
+2415,2026-09-23T01:19:23Z,claim_new,incident,171,545,,CPJ calls for accounts to be restored,,0
+2416,2026-09-23T01:19:25Z,record_published,incident,171,,,,first publication,0
+2417,2026-09-23T01:19:29Z,claim_new,incident,172,546,,Charge of picking quarrels and provoking trouble,,0
+2418,2026-09-23T01:19:31Z,record_published,incident,172,,,,first publication,0
+2419,2026-09-23T01:19:41Z,claim_new,incident,174,547,,CPJ calls the sentence a sham,,0
+2420,2026-09-23T01:19:41Z,claim_new,incident,174,548,,"Wall Street Journal calls it a disgraceful, sham conviction",,0
+2421,2026-09-23T01:19:44Z,record_published,incident,174,,,,first publication,0
+2422,2026-09-23T01:19:49Z,claim_new,incident,175,549,,Ressa calls the charge political,,0
+2423,2026-09-23T01:19:51Z,record_published,incident,175,,,,first publication,0
+2424,2026-09-23T01:20:01Z,claim_new,incident,177,550,,CPJ urges against contesting the appeal,,0
+2425,2026-09-23T01:20:03Z,record_published,incident,177,,,,first publication,0
+2426,2026-09-23T01:20:09Z,claim_new,incident,178,551,,CPJ calls the prosecution a severe threat to free speech,,0
+2427,2026-09-23T01:20:10Z,record_published,incident,178,,,,first publication,0
+2428,2026-09-23T01:20:15Z,claim_new,incident,179,552,,Fine for failing to provide financial information,,0
+2429,2026-09-23T01:20:15Z,claim_new,incident,179,553,,CPJ says the fine is designed to cripple the outlet,,0
+2430,2026-09-23T01:20:18Z,record_published,incident,179,,,,first publication,0
+2431,2026-09-23T01:20:27Z,claim_new,incident,181,554,,"Underground market charges up to $5,000 per false complaint",,0
+2432,2026-09-23T01:20:29Z,record_published,incident,181,,,,first publication,0
+2433,2026-09-23T01:20:38Z,claim_new,incident,182,555,,Ministry official denies it is a ban,,0
+2434,2026-09-23T01:20:38Z,claim_new,incident,182,556,,Industry coalition warns of harm to Vietnam's internet economy,,0
+2435,2026-09-23T01:20:40Z,record_published,incident,182,,,,first publication,0
+2436,2026-09-23T01:25:56Z,record_revised,outlet,59,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2437,2026-09-23T01:25:58Z,record_revised,outlet,60,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2438,2026-09-23T01:25:59Z,record_revised,outlet,61,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2439,2026-09-23T01:26:01Z,record_revised,outlet,13,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2440,2026-09-23T01:26:03Z,record_revised,outlet,62,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2441,2026-09-23T01:26:05Z,record_revised,outlet,4,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2442,2026-09-23T01:26:06Z,record_revised,outlet,16,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2443,2026-09-23T01:26:07Z,record_revised,outlet,63,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2444,2026-09-23T01:26:09Z,record_revised,outlet,64,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2445,2026-09-23T01:26:10Z,record_revised,outlet,65,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2446,2026-09-23T01:26:12Z,record_revised,outlet,66,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2447,2026-09-23T01:26:13Z,record_revised,outlet,67,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2448,2026-09-23T01:26:15Z,record_revised,outlet,68,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2449,2026-09-23T01:26:16Z,record_revised,outlet,69,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2450,2026-09-23T01:26:18Z,record_revised,outlet,70,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2451,2026-09-23T01:26:19Z,record_revised,outlet,71,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2452,2026-09-23T01:26:24Z,record_revised,outlet,72,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2453,2026-09-23T01:26:25Z,record_revised,outlet,73,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2454,2026-09-23T01:26:27Z,record_revised,outlet,74,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2455,2026-09-23T01:26:28Z,record_revised,outlet,75,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2456,2026-09-23T01:26:30Z,record_revised,outlet,76,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2457,2026-09-23T01:26:31Z,record_revised,outlet,77,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2458,2026-09-23T01:26:33Z,record_revised,outlet,78,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2459,2026-09-23T01:26:34Z,record_revised,outlet,79,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2460,2026-09-23T01:26:36Z,record_revised,outlet,80,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2461,2026-09-23T01:26:37Z,record_revised,outlet,81,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2462,2026-09-23T01:26:38Z,record_revised,outlet,82,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2463,2026-09-23T01:26:40Z,record_revised,outlet,83,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2464,2026-09-23T01:26:42Z,record_revised,outlet,84,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2465,2026-09-23T01:26:43Z,record_revised,outlet,85,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2466,2026-09-23T01:26:45Z,record_revised,outlet,86,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2467,2026-09-23T01:26:46Z,record_revised,outlet,87,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2468,2026-09-23T01:26:48Z,record_revised,outlet,88,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2469,2026-09-23T01:26:49Z,record_revised,outlet,33,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2470,2026-09-23T01:26:51Z,record_revised,outlet,42,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2471,2026-09-23T01:26:52Z,record_revised,outlet,89,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2472,2026-09-23T01:26:54Z,record_revised,outlet,90,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2473,2026-09-23T01:26:55Z,record_revised,outlet,91,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2474,2026-09-23T01:26:56Z,record_revised,outlet,92,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2475,2026-09-23T01:26:58Z,record_revised,outlet,93,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2476,2026-09-23T01:26:59Z,record_revised,outlet,94,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2477,2026-09-23T01:27:01Z,record_revised,outlet,95,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2478,2026-09-23T01:27:02Z,record_revised,outlet,96,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2479,2026-09-23T01:27:04Z,record_revised,outlet,97,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2480,2026-09-23T01:27:05Z,record_revised,outlet,98,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2481,2026-09-23T01:27:06Z,record_revised,outlet,37,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2482,2026-09-23T01:27:08Z,record_revised,outlet,99,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2483,2026-09-23T01:27:09Z,record_revised,outlet,100,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2484,2026-09-23T01:27:11Z,record_revised,outlet,101,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2485,2026-09-23T01:27:12Z,record_revised,outlet,102,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2486,2026-09-23T01:27:14Z,record_revised,outlet,103,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2487,2026-09-23T01:27:15Z,record_revised,outlet,104,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2488,2026-09-23T01:27:17Z,record_revised,outlet,105,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2489,2026-09-23T01:27:18Z,record_revised,outlet,106,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2490,2026-09-23T01:27:20Z,record_revised,outlet,107,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2491,2026-09-23T01:27:21Z,record_revised,outlet,108,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2492,2026-09-23T01:27:23Z,record_revised,outlet,109,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2493,2026-09-23T01:27:24Z,record_revised,outlet,8,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2494,2026-09-23T01:27:25Z,record_revised,outlet,110,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2495,2026-09-23T01:27:27Z,record_revised,outlet,5,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2496,2026-09-23T01:27:28Z,record_revised,outlet,44,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2497,2026-09-23T01:27:30Z,record_revised,outlet,111,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2498,2026-09-23T01:27:31Z,record_revised,actor,132,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2499,2026-09-23T01:27:32Z,record_revised,actor,197,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2500,2026-09-23T01:27:34Z,record_revised,actor,181,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2501,2026-09-23T01:27:35Z,record_revised,actor,212,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2502,2026-09-23T01:27:37Z,record_revised,actor,213,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2503,2026-09-23T01:27:38Z,record_revised,actor,214,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2504,2026-09-23T01:27:40Z,record_revised,actor,187,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2505,2026-09-23T01:27:41Z,record_revised,actor,215,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2506,2026-09-23T01:27:42Z,record_revised,actor,216,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2507,2026-09-23T01:27:44Z,record_revised,actor,217,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2508,2026-09-23T01:27:45Z,record_revised,actor,218,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2509,2026-09-23T01:27:46Z,record_revised,actor,219,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2510,2026-09-23T01:27:48Z,record_revised,actor,198,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2511,2026-09-23T01:27:49Z,record_revised,actor,220,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2512,2026-09-23T01:27:51Z,record_revised,actor,221,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2513,2026-09-23T01:27:52Z,record_revised,actor,222,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2514,2026-09-23T01:27:54Z,record_revised,actor,223,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2515,2026-09-23T01:27:55Z,record_revised,actor,224,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2516,2026-09-23T01:27:57Z,record_revised,actor,138,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2517,2026-09-23T01:27:58Z,record_revised,actor,225,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2518,2026-09-23T01:28:00Z,record_revised,actor,226,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2519,2026-09-23T01:28:02Z,record_revised,actor,227,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2520,2026-09-23T01:28:03Z,record_revised,actor,228,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2521,2026-09-23T01:28:05Z,record_revised,actor,229,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2522,2026-09-23T01:28:06Z,record_revised,actor,230,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2523,2026-09-23T01:28:08Z,record_revised,actor,231,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2524,2026-09-23T01:28:09Z,record_revised,actor,143,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2525,2026-09-23T01:28:11Z,record_revised,actor,232,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2526,2026-09-23T01:28:12Z,record_revised,actor,233,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2527,2026-09-23T01:28:13Z,record_revised,actor,179,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2528,2026-09-23T01:28:15Z,record_revised,actor,234,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2529,2026-09-23T01:28:16Z,record_revised,actor,37,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2530,2026-09-23T01:28:17Z,record_revised,actor,235,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2531,2026-09-23T01:28:19Z,record_revised,actor,236,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2532,2026-09-23T01:28:20Z,record_revised,actor,237,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2533,2026-09-23T01:28:22Z,record_revised,actor,238,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2534,2026-09-23T01:28:23Z,record_revised,actor,38,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2535,2026-09-23T01:28:26Z,record_revised,actor,124,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2536,2026-09-23T01:28:27Z,record_revised,actor,239,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2537,2026-09-23T01:28:29Z,record_revised,actor,240,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2538,2026-09-23T01:28:30Z,record_revised,actor,241,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2539,2026-09-23T01:28:31Z,record_revised,actor,242,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2540,2026-09-23T01:28:33Z,record_revised,actor,26,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2541,2026-09-23T01:28:34Z,record_revised,actor,31,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2542,2026-09-23T01:28:36Z,record_revised,actor,208,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2543,2026-09-23T01:28:37Z,record_revised,actor,243,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2544,2026-09-23T01:28:39Z,record_revised,journalist,23,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2545,2026-09-23T01:28:40Z,record_revised,journalist,24,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2546,2026-09-23T01:28:42Z,record_revised,journalist,25,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2547,2026-09-23T01:28:43Z,record_revised,journalist,26,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2548,2026-09-23T01:28:45Z,record_revised,journalist,27,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2549,2026-09-23T01:28:46Z,record_revised,journalist,28,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2550,2026-09-23T01:28:47Z,record_revised,journalist,29,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2551,2026-09-23T01:28:49Z,record_revised,journalist,30,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2552,2026-09-23T01:28:50Z,record_revised,journalist,31,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2553,2026-09-23T01:28:52Z,record_revised,journalist,32,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2554,2026-09-23T01:28:53Z,record_revised,journalist,33,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2555,2026-09-23T01:28:55Z,record_revised,journalist,34,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2556,2026-09-23T01:28:56Z,record_revised,journalist,35,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2557,2026-09-23T01:28:58Z,record_revised,journalist,36,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2558,2026-09-23T01:29:00Z,record_revised,journalist,37,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2559,2026-09-23T01:29:01Z,record_revised,journalist,38,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2560,2026-09-23T01:29:03Z,record_revised,journalist,39,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2561,2026-09-23T01:29:04Z,record_revised,journalist,40,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2562,2026-09-23T01:29:06Z,record_revised,journalist,41,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2563,2026-09-23T01:29:07Z,record_revised,journalist,42,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2564,2026-09-23T01:29:09Z,record_revised,journalist,43,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2565,2026-09-23T01:29:10Z,record_revised,journalist,44,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2566,2026-09-23T01:29:12Z,record_revised,journalist,45,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2567,2026-09-23T01:29:13Z,record_revised,journalist,46,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2568,2026-09-23T01:29:15Z,record_revised,journalist,47,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2569,2026-09-23T01:29:16Z,record_revised,journalist,48,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2570,2026-09-23T01:29:17Z,record_revised,journalist,49,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2571,2026-09-23T01:29:19Z,record_revised,journalist,50,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2572,2026-09-23T01:29:20Z,record_revised,journalist,51,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2573,2026-09-23T01:29:22Z,record_revised,journalist,52,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2574,2026-09-23T01:29:23Z,record_revised,journalist,5,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2575,2026-09-23T01:29:25Z,record_revised,journalist,53,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2576,2026-09-23T01:29:27Z,record_revised,journalist,54,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2577,2026-09-23T01:29:28Z,record_revised,journalist,55,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2578,2026-09-23T01:29:30Z,record_revised,journalist,56,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2579,2026-09-23T01:29:31Z,record_revised,journalist,57,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2580,2026-09-23T01:29:33Z,record_revised,journalist,58,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2581,2026-09-23T01:29:34Z,record_revised,journalist,59,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2582,2026-09-23T01:29:36Z,record_revised,journalist,60,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2583,2026-09-23T01:29:38Z,record_revised,journalist,61,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2584,2026-09-23T01:29:39Z,record_revised,journalist,62,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2585,2026-09-23T01:29:41Z,record_revised,journalist,63,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2586,2026-09-23T01:29:42Z,record_revised,journalist,64,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2587,2026-09-23T01:29:44Z,record_revised,journalist,65,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2588,2026-09-23T01:29:45Z,record_revised,journalist,66,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2589,2026-09-23T01:29:47Z,record_revised,journalist,67,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2590,2026-09-23T01:29:48Z,record_revised,journalist,68,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2591,2026-09-23T01:29:50Z,record_revised,journalist,69,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2592,2026-09-23T01:29:51Z,record_revised,journalist,70,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2593,2026-09-23T01:29:53Z,record_revised,journalist,71,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2594,2026-09-23T01:29:54Z,record_revised,journalist,72,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2595,2026-09-23T01:29:56Z,record_revised,journalist,73,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2596,2026-09-23T01:29:57Z,record_revised,journalist,74,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2597,2026-09-23T01:29:59Z,record_revised,journalist,75,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2598,2026-09-23T01:30:00Z,record_revised,journalist,76,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2599,2026-09-23T01:30:02Z,record_revised,journalist,77,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2600,2026-09-23T01:30:04Z,record_revised,journalist,78,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2601,2026-09-23T01:30:06Z,record_revised,journalist,79,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2602,2026-09-23T01:30:08Z,record_revised,incident,130,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2603,2026-09-23T01:30:09Z,record_revised,incident,130,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2604,2026-09-23T01:30:10Z,claim_new,incident,130,557,,"Csakbereny, March 10, 2026",,0
+2605,2026-09-23T01:30:11Z,claim_new,incident,130,558,,"camera covered, journalists pushed",,0
+2606,2026-09-23T01:30:12Z,record_revised,incident,130,,,,Claim references added,0
+2607,2026-09-23T01:30:14Z,record_revised,incident,131,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2608,2026-09-23T01:30:15Z,record_revised,incident,131,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2609,2026-09-23T01:30:17Z,claim_new,incident,131,559,,"CBC bureau closed, May 18, 2022",,0
+2610,2026-09-23T01:30:17Z,claim_new,incident,131,560,,"49 British citizens barred, June 14, 2022",,0
+2611,2026-09-23T01:30:18Z,claim_new,incident,131,561,,"121 Australians barred, June 16, 2022",,0
+2612,2026-09-23T01:30:19Z,record_revised,incident,131,,,,Claim references added,0
+2613,2026-09-23T01:30:21Z,record_revised,incident,132,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2614,2026-09-23T01:30:22Z,record_revised,incident,132,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2615,2026-09-23T01:30:24Z,claim_new,incident,132,562,,three journalists named,,0
+2616,2026-09-23T01:30:25Z,claim_new,incident,132,563,,"opinion column, February 3, 2020",,0
+2617,2026-09-23T01:30:25Z,record_revised,incident,132,,,,Claim references added,0
+2618,2026-09-23T01:30:28Z,record_revised,incident,133,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2619,2026-09-23T01:30:29Z,record_revised,incident,133,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2620,2026-09-23T01:30:30Z,claim_new,incident,133,564,,"at least 17 journalists, August 29, 2020",,0
+2621,2026-09-23T01:30:31Z,record_revised,incident,133,,,,Claim references added,0
+2622,2026-09-23T01:30:33Z,record_revised,incident,134,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2623,2026-09-23T01:30:34Z,record_revised,incident,134,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2624,2026-09-23T01:30:36Z,claim_new,incident,134,565,,"ban ordered by text message, February 21, 2018",,0
+2625,2026-09-23T01:30:37Z,record_revised,incident,134,,,,Claim references added,0
+2626,2026-09-23T01:30:39Z,record_revised,incident,135,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2627,2026-09-23T01:30:40Z,record_revised,incident,135,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2628,2026-09-23T01:30:41Z,claim_new,incident,135,566,,"Council of State ruling, April 1, 2021",,0
+2629,2026-09-23T01:30:42Z,record_revised,incident,135,,,,Claim references added,0
+2630,2026-09-23T01:30:44Z,record_revised,incident,136,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2631,2026-09-23T01:30:45Z,record_revised,incident,136,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2632,2026-09-23T01:30:47Z,claim_new,incident,136,567,,"ruling, May 12, 2005",,0
+2633,2026-09-23T01:30:48Z,claim_new,incident,136,568,,AIPPA registration requirement,,0
+2634,2026-09-23T01:30:49Z,record_revised,incident,136,,,,Claim references added,0
+2635,2026-09-23T01:30:51Z,record_revised,incident,137,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2636,2026-09-23T01:30:52Z,record_revised,incident,137,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2637,2026-09-23T01:30:53Z,claim_new,incident,137,569,,"six-month withdrawal rule, effective August 20, 2024",,0
+2638,2026-09-23T01:30:54Z,record_revised,incident,137,,,,Claim references added,0
+2639,2026-09-23T01:30:57Z,record_revised,incident,138,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2640,2026-09-23T01:30:58Z,record_revised,incident,138,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2641,2026-09-23T01:30:59Z,claim_new,incident,138,570,,credentials refused to US-outlet journalists,,0
+2642,2026-09-23T01:31:00Z,claim_new,incident,138,571,,visas cancelled at three newspapers,,0
+2643,2026-09-23T01:31:00Z,record_revised,incident,138,,,,Claim references added,0
+2644,2026-09-23T01:31:03Z,record_revised,incident,139,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2645,2026-09-23T01:31:04Z,record_revised,incident,139,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2646,2026-09-23T01:31:05Z,claim_new,incident,139,572,,"suspension, September 5, 2022",,0
+2647,2026-09-23T01:31:06Z,record_revised,incident,139,,,,Claim references added,0
+2648,2026-09-23T01:31:08Z,record_revised,incident,140,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2649,2026-09-23T01:31:10Z,record_revised,incident,140,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2650,2026-09-23T01:31:11Z,claim_new,incident,140,573,,"new charges, December 28, 2021",,0
+2651,2026-09-23T01:31:12Z,record_revised,incident,140,,,,Claim references added,0
+2652,2026-09-23T01:31:14Z,record_revised,incident,141,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2653,2026-09-23T01:31:15Z,record_revised,incident,141,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2654,2026-09-23T01:31:16Z,claim_new,incident,141,574,,"concession expired, May 27, 2007",,0
+2655,2026-09-23T01:31:17Z,claim_new,incident,141,575,,"Inter-American Court ruling, 2015",,0
+2656,2026-09-23T01:31:18Z,claim_new,incident,141,576,,court finds real purpose,,0
+2657,2026-09-23T01:31:18Z,record_revised,incident,141,,,,Claim references added,0
+2658,2026-09-23T01:31:23Z,claim_new,incident,142,577,,"Supreme Court ruling, September 11, 2003",,0
+2659,2026-09-23T01:31:24Z,claim_new,incident,142,578,,"police raid, September 12, 2003",,0
+2660,2026-09-23T01:31:25Z,claim_new,incident,142,579,,"new licenses, May 27, 2010",,0
+2661,2026-09-23T01:31:26Z,record_published,incident,142,,,,first publication,0
+2662,2026-09-23T01:31:27Z,record_revised,incident,143,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2663,2026-09-23T01:31:28Z,record_revised,incident,143,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2664,2026-09-23T01:31:30Z,claim_new,incident,143,580,,"terrestrial broadcast ends, February 2021",,0
+2665,2026-09-23T01:31:30Z,claim_new,incident,143,581,,owner acknowledges an error,,0
+2666,2026-09-23T01:31:31Z,claim_new,incident,143,582,,"Curia upholds decision, September 2021",,0
+2667,2026-09-23T01:31:32Z,record_revised,incident,143,,,,Claim references added,0
+2668,2026-09-23T01:31:34Z,record_revised,incident,144,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2669,2026-09-23T01:31:35Z,record_revised,incident,144,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2670,2026-09-23T01:31:37Z,claim_new,incident,144,583,,"license revoked, February 13, 2023",,0
+2671,2026-09-23T01:31:38Z,record_revised,incident,144,,,,Claim references added,0
+2672,2026-09-23T01:31:40Z,record_revised,incident,145,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2673,2026-09-23T01:31:41Z,record_revised,incident,145,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2674,2026-09-23T01:31:42Z,claim_new,incident,145,584,,"order issued, June 2010",,0
+2675,2026-09-23T01:31:43Z,record_revised,incident,145,,,,Claim references added,0
+2676,2026-09-23T01:31:46Z,record_revised,incident,146,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2677,2026-09-23T01:31:47Z,record_revised,incident,146,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2678,2026-09-23T01:31:48Z,claim_new,incident,146,585,,"fines, February 22, 2023",,0
+2679,2026-09-23T01:31:49Z,claim_new,incident,146,586,,five-episode suspension,,0
+2680,2026-09-23T01:31:50Z,record_revised,incident,146,,,,Claim references added,0
+2681,2026-09-23T01:31:52Z,record_revised,incident,147,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2682,2026-09-23T01:31:53Z,record_revised,incident,147,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2683,2026-09-23T01:31:54Z,claim_new,incident,147,587,,license requirement,,0
+2684,2026-09-23T01:31:55Z,record_revised,incident,147,,,,Claim references added,0
+2685,2026-09-23T01:32:00Z,claim_new,incident,148,588,,"22-year sentence, September 5, 2022",,0
+2686,2026-09-23T01:32:00Z,claim_new,incident,148,589,,2019 reporting on jet sales to Egypt,,0
+2687,2026-09-23T01:32:01Z,claim_new,incident,148,590,,detained since July 2020,,0
+2688,2026-09-23T01:32:02Z,record_published,incident,148,,,,first publication,0
+2689,2026-09-23T01:32:06Z,claim_new,incident,183,591,,"nine-year sentence, December 14, 2021",,0
+2690,2026-09-23T01:32:06Z,claim_new,incident,183,592,,founding editor of The Vietnamese,,0
+2691,2026-09-23T01:32:07Z,claim_new,incident,183,593,,CPJ calls for release,,0
+2692,2026-09-23T01:32:09Z,record_published,incident,183,,,,first publication,0
+2693,2026-09-23T01:32:12Z,claim_new,incident,149,594,,sentences of 13 and 12 years,,0
+2694,2026-09-23T01:32:13Z,claim_new,incident,149,595,,Mahsa Amini's death,,0
+2695,2026-09-23T01:32:13Z,claim_new,incident,149,596,,"bail granted, January 2024",,0
+2696,2026-09-23T01:32:15Z,record_published,incident,149,,,,first publication,0
+2697,2026-09-23T01:32:16Z,record_revised,incident,150,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2698,2026-09-23T01:32:17Z,record_revised,incident,150,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2699,2026-09-23T01:32:19Z,claim_new,incident,150,597,,"arrested at lunch, February 2022",,0
+2700,2026-09-23T01:32:19Z,claim_new,incident,150,598,,"seven-year sentence, November 2024",,0
+2701,2026-09-23T01:32:20Z,record_revised,incident,150,,,,Claim references added,0
+2702,2026-09-23T01:32:24Z,claim_new,incident,151,599,,charge stated,,0
+2703,2026-09-23T01:32:25Z,claim_new,incident,151,600,,twenty-year sentence,,0
+2704,2026-09-23T01:32:26Z,claim_new,incident,151,601,,Clinton secures release,,0
+2705,2026-09-23T01:32:27Z,record_published,incident,151,,,,first publication,0
+2706,2026-09-23T01:32:28Z,record_revised,incident,152,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2707,2026-09-23T01:32:30Z,record_revised,incident,152,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2708,2026-09-23T01:32:31Z,claim_new,incident,152,602,,"arrest, January 22, 2022",,0
+2709,2026-09-23T01:32:32Z,claim_new,incident,152,603,,the proverb quoted on air,,0
+2710,2026-09-23T01:32:32Z,claim_new,incident,152,604,,released pending appeal,,0
+2711,2026-09-23T01:32:33Z,record_revised,incident,152,,,,Claim references added,0
+2712,2026-09-23T01:32:38Z,claim_new,incident,153,605,,"11-year sentence, January 24, 2013",,0
+2713,2026-09-23T01:32:38Z,claim_new,incident,153,606,,articles under a pen name,,0
+2714,2026-09-23T01:32:39Z,claim_new,incident,153,607,,Somyot's court testimony,,0
+2715,2026-09-23T01:32:40Z,claim_new,incident,153,608,,"released, April 30, 2018",,0
+2716,2026-09-23T01:32:41Z,record_published,incident,153,,,,first publication,0
+2717,2026-09-23T01:32:45Z,claim_new,incident,154,609,,"six-year sentence, February 15, 2023",,0
+2718,2026-09-23T01:32:45Z,claim_new,incident,154,610,,Mariupol theater post,,0
+2719,2026-09-23T01:32:46Z,claim_new,incident,154,611,,final statement to the court,,0
+2720,2026-09-23T01:32:47Z,record_published,incident,154,,,,first publication,0
+2721,2026-09-23T01:32:51Z,claim_new,incident,155,612,,"eight-year sentence, February 8, 2023",,0
+2722,2026-09-23T01:32:51Z,claim_new,incident,155,613,,Belsat and TVP Polonia work,,0
+2723,2026-09-23T01:32:52Z,claim_new,incident,155,614,,"freed, April 28, 2026",,0
+2724,2026-09-23T01:32:53Z,claim_new,incident,155,615,,two-year diplomatic effort,,0
+2725,2026-09-23T01:32:54Z,record_published,incident,155,,,,first publication,0
+2726,2026-09-23T01:32:55Z,record_revised,incident,156,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2727,2026-09-23T01:32:56Z,record_revised,incident,156,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2728,2026-09-23T01:32:58Z,claim_new,incident,156,616,,Pegasus traces confirmed,,0
+2729,2026-09-23T01:32:59Z,record_revised,incident,156,,,,Claim references added,0
+2730,2026-09-23T01:33:01Z,record_revised,incident,157,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2731,2026-09-23T01:33:02Z,record_revised,incident,157,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2732,2026-09-23T01:33:03Z,claim_new,incident,157,617,,"overnight detention, July 5, 2020",,0
+2733,2026-09-23T01:33:04Z,claim_new,incident,157,618,,Pegasus confirmed on Radi's phone,,0
+2734,2026-09-23T01:33:05Z,claim_new,incident,157,619,,"pardoned, July 2024",,0
+2735,2026-09-23T01:33:05Z,claim_new,incident,157,620,,unclear status after release,,0
+2736,2026-09-23T01:33:06Z,record_revised,incident,157,,,,Claim references added,0
+2737,2026-09-23T01:33:08Z,record_revised,incident,158,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2738,2026-09-23T01:33:09Z,record_revised,incident,158,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2739,2026-09-23T01:33:11Z,claim_new,incident,158,621,,"Citizen Lab finding, October 1, 2018",,0
+2740,2026-09-23T01:33:11Z,claim_new,incident,158,622,,collaboration with Khashoggi,,0
+2741,2026-09-23T01:33:12Z,record_revised,incident,158,,,,Claim references added,0
+2742,2026-09-23T01:33:17Z,claim_new,incident,184,623,,"phishing texts, June 19-20, 2017",,0
+2743,2026-09-23T01:33:17Z,claim_new,incident,184,624,,government denial,,0
+2744,2026-09-23T01:33:18Z,claim_new,incident,184,625,,no conclusive attribution,,0
+2745,2026-09-23T01:33:20Z,record_published,incident,184,,,,first publication,0
+2746,2026-09-23T01:33:21Z,record_revised,incident,159,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2747,2026-09-23T01:33:22Z,record_revised,incident,159,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2748,2026-09-23T01:33:24Z,claim_new,incident,159,626,,476 outlets donated to KESMA,,0
+2749,2026-09-23T01:33:25Z,record_revised,incident,159,,,,Claim references added,0
+2750,2026-09-23T01:33:27Z,record_revised,incident,160,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2751,2026-09-23T01:33:28Z,record_revised,incident,160,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2752,2026-09-23T01:33:29Z,claim_new,incident,160,627,,"Dull dismissed July 22, 2020",,0
+2753,2026-09-23T01:33:30Z,claim_new,incident,160,628,,Ownership passed to pro-government circles,,0
+2754,2026-09-23T01:33:31Z,record_revised,incident,160,,,,Claim references added,0
+2755,2026-09-23T01:33:33Z,record_revised,incident,161,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2756,2026-09-23T01:33:34Z,record_revised,incident,161,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2757,2026-09-23T01:33:36Z,claim_new,incident,161,629,,Bodnar warns of editorial influence,,0
+2758,2026-09-23T01:33:36Z,claim_new,incident,161,630,,"Media without choice protest, February 10, 2021",,0
+2759,2026-09-23T01:33:37Z,record_revised,incident,161,,,,Claim references added,0
+2760,2026-09-23T01:33:39Z,record_revised,incident,162,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2761,2026-09-23T01:33:40Z,record_revised,incident,162,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2762,2026-09-23T01:33:42Z,claim_new,incident,162,631,,Court rules Zaman supported a terrorist organization,,0
+2763,2026-09-23T01:33:42Z,claim_new,incident,162,632,,New managers blocked journalists' access to servers and archives,,0
+2764,2026-09-23T01:33:43Z,record_revised,incident,162,,,,Claim references added,0
+2765,2026-09-23T01:33:45Z,record_revised,incident,163,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2766,2026-09-23T01:33:46Z,record_revised,incident,163,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2767,2026-09-23T01:33:48Z,claim_new,incident,163,633,,"Dogan announces sale to Demiroren, March 21, 2018",,0
+2768,2026-09-23T01:33:48Z,claim_new,incident,163,634,,"Sale includes Hurriyet, Posta, Kanal D and CNN Turk",,0
+2769,2026-09-23T01:33:49Z,record_revised,incident,163,,,,Claim references added,0
+2770,2026-09-23T01:33:54Z,claim_new,incident,185,635,,CBC bureau closed and visas cancelled,,0
+2771,2026-09-23T01:33:54Z,claim_new,incident,185,636,,Russia establishing total control over information after the invasion,,0
+2772,2026-09-23T01:33:55Z,claim_new,incident,185,637,,Roskomnadzor also blocked BBC Russian and Deutsche Welle,,0
+2773,2026-09-23T01:33:57Z,record_published,incident,185,,,,first publication,0
+2774,2026-09-23T01:33:58Z,record_revised,incident,164,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2775,2026-09-23T01:33:59Z,record_revised,incident,164,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2776,2026-09-23T01:34:01Z,claim_new,incident,164,638,,Expulsion follows a similar 2021 case,,0
+2777,2026-09-23T01:34:02Z,record_revised,incident,164,,,,Claim references added,0
+2778,2026-09-23T01:34:06Z,claim_new,incident,186,639,,Campaign shares his home address,,0
+2779,2026-09-23T01:34:07Z,claim_new,incident,186,640,,Accounts appeared automated and coordinated,,0
+2780,2026-09-23T01:34:07Z,claim_new,incident,186,641,,Users call for his capture or expulsion,,0
+2781,2026-09-23T01:34:09Z,record_published,incident,186,,,,first publication,0
+2782,2026-09-23T01:34:11Z,record_revised,incident,165,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2783,2026-09-23T01:34:11Z,record_revised,incident,165,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2784,2026-09-23T01:34:13Z,claim_new,incident,165,642,,Detained while renewing residence permit,,0
+2785,2026-09-23T01:34:13Z,claim_new,incident,165,643,,"Held overnight, deported without collecting belongings",,0
+2786,2026-09-23T01:34:14Z,record_revised,incident,165,,,,Claim references added,0
+2787,2026-09-23T01:34:17Z,record_revised,incident,166,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2788,2026-09-23T01:34:18Z,record_revised,incident,166,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2789,2026-09-23T01:34:19Z,claim_new,incident,166,644,,Cancellation follows a Time cover story critical of Modi,,0
+2790,2026-09-23T01:34:20Z,claim_new,incident,166,645,,CPJ says targeting immigration status shows intolerance of criticism,,0
+2791,2026-09-23T01:34:21Z,record_revised,incident,166,,,,Claim references added,0
+2792,2026-09-23T01:34:23Z,record_revised,incident,167,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2793,2026-09-23T01:34:24Z,record_revised,incident,167,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2794,2026-09-23T01:34:25Z,claim_new,incident,167,646,,Total blockage of mobile data in Rakhine,,0
+2795,2026-09-23T01:34:26Z,claim_new,incident,167,647,,"Shutdown followed the February 1, 2021 seizure of power",,0
+2796,2026-09-23T01:34:27Z,record_revised,incident,167,,,,Claim references added,0
+2797,2026-09-23T01:34:29Z,record_revised,incident,168,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2798,2026-09-23T01:34:30Z,record_revised,incident,168,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2799,2026-09-23T01:34:31Z,claim_new,incident,168,648,,Internet connectivity remains shut off,,0
+2800,2026-09-23T01:34:32Z,claim_new,incident,168,649,,Shutdown documented alongside Myanmar and Kashmir,,0
+2801,2026-09-23T01:34:33Z,record_revised,incident,168,,,,Claim references added,0
+2802,2026-09-23T01:34:35Z,record_revised,incident,169,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2803,2026-09-23T01:34:36Z,record_revised,incident,169,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2804,2026-09-23T01:34:37Z,claim_new,incident,169,650,,"Roskomnadzor blocks five named outlets, March 4, 2022",,0
+2805,2026-09-23T01:34:38Z,claim_new,incident,169,651,,New law sets up to 15 years for spreading 'fakes',,0
+2806,2026-09-23T01:34:39Z,claim_new,incident,169,652,,Facebook and Twitter also blocked,,0
+2807,2026-09-23T01:34:40Z,record_revised,incident,169,,,,Claim references added,0
+2808,2026-09-23T01:34:42Z,record_revised,incident,170,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2809,2026-09-23T01:34:43Z,record_revised,incident,170,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2810,2026-09-23T01:34:44Z,claim_new,incident,170,653,,Near-total shutdown for nearly a week,,0
+2811,2026-09-23T01:34:45Z,claim_new,incident,170,654,,Connectivity drops to 5 percent of normal,,0
+2812,2026-09-23T01:34:46Z,record_revised,incident,170,,,,Claim references added,0
+2813,2026-09-23T01:34:48Z,record_revised,incident,171,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2814,2026-09-23T01:34:49Z,record_revised,incident,171,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2815,2026-09-23T01:34:50Z,claim_new,incident,171,655,,Facebook page and X account blocked on consecutive days,,0
+2816,2026-09-23T01:34:51Z,claim_new,incident,171,656,,Outlet described as independent,,0
+2817,2026-09-23T01:34:52Z,record_revised,incident,171,,,,Claim references added,0
+2818,2026-09-23T01:34:54Z,record_revised,incident,172,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2819,2026-09-23T01:34:55Z,record_revised,incident,172,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2820,2026-09-23T01:34:57Z,claim_new,incident,172,657,,China said to fear independent reporting on its COVID-19 response,,0
+2821,2026-09-23T01:34:58Z,claim_new,incident,172,658,,She faced up to five years if convicted,,0
+2822,2026-09-23T01:34:59Z,record_revised,incident,172,,,,Claim references added,0
+2823,2026-09-23T01:35:03Z,claim_new,incident,173,659,,Convicted of inciting hatred and calling for sanctions,,0
+2824,2026-09-23T01:35:04Z,claim_new,incident,173,660,,CPJ calls it part of a cycle of repression,,0
+2825,2026-09-23T01:35:04Z,claim_new,incident,173,661,,"Held 1,860 days before release",,0
+2826,2026-09-23T01:35:05Z,claim_new,incident,173,662,,22 other journalists remained imprisoned in Belarus,,0
+2827,2026-09-23T01:35:06Z,record_published,incident,173,,,,first publication,0
+2828,2026-09-23T01:35:08Z,record_revised,incident,174,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2829,2026-09-23T01:35:09Z,record_revised,incident,174,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2830,2026-09-23T01:35:10Z,claim_new,incident,174,663,,Indictment accuses him of collecting secret information for the CIA,,0
+2831,2026-09-23T01:35:11Z,claim_new,incident,174,664,,Released with Kurmasheva in prisoner exchange,,0
+2832,2026-09-23T01:35:12Z,record_revised,incident,174,,,,Claim references added,0
+2833,2026-09-23T01:35:16Z,claim_new,incident,187,665,,Convicted and sentenced to seven and a half years,,0
+2834,2026-09-23T01:35:16Z,claim_new,incident,187,666,,CPJ determines charges were retaliation for her reporting,,0
+2835,2026-09-23T01:35:17Z,claim_new,incident,187,667,,Sentence converted and she is ordered released,,0
+2836,2026-09-23T01:35:18Z,record_published,incident,187,,,,first publication,0
+2837,2026-09-23T01:35:20Z,record_revised,incident,175,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2838,2026-09-23T01:35:20Z,record_revised,incident,175,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2839,2026-09-23T01:35:22Z,claim_new,incident,175,668,,"Arrested at Rappler's bureau, held overnight",,0
+2840,2026-09-23T01:35:22Z,claim_new,incident,175,669,,Case tied to a 2012 story predating the law,,0
+2841,2026-09-23T01:35:23Z,record_revised,incident,175,,,,Claim references added,0
+2842,2026-09-23T01:35:27Z,claim_new,incident,176,670,,Never publicly charged or tried,,0
+2843,2026-09-23T01:35:28Z,claim_new,incident,176,671,,Many first detained in the 2001 restrictions on dissent and independent media,,0
+2844,2026-09-23T01:35:29Z,claim_new,incident,176,672,,Constitution suspended after closing private newspapers,,0
+2845,2026-09-23T01:35:30Z,record_published,incident,176,,,,first publication,0
+2846,2026-09-23T01:35:32Z,record_revised,incident,177,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2847,2026-09-23T01:35:33Z,record_revised,incident,177,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2848,2026-09-23T01:35:35Z,claim_new,incident,177,673,,Conviction and sentencing of up to six years,,0
+2849,2026-09-23T01:35:35Z,claim_new,incident,177,674,,Case involved Ressa and researcher Reynaldo Santos,,0
+2850,2026-09-23T01:35:36Z,record_revised,incident,177,,,,Claim references added,0
+2851,2026-09-23T01:35:38Z,record_revised,incident,178,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2852,2026-09-23T01:35:39Z,record_revised,incident,178,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2853,2026-09-23T01:35:41Z,claim_new,incident,178,675,,Charged for tweets questioning his diploma and alleging corruption,,0
+2854,2026-09-23T01:35:41Z,claim_new,incident,178,676,,Insult conviction can carry up to four years,,0
+2855,2026-09-23T01:35:42Z,claim_new,incident,178,677,,Earlier convicted and released pending appeal,,0
+2856,2026-09-23T01:35:43Z,record_revised,incident,178,,,,Claim references added,0
+2857,2026-09-23T01:35:45Z,record_revised,incident,179,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2858,2026-09-23T01:35:46Z,record_revised,incident,179,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2859,2026-09-23T01:35:48Z,claim_new,incident,179,678,,Fined 22.3 million rubles for a foreign agents paperwork lapse,,0
+2860,2026-09-23T01:35:48Z,record_revised,incident,179,,,,Claim references added,0
+2861,2026-09-23T01:35:53Z,claim_new,incident,180,679,,Account frozen the month after a story on the government,,0
+2862,2026-09-23T01:35:53Z,claim_new,incident,180,680,,Family later faced posthumous defamation suits,,0
+2863,2026-09-23T01:35:54Z,claim_new,incident,180,681,,Five perpetrators sentenced between 2022 and 2026,,0
+2864,2026-09-23T01:35:55Z,record_published,incident,180,,,,first publication,0
+2865,2026-09-23T01:35:57Z,record_revised,incident,181,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2866,2026-09-23T01:35:58Z,record_revised,incident,181,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2867,2026-09-23T01:35:59Z,claim_new,incident,181,682,,Omarov's accounts removed on apparently spurious complaints,,0
+2868,2026-09-23T01:36:00Z,claim_new,incident,181,683,,Complaints impersonated global brands,,0
+2869,2026-09-23T01:36:01Z,record_revised,incident,181,,,,Claim references added,0
+2870,2026-09-23T01:36:05Z,claim_new,incident,188,684,,"Fake news fines up to 100,000 rubles for individuals",,0
+2871,2026-09-23T01:36:05Z,claim_new,incident,188,685,,Fake news defined as unverified information seen as threatening,,0
+2872,2026-09-23T01:36:06Z,claim_new,incident,188,686,,CPJ says the law is aimed at self-censorship,,0
+2873,2026-09-23T01:36:07Z,record_published,incident,188,,,,first publication,0
+2874,2026-09-23T01:36:11Z,claim_new,incident,189,687,,"Requires quarterly reports, audits and a legal representative",,0
+2875,2026-09-23T01:36:12Z,claim_new,incident,189,688,,Noncompliance can carry up to two years in prison,,0
+2876,2026-09-23T01:36:13Z,claim_new,incident,189,689,,Meduza's editor says the label destroys its business,,0
+2877,2026-09-23T01:36:14Z,record_published,incident,189,,,,first publication,0
+2878,2026-09-23T01:36:17Z,claim_new,incident,190,690,,"Law covers accounts with more than 5,000 followers",,0
+2879,2026-09-23T01:36:18Z,claim_new,incident,190,691,,Al-Mashhad fined and its site ordered blocked for six months,,0
+2880,2026-09-23T01:36:18Z,claim_new,incident,190,692,,Site still inaccessible after a partial appeal win,,0
+2881,2026-09-23T01:36:20Z,record_published,incident,190,,,,first publication,0
+2882,2026-09-23T01:36:21Z,record_revised,incident,182,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2883,2026-09-23T01:36:22Z,record_revised,incident,182,,,,"Seed load from the P1 research pass (seed/*.json, 2026-09-22)",0
+2884,2026-09-23T01:36:24Z,claim_new,incident,182,693,,Bars linking to or reposting news and foreign government sites,,0
+2885,2026-09-23T01:36:25Z,claim_new,incident,182,694,,No clear penalty specified for internet companies,,0
+2886,2026-09-23T01:36:25Z,record_revised,incident,182,,,,Claim references added,0
+2887,2026-09-23T01:37:03Z,claim_new,incident,191,695,,Court declares all DW content extremist,,0
+2888,2026-09-23T01:37:04Z,claim_new,incident,191,696,,Sharing labeled material can bring a fine or 15 days detention,,0
+2889,2026-09-23T01:37:05Z,claim_new,incident,191,697,,Even subscribing to a labeled Telegram channel risks prosecution,,0
+2890,2026-09-23T01:37:05Z,claim_new,incident,191,698,,Designation brings the total to 20 outlets,,0
+2891,2026-09-23T01:37:07Z,record_published,incident,191,,,,first publication,0
+2892,2026-09-23T01:39:48Z,record_revised,incident,40,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
+2893,2026-09-23T01:39:49Z,record_revised,incident,41,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
+2894,2026-09-23T01:39:51Z,record_revised,incident,42,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
+2895,2026-09-23T01:39:53Z,record_revised,incident,43,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
+2896,2026-09-23T01:39:54Z,record_revised,incident,48,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
+2897,2026-09-23T01:39:56Z,record_revised,incident,50,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
+2898,2026-09-23T01:39:57Z,record_revised,incident,51,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0

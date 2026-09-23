@@ -2,19 +2,19 @@ id,slug,name,kind,country,homepage_url,wikidata_qid,unknowns,pub_state,published
 1,cnn,CNN,broadcaster,US,https://www.cnn.com/,,,published,2026-09-22T19:59:28Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:27Z,2026-09-22T21:25:09Z
 2,ms-now,MS NOW,broadcaster,US,https://www.msnow.com/,,,published,2026-09-22T19:59:29Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:28Z,2026-09-22T21:25:11Z
 3,politico,Politico,digital,US,https://www.politico.com/,,,published,2026-09-22T19:59:31Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:30Z,2026-09-22T21:25:12Z
-4,associated-press,The Associated Press,wire_service,US,https://apnews.com/,,,published,2026-09-22T19:59:33Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:32Z,2026-09-22T21:25:14Z
-5,wall-street-journal,The Wall Street Journal,newspaper,US,https://www.wsj.com/,,,published,2026-09-22T19:59:35Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:34Z,2026-09-22T21:25:16Z
+4,associated-press,The Associated Press,wire_service,US,https://apnews.com/,,,published,2026-09-22T19:59:33Z,2026-09-22,2026-12-22,12,2026-09-22T19:59:32Z,2026-09-23T01:26:05Z
+5,wall-street-journal,The Wall Street Journal,newspaper,US,https://www.wsj.com/,,,published,2026-09-22T19:59:35Z,2026-09-22,2026-12-22,11,2026-09-22T19:59:34Z,2026-09-23T01:27:27Z
 6,npr,NPR,public_media,US,https://www.npr.org/,,,published,2026-09-22T19:59:36Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:35Z,2026-09-22T21:25:17Z
 7,pbs,PBS,public_media,US,https://www.pbs.org/,,,published,2026-09-22T19:59:38Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:37Z,2026-09-22T21:25:19Z
-8,voice-of-america,Voice of America,public_media,US,https://www.voanews.com/,,,published,2026-09-22T19:59:39Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:38Z,2026-09-22T21:25:20Z
+8,voice-of-america,Voice of America,public_media,US,https://www.voanews.com/,,,published,2026-09-22T19:59:39Z,2026-09-22,2026-12-22,11,2026-09-22T19:59:38Z,2026-09-23T01:27:24Z
 9,abc-news,ABC News,broadcaster,US,https://abcnews.go.com/,,,published,2026-09-22T19:59:41Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:40Z,2026-09-22T21:25:22Z
 10,cbs-news,CBS News,broadcaster,US,https://www.cbsnews.com/,,,published,2026-09-22T19:59:42Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:41Z,2026-09-22T21:25:24Z
 11,military-times,Military Times / Defense News,digital,US,https://www.militarytimes.com/,,,published,2026-09-22T19:59:44Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:43Z,2026-09-22T21:25:26Z
 12,el-faro,El Faro,digital,SV,https://elfaro.net/,,,published,2026-09-22T19:59:45Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:45Z,2026-09-22T21:25:27Z
-13,apple-daily,Apple Daily,newspaper,HK,https://en.wikipedia.org/wiki/Apple_Daily,,,published,2026-09-22T19:59:47Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:46Z,2026-09-22T21:25:29Z
+13,apple-daily,Apple Daily,newspaper,HK,https://en.wikipedia.org/wiki/Apple_Daily,,,published,2026-09-22T19:59:47Z,2026-09-22,2026-12-22,12,2026-09-22T19:59:46Z,2026-09-23T01:26:02Z
 14,next-magazine,Next Magazine,digital,HK,https://en.wikipedia.org/wiki/Next_Magazine_(Hong_Kong),,,published,2026-09-22T19:59:48Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:47Z,2026-09-22T21:25:30Z
 15,the-nation,The Nation,newspaper,US,https://www.thenation.com/,,,published,2026-09-22T19:59:50Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:49Z,2026-09-22T21:25:32Z
-16,bbc,BBC,broadcaster,GB,https://www.bbc.com/,,,published,2026-09-22T19:59:51Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:50Z,2026-09-22T21:25:33Z
+16,bbc,BBC,broadcaster,GB,https://www.bbc.com/,,,published,2026-09-22T19:59:51Z,2026-09-22,2026-12-22,12,2026-09-22T19:59:50Z,2026-09-23T01:26:07Z
 17,indian-express,The Indian Express,newspaper,IN,https://indianexpress.com/,,,published,2026-09-22T19:59:52Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:52Z,2026-09-22T21:25:35Z
 18,hindustan-times,Hindustan Times,newspaper,IN,https://www.hindustantimes.com/,,,published,2026-09-22T19:59:54Z,2026-09-22,2026-12-22,9,2026-09-22T19:59:53Z,2026-09-22T21:25:36Z
 19,the-masses,The Masses,magazine,US,,,,published,2026-09-22T22:48:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:48:49Z,2026-09-22T22:48:50Z
@@ -31,18 +31,18 @@ id,slug,name,kind,country,homepage_url,wikidata_qid,unknowns,pub_state,published
 30,radio-magallanes,Radio Magallanes,broadcaster,CL,,,,published,2026-09-22T22:50:44Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:43Z,2026-09-22T22:50:44Z
 31,radio-candelaria,Radio Candelaria,broadcaster,CL,,,,published,2026-09-22T22:50:45Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:44Z,2026-09-22T22:50:45Z
 32,sunday-telegraph-sydney,Sunday Telegraph (Sydney),newspaper,AU,,,,published,2026-09-22T22:50:46Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:46Z,2026-09-22T22:50:46Z
-33,new-york-times,The New York Times,newspaper,US,https://www.nytimes.com/,,,published,2026-09-22T22:50:48Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:47Z,2026-09-22T22:50:48Z
+33,new-york-times,The New York Times,newspaper,US,https://www.nytimes.com/,,,published,2026-09-22T22:50:48Z,2026-09-22,2026-12-22,2,2026-09-22T22:50:47Z,2026-09-23T01:26:50Z
 34,wikileaks,WikiLeaks,other,AU,https://wikileaks.org/,,,published,2026-09-22T22:50:50Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:49Z,2026-09-22T22:50:50Z
 35,fox-news,Fox News,broadcaster,US,https://www.foxnews.com/,,,published,2026-09-22T22:50:51Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:50Z,2026-09-22T22:50:51Z
 36,al-jazeera-english,Al Jazeera English,broadcaster,QA,https://www.aljazeera.com/,,,published,2026-09-22T22:50:53Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:52Z,2026-09-22T22:50:53Z
-37,reuters,Reuters,wire_service,GB,https://www.reuters.com/,,,published,2026-09-22T22:50:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:53Z,2026-09-22T22:50:54Z
+37,reuters,Reuters,wire_service,GB,https://www.reuters.com/,,,published,2026-09-22T22:50:54Z,2026-09-22,2026-12-22,4,2026-09-22T22:50:53Z,2026-09-23T01:27:07Z
 38,abc-australia,Australian Broadcasting Corporation (ABC),broadcaster,AU,https://www.abc.net.au/,,,published,2026-09-22T22:50:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:55Z,2026-09-22T22:50:55Z
 39,the-guardian,The Guardian,other,GB,https://www.theguardian.com/,,,published,2026-09-22T22:50:57Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:56Z,2026-09-22T22:50:57Z
 40,cambodia-daily,The Cambodia Daily,other,KH,https://www.cambodiadaily.com/,,,published,2026-09-22T22:50:59Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:58Z,2026-09-22T22:50:59Z
 41,ntv-russia,NTV,broadcaster,RU,,,,published,2026-09-22T22:51:00Z,2026-09-22,2026-12-22,1,2026-09-22T22:50:59Z,2026-09-22T22:51:00Z
-42,novaya-gazeta,Novaya Gazeta,newspaper,RU,https://novayagazeta.ru/,,,published,2026-09-22T22:51:01Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:01Z,2026-09-22T22:51:01Z
+42,novaya-gazeta,Novaya Gazeta,newspaper,RU,https://novayagazeta.ru/,,,published,2026-09-22T22:51:01Z,2026-09-22,2026-12-22,2,2026-09-22T22:51:01Z,2026-09-23T01:26:51Z
 43,harakah,Harakah,other,MY,,,,published,2026-09-22T22:51:03Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:02Z,2026-09-22T22:51:03Z
-44,washington-post,The Washington Post,other,US,https://www.washingtonpost.com/,,,published,2026-09-22T22:51:04Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:04Z,2026-09-22T22:51:04Z
+44,washington-post,The Washington Post,other,US,https://www.washingtonpost.com/,,,published,2026-09-22T22:51:04Z,2026-09-22,2026-12-22,2,2026-09-22T22:51:04Z,2026-09-23T01:27:29Z
 45,marion-county-record,Marion County Record,newspaper,US,https://www.marioncountyrecord.com/,,,published,2026-09-22T22:51:06Z,2026-09-22,2026-12-22,1,2026-09-22T22:51:05Z,2026-09-22T22:51:06Z
 46,nbc-news,NBC News,broadcaster,US,https://www.nbcnews.com/,,,published,2026-09-22T22:52:40Z,2026-09-22,2026-12-22,2,2026-09-22T22:51:06Z,2026-09-22T22:52:40Z
 47,des-moines-register,Des Moines Register,newspaper,US,https://www.desmoinesregister.com/,,,published,2026-09-22T22:52:42Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:41Z,2026-09-22T22:52:42Z
@@ -57,3 +57,56 @@ id,slug,name,kind,country,homepage_url,wikidata_qid,unknowns,pub_state,published
 56,telam,Telam,wire_service,AR,,,,published,2026-09-22T22:52:54Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:53Z,2026-09-22T22:52:54Z
 57,sheger-fm,Sheger FM 102.1,broadcaster,ET,,,,published,2026-09-22T22:52:55Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:54Z,2026-09-22T22:52:55Z
 58,n1-tv,N1,broadcaster,RS,https://n1info.rs/,,,published,2026-09-22T22:52:56Z,2026-09-22,2026-12-22,1,2026-09-22T22:52:56Z,2026-09-22T22:52:56Z
+59,agence-france-presse,Agence France-Presse,wire_service,FR,https://www.afp.com/,,,published,2026-09-23T01:08:15Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:15Z,2026-09-23T01:25:57Z
+60,al-manassa,Al-Manassa,digital,EG,https://www.almanassa.com/,,,published,2026-09-23T01:08:17Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:16Z,2026-09-23T01:25:59Z
+61,al-mashhad,Al-Mashhad,digital,EG,,,,published,2026-09-23T01:08:19Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:18Z,2026-09-23T01:26:00Z
+62,aristegui-noticias,Aristegui Noticias,digital,MX,https://aristeguinoticias.com/,,,published,2026-09-23T01:08:22Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:22Z,2026-09-23T01:26:04Z
+63,bbc-russian,BBC Russian,broadcaster,GB,,,,published,2026-09-23T01:08:27Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:27Z,2026-09-23T01:26:08Z
+64,belsat-tv,Belsat TV,broadcaster,PL,https://belsat.eu/,,,published,2026-09-23T01:08:29Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:28Z,2026-09-23T01:26:09Z
+65,cbc-radio-canada,CBC/Radio-Canada,broadcaster,CA,https://www.cbc.ca/,,,published,2026-09-23T01:08:30Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:30Z,2026-09-23T01:26:11Z
+66,cihan-news-agency,Cihan News Agency,wire_service,TR,,,,published,2026-09-23T01:08:32Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:31Z,2026-09-23T01:26:12Z
+67,cnn-turk,CNN Turk,broadcaster,TR,,,,published,2026-09-23T01:08:33Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:33Z,2026-09-23T01:26:14Z
+68,current-tv,Current TV,broadcaster,US,,,,published,2026-09-23T01:08:35Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:34Z,2026-09-23T01:26:15Z
+69,daily-news-zimbabwe,Daily News,newspaper,ZW,,,,published,2026-09-23T01:08:36Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:36Z,2026-09-23T01:26:17Z
+70,deutsche-welle,Deutsche Welle,broadcaster,DE,https://www.dw.com/,,,published,2026-09-23T01:08:38Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:37Z,2026-09-23T01:26:18Z
+71,direkt36,Direkt36,digital,HU,https://www.direkt36.hu/,,,published,2026-09-23T01:08:39Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:38Z,2026-09-23T01:26:23Z
+72,dogan-holding,Dogan Holding,other,TR,,,,published,2026-09-23T01:08:40Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:40Z,2026-09-23T01:26:25Z
+73,evrensel,Evrensel,newspaper,TR,https://www.evrensel.net/,,,published,2026-09-23T01:08:42Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:41Z,2026-09-23T01:26:26Z
+74,feza-media-group,Feza Media Group,other,TR,,,,published,2026-09-23T01:08:43Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:43Z,2026-09-23T01:26:28Z
+75,fox-tv-turkey,FOX TV Turkiye,broadcaster,TR,,,,published,2026-09-23T01:08:45Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:44Z,2026-09-23T01:26:29Z
+76,gaon-savera,Gaon Savera,digital,IN,,,,published,2026-09-23T01:08:46Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:45Z,2026-09-23T01:26:30Z
+77,guangming-daily,Guangming Daily,newspaper,CN,,,,published,2026-09-23T01:08:48Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:47Z,2026-09-23T01:26:32Z
+78,haaretz,Haaretz,newspaper,IL,https://www.haaretz.com/,,,published,2026-09-23T01:08:49Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:48Z,2026-09-23T01:26:33Z
+79,halk-tv,Halk TV,broadcaster,TR,,,,published,2026-09-23T01:08:50Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:50Z,2026-09-23T01:26:35Z
+80,ham-mihan,Ham-Mihan,newspaper,IR,,,,published,2026-09-23T01:08:52Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:51Z,2026-09-23T01:26:36Z
+81,hurriyet,Hurriyet,newspaper,TR,,,,published,2026-09-23T01:08:53Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:53Z,2026-09-23T01:26:37Z
+82,index-hu,Index.hu,digital,HU,https://index.hu/,,,published,2026-09-23T01:08:55Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:54Z,2026-09-23T01:26:39Z
+83,kesma-network,KESMA member outlets,broadcaster,HU,,,,published,2026-09-23T01:08:56Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:55Z,2026-09-23T01:26:41Z
+84,klubradio,Klubradio,broadcaster,HU,https://www.klubradio.hu/,,,published,2026-09-23T01:08:58Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:57Z,2026-09-23T01:26:43Z
+85,kommersant,Kommersant,newspaper,RU,https://www.kommersant.ru/,,,published,2026-09-23T01:08:59Z,2026-09-22,2026-12-22,3,2026-09-23T01:08:58Z,2026-09-23T01:26:44Z
+86,le-desk,Le Desk,digital,MA,https://ledesk.ma/,,,published,2026-09-23T01:09:00Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:00Z,2026-09-23T01:26:46Z
+87,meduza,Meduza,digital,RU,https://meduza.io/,,,published,2026-09-23T01:09:02Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:01Z,2026-09-23T01:26:47Z
+88,mezopotamya-news-agency,Mezopotamya News Agency,wire_service,TR,,,,published,2026-09-23T01:09:03Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:02Z,2026-09-23T01:26:48Z
+89,orda,Orda,digital,KZ,,,,published,2026-09-23T01:09:06Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:05Z,2026-09-23T01:26:53Z
+90,oy-magazine,Voice of Taksin magazine,magazine,TH,,,,published,2026-09-23T01:09:07Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:06Z,2026-09-23T01:26:54Z
+91,pasmi,PASMI,digital,RU,,,,published,2026-09-23T01:09:08Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:08Z,2026-09-23T01:26:56Z
+92,polska-press,Polska Press,newspaper,PL,,,,published,2026-09-23T01:09:10Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:09Z,2026-09-23T01:26:57Z
+93,radio-azattyq,Radio Azattyq (RFE/RL Kazakh Service),broadcaster,KZ,https://www.azattyq.org/,,,published,2026-09-23T01:09:12Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:11Z,2026-09-23T01:26:59Z
+94,radio-free-europe-radio-liberty,Radio Free Europe/Radio Liberty,broadcaster,CZ,,,,published,2026-09-23T01:09:13Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:12Z,2026-09-23T01:27:00Z
+95,radio-liberty,Radio Free Europe/Radio Liberty,broadcaster,CZ,https://www.rferl.org/,,,published,2026-09-23T01:09:15Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:14Z,2026-09-23T01:27:02Z
+96,rappler,Rappler,digital,PH,https://www.rappler.com/,,,published,2026-09-23T01:09:16Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:15Z,2026-09-23T01:27:03Z
+97,rctv,Radio Caracas Television (RCTV),broadcaster,VE,,,,published,2026-09-23T01:09:17Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:17Z,2026-09-23T01:27:04Z
+98,regionalnaya-gazeta,Regionalnaya Gazeta,newspaper,BY,,,,published,2026-09-23T01:09:19Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:18Z,2026-09-23T01:27:06Z
+99,rusnews,RusNews,digital,RU,,,,published,2026-09-23T01:09:22Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:21Z,2026-09-23T01:27:08Z
+100,setit,Setit,newspaper,ER,,,,published,2026-09-23T01:09:24Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:23Z,2026-09-23T01:27:10Z
+101,shargh,Shargh,newspaper,IR,,,,published,2026-09-23T01:09:25Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:24Z,2026-09-23T01:27:11Z
+102,tele1,TELE1,broadcaster,TR,,,,published,2026-09-23T01:11:50Z,2026-09-22,2026-12-22,3,2026-09-23T01:09:26Z,2026-09-23T01:27:13Z
+103,telex,Telex,digital,HU,https://telex.hu/,,,published,2026-09-23T01:11:51Z,2026-09-22,2026-12-22,2,2026-09-23T01:11:51Z,2026-09-23T01:27:14Z
+104,the-economist,The Economist,magazine,GB,https://www.economist.com/,,,published,2026-09-23T01:11:53Z,2026-09-22,2026-12-22,2,2026-09-23T01:11:52Z,2026-09-23T01:27:16Z
+105,the-new-times,The New Times,magazine,RU,,,,published,2026-09-23T01:11:54Z,2026-09-22,2026-12-22,2,2026-09-23T01:11:54Z,2026-09-23T01:27:17Z
+106,the-vietnamese,The Vietnamese,digital,VN,,,,published,2026-09-23T01:11:56Z,2026-09-22,2026-12-22,2,2026-09-23T01:11:55Z,2026-09-23T01:27:19Z
+107,time-magazine,Time,magazine,US,https://time.com/,,,published,2026-09-23T01:11:57Z,2026-09-22,2026-12-22,2,2026-09-23T01:11:57Z,2026-09-23T01:27:20Z
+108,todays-zaman,Today's Zaman,newspaper,TR,,,,published,2026-09-23T01:11:59Z,2026-09-22,2026-12-22,2,2026-09-23T01:11:58Z,2026-09-23T01:27:22Z
+109,vedomosti,Vedomosti,newspaper,RU,https://www.vedomosti.ru/,,,published,2026-09-23T01:12:00Z,2026-09-22,2026-12-22,2,2026-09-23T01:11:59Z,2026-09-23T01:27:23Z
+110,voice-of-democracy,Voice of Democracy,digital,KH,,,,published,2026-09-23T01:12:04Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:03Z,2026-09-23T01:27:26Z
+111,zaman,Zaman,newspaper,TR,,,,published,2026-09-23T01:12:07Z,2026-09-22,2026-12-22,2,2026-09-23T01:12:07Z,2026-09-23T01:27:30Z
