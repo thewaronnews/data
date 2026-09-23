@@ -2897,3 +2897,45 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 2896,2026-09-23T01:39:54Z,record_revised,incident,48,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
 2897,2026-09-23T01:39:56Z,record_revised,incident,50,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
 2898,2026-09-23T01:39:57Z,record_revised,incident,51,,,,Editorial fix: doubled 'press' wording artifact from the earlier voice-lint pass (v3-ladder-brief-2026-09-22 TODO item 6),0
+2899,2026-09-23T02:20:15Z,claim_new,incident,130,699,,mayor used physical force on reporters,,0
+2900,2026-09-23T02:20:25Z,claim_new,incident,134,700,,"Ranada first barred, February 20, 2018",,0
+2901,2026-09-23T02:20:30Z,claim_new,incident,137,701,,VOA: new rules open door to censorship,,0
+2902,2026-09-23T02:20:41Z,claim_new,incident,142,702,,"police seized about 100 computers, Sept 16-17",,0
+2903,2026-09-23T02:20:44Z,claim_new,incident,143,703,,journalist association calls Klubradio last independent broadcaster,,0
+2904,2026-09-23T02:20:45Z,claim_new,incident,143,704,,"frequency awarded to Spirit FM, March 30",,0
+2905,2026-09-23T02:20:50Z,claim_new,incident,146,705,,outlet: reporting treated as a crime,,0
+2906,2026-09-23T02:20:59Z,claim_new,incident,150,706,,Beijing court sentences Dong Yuyu to seven years,,0
+2907,2026-09-23T02:21:01Z,claim_new,incident,150,707,,family calls the verdict evidence-free,,0
+2908,2026-09-23T02:21:20Z,claim_new,incident,157,708,,Amnesty: Pegasus found on Radi's phone,,0
+2909,2026-09-23T02:21:21Z,claim_new,incident,157,709,,outlet corroborates NSO spyware targeting,,0
+2910,2026-09-23T02:21:28Z,claim_new,incident,159,710,,VOA: total control over pro-government media,,0
+2911,2026-09-23T02:21:34Z,claim_new,incident,162,711,,Istanbul court appoints trustees over Feza Media,,0
+2912,2026-09-23T02:21:40Z,claim_new,incident,164,712,,"accreditation withdrawn, May 13",,0
+2913,2026-09-23T02:21:46Z,claim_new,incident,166,713,,government cites provisional opinion to cancel OCI,,0
+2914,2026-09-23T02:21:56Z,claim_new,incident,171,714,,"Twitter and Facebook blocked, corroborated by Newslaundry",,0
+2915,2026-09-23T02:22:04Z,claim_new,incident,175,715,,Ressa: arrest is a tool to silence us,,0
+2916,2026-09-23T02:22:09Z,claim_new,incident,177,716,,Judge Estacio-Montesa convicts Ressa and Santos,,0
+2917,2026-09-23T02:22:12Z,claim_new,incident,179,717,,Tverskoy court fines New Times 22M rubles,,0
+2918,2026-09-23T02:22:48Z,claim_new,incident,171,718,,"Twitter and Facebook blocked, corroborated by Newslaundry",,0
+2919,2026-09-23T02:22:54Z,claim_new,incident,175,719,,Ressa: arrest is a tool to silence us,,0
+2920,2026-09-23T02:23:00Z,claim_new,incident,177,720,,Judge Estacio-Montesa convicts Ressa and Santos,,0
+2921,2026-09-23T02:23:02Z,claim_new,incident,179,721,,Tverskoy court fines New Times 22M rubles,,0
+2922,2026-09-23T02:23:03Z,claim_new,incident,179,722,,fine paid via reader crowdfunding,,0
+2923,2026-09-23T02:23:05Z,claim_new,incident,180,723,,Caruana Galizia: accounts frozen for years,,0
+2924,2026-09-23T02:23:06Z,claim_new,incident,180,724,,PACE report corroborates February 2017 freeze,,0
+2925,2026-09-23T02:23:10Z,claim_new,incident,188,725,,NPR: prosecutors can direct sites blocked,,0
+2926,2026-09-23T02:23:11Z,claim_new,incident,188,726,,Duma passes disrespect and fake-news bills,,0
+2927,2026-09-23T02:23:14Z,claim_new,incident,189,727,,Justice Ministry announces Meduza designation,,0
+2928,2026-09-23T02:23:20Z,claim_new,incident,191,728,,Belarus classifies all DW content extremist,,0
+2929,2026-09-23T02:27:28Z,claim_retired,incident,171,718,,,Duplicate claim created when the loader script re-ran over a stale 5-minute MCP cache read of incident_sources; the surviving current claim with the lower id carries the same field/value/source.,0
+2930,2026-09-23T02:27:28Z,claim_retired,incident,175,719,,,Duplicate claim created when the loader script re-ran over a stale 5-minute MCP cache read of incident_sources; the surviving current claim with the lower id carries the same field/value/source.,0
+2931,2026-09-23T02:27:29Z,claim_retired,incident,177,720,,,Duplicate claim created when the loader script re-ran over a stale 5-minute MCP cache read of incident_sources; the surviving current claim with the lower id carries the same field/value/source.,0
+2932,2026-09-23T02:27:29Z,claim_retired,incident,179,721,,,Duplicate claim created when the loader script re-ran over a stale 5-minute MCP cache read of incident_sources; the surviving current claim with the lower id carries the same field/value/source.,0
+2933,2026-09-23T02:30:52Z,claim_superseded,incident,34,729,Forced into exile in 1981,"station raided November 28, 1980","Correction: the raid, arrests and Dominique's exile began on 1980-11-28 (Amnesty International, Haiti report, ""raided by the Duvalier security forces on 28 November 1980""), not generically ""1981"".",1
+2934,2026-09-23T02:30:56Z,claim_new,incident,45,730,,"act commenced July 17, 1950",,0
+2935,2026-09-23T02:30:57Z,record_revised,incident,45,,,,"Correction: the Act commenced on 1950-07-17 (South African TRC Final Report, Vol. 1, chronology of apartheid legislation, ""Commenced: 17 July 1950""), not March 17, 1950.",1
+2936,2026-09-23T02:31:00Z,claim_new,incident,45,731,,"section 55 repealed July 31, 1991",,0
+2937,2026-09-23T02:31:04Z,claim_new,incident,84,732,,law abolished October 2000,,0
+2938,2026-09-23T02:33:08Z,record_revised,incident,34,,,,"Correction: the raid, arrests and Dominique's exile began on 1980-11-28 (Amnesty International, Haiti report, ""raided by the Duvalier security forces on 28 November 1980""), not generically ""1981"".",1
+2939,2026-09-23T02:33:09Z,record_revised,incident,45,,,,"Correction: the Act's own communism-suppression provision (s55) was repealed on 1991-07-31 (O'Malley Archive chronology, ""31 July 1991 ... Abolished s 55""), a more precise outcome date than the general February 1990 lifting of banning orders under the act and its successors, which remains true and is kept in the outcome note.",1
+2940,2026-09-23T02:33:10Z,record_revised,incident,84,,,,"Correction: the outcome_on column is corrected to 2000-10-01 (month known, day not stated in the source; the 1st is used as this schema's day-precision placeholder for a month-only date) to match the record's own outcome note, already correct (""The law was suspended after Milosevic lost power in October 2000""), now directly sourced (U.S. Department of State, 2002 country report).",1
