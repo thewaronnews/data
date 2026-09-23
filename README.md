@@ -26,7 +26,7 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 | tactics | 13 |
 | countries | 250 |
 | incident_tactics | 278 |
-| coverage_items | 17 |
+| coverage_items | 18 |
 | explainers | 8 |
 | glossary_terms | 67 |
 | incident_actors | 344 |

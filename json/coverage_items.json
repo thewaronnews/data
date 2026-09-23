@@ -253,5 +253,20 @@
     "country_guess": "US",
     "incident_id": null,
     "fetched_at": "2026-09-22T23:05:47Z"
+  },
+  {
+    "id": 183,
+    "url": "https://cpj.org/2026/09/drc-journalist-arrested-on-allegations-of-defaming-musician-fally-ipupa",
+    "title": "DRC journalist arrested on allegations of defaming musician Fally Ipupa",
+    "publisher": "Committee to Protect Journalists",
+    "published_at": "2026-09-23T09:54:39Z",
+    "summary": "Kinshasa, September 23, 2026, The Committee to Protect Journalists urges authorities in the Democratic Republic of the Congo to immediately release music journalist Virginie Manganga, who was arrested on Sunday for her interview with a woman who alleged that she...",
+    "jev_in_scope": 0.8495549046993255,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9937332272529602,
+    "country_guess": "CD",
+    "incident_id": null,
+    "fetched_at": "2026-09-23T10:05:43Z"
   }
 ]
