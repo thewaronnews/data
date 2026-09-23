@@ -1,1 +1,477 @@
-[]
+[
+  {
+    "explainer_id": 1,
+    "source_id": 139,
+    "sort": 0
+  },
+  {
+    "explainer_id": 1,
+    "source_id": 492,
+    "sort": 1
+  },
+  {
+    "explainer_id": 1,
+    "source_id": 493,
+    "sort": 2
+  },
+  {
+    "explainer_id": 1,
+    "source_id": 494,
+    "sort": 3
+  },
+  {
+    "explainer_id": 1,
+    "source_id": 495,
+    "sort": 4
+  },
+  {
+    "explainer_id": 1,
+    "source_id": 496,
+    "sort": 5
+  },
+  {
+    "explainer_id": 1,
+    "source_id": 497,
+    "sort": 6
+  },
+  {
+    "explainer_id": 2,
+    "source_id": 48,
+    "sort": 4
+  },
+  {
+    "explainer_id": 2,
+    "source_id": 71,
+    "sort": 2
+  },
+  {
+    "explainer_id": 2,
+    "source_id": 72,
+    "sort": 1
+  },
+  {
+    "explainer_id": 2,
+    "source_id": 498,
+    "sort": 0
+  },
+  {
+    "explainer_id": 2,
+    "source_id": 499,
+    "sort": 3
+  },
+  {
+    "explainer_id": 2,
+    "source_id": 500,
+    "sort": 5
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 1,
+    "sort": 6
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 20,
+    "sort": 5
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 75,
+    "sort": 1
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 104,
+    "sort": 3
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 111,
+    "sort": 4
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 278,
+    "sort": 7
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 500,
+    "sort": 8
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 501,
+    "sort": 0
+  },
+  {
+    "explainer_id": 3,
+    "source_id": 502,
+    "sort": 2
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 1,
+    "sort": 8
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 4,
+    "sort": 9
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 31,
+    "sort": 13
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 48,
+    "sort": 6
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 72,
+    "sort": 1
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 104,
+    "sort": 11
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 110,
+    "sort": 5
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 281,
+    "sort": 7
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 499,
+    "sort": 4
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 501,
+    "sort": 0
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 502,
+    "sort": 10
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 503,
+    "sort": 2
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 504,
+    "sort": 3
+  },
+  {
+    "explainer_id": 4,
+    "source_id": 505,
+    "sort": 12
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 27,
+    "sort": 18
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 43,
+    "sort": 5
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 45,
+    "sort": 19
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 92,
+    "sort": 0
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 100,
+    "sort": 4
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 152,
+    "sort": 1
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 153,
+    "sort": 2
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 154,
+    "sort": 3
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 156,
+    "sort": 22
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 203,
+    "sort": 16
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 205,
+    "sort": 10
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 206,
+    "sort": 11
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 207,
+    "sort": 14
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 208,
+    "sort": 15
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 209,
+    "sort": 7
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 210,
+    "sort": 6
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 211,
+    "sort": 13
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 212,
+    "sort": 12
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 215,
+    "sort": 8
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 216,
+    "sort": 9
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 261,
+    "sort": 17
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 262,
+    "sort": 23
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 506,
+    "sort": 20
+  },
+  {
+    "explainer_id": 5,
+    "source_id": 507,
+    "sort": 21
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 1,
+    "sort": 8
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 100,
+    "sort": 7
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 139,
+    "sort": 1
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 140,
+    "sort": 4
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 492,
+    "sort": 0
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 502,
+    "sort": 9
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 506,
+    "sort": 3
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 507,
+    "sort": 5
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 508,
+    "sort": 2
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 509,
+    "sort": 6
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 510,
+    "sort": 10
+  },
+  {
+    "explainer_id": 6,
+    "source_id": 511,
+    "sort": 11
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 1,
+    "sort": 5
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 3,
+    "sort": 9
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 4,
+    "sort": 6
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 10,
+    "sort": 8
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 13,
+    "sort": 7
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 15,
+    "sort": 10
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 26,
+    "sort": 1
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 72,
+    "sort": 0
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 74,
+    "sort": 2
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 104,
+    "sort": 15
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 495,
+    "sort": 13
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 496,
+    "sort": 11
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 499,
+    "sort": 4
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 500,
+    "sort": 3
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 502,
+    "sort": 12
+  },
+  {
+    "explainer_id": 7,
+    "source_id": 507,
+    "sort": 14
+  },
+  {
+    "explainer_id": 8,
+    "source_id": 52,
+    "sort": 2
+  },
+  {
+    "explainer_id": 8,
+    "source_id": 140,
+    "sort": 4
+  },
+  {
+    "explainer_id": 8,
+    "source_id": 327,
+    "sort": 0
+  },
+  {
+    "explainer_id": 8,
+    "source_id": 506,
+    "sort": 1
+  },
+  {
+    "explainer_id": 8,
+    "source_id": 508,
+    "sort": 3
+  },
+  {
+    "explainer_id": 8,
+    "source_id": 509,
+    "sort": 6
+  },
+  {
+    "explainer_id": 8,
+    "source_id": 512,
+    "sort": 5
+  }
+]

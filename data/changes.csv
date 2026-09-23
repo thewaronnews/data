@@ -2939,3 +2939,23 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 2938,2026-09-23T02:33:08Z,record_revised,incident,34,,,,"Correction: the raid, arrests and Dominique's exile began on 1980-11-28 (Amnesty International, Haiti report, ""raided by the Duvalier security forces on 28 November 1980""), not generically ""1981"".",1
 2939,2026-09-23T02:33:09Z,record_revised,incident,45,,,,"Correction: the Act's own communism-suppression provision (s55) was repealed on 1991-07-31 (O'Malley Archive chronology, ""31 July 1991 ... Abolished s 55""), a more precise outcome date than the general February 1990 lifting of banning orders under the act and its successors, which remains true and is kept in the outcome note.",1
 2940,2026-09-23T02:33:10Z,record_revised,incident,84,,,,"Correction: the outcome_on column is corrected to 2000-10-01 (month known, day not stated in the source; the 1st is used as this schema's day-precision placeholder for a month-only date) to match the record's own outcome note, already correct (""The law was suspended after Milosevic lost power in October 2000""), now directly sourced (U.S. Department of State, 2002 country report).",1
+2941,2026-09-23T04:21:07Z,record_published,explainer,1,,,,publish scored explainer,0
+2942,2026-09-23T04:21:14Z,record_published,explainer,2,,,,publish scored explainer,0
+2943,2026-09-23T04:21:21Z,record_published,explainer,3,,,,publish scored explainer,0
+2944,2026-09-23T04:21:29Z,record_published,explainer,4,,,,publish scored explainer,0
+2945,2026-09-23T04:26:06Z,record_revised,explainer,1,,,,Initial publish from Surfer-scored explainer draft,0
+2946,2026-09-23T04:26:24Z,record_published,explainer,5,,,,publish scored explainer,0
+2947,2026-09-23T04:26:32Z,record_published,explainer,6,,,,publish scored explainer,0
+2948,2026-09-23T04:26:41Z,record_published,explainer,7,,,,publish scored explainer,0
+2949,2026-09-23T04:26:46Z,record_published,explainer,8,,,,publish scored explainer,0
+2950,2026-09-23T04:26:47Z,record_revised,explainer,2,,,,Initial publish from Surfer-scored explainer draft,0
+2951,2026-09-23T04:26:52Z,record_revised,explainer,3,,,,Initial publish from Surfer-scored explainer draft,0
+2952,2026-09-23T04:26:58Z,record_revised,explainer,4,,,,Initial publish from Surfer-scored explainer draft,0
+2953,2026-09-23T04:30:31Z,record_revised,explainer,1,,,,Initial publish from Surfer-scored explainer draft,0
+2954,2026-09-23T04:30:37Z,record_revised,explainer,5,,,,Initial publish from Surfer-scored explainer draft,0
+2955,2026-09-23T04:30:50Z,record_revised,explainer,6,,,,Initial publish from Surfer-scored explainer draft,0
+2956,2026-09-23T04:30:57Z,record_revised,explainer,7,,,,Initial publish from Surfer-scored explainer draft,0
+2957,2026-09-23T04:31:07Z,record_revised,explainer,8,,,,Initial publish from Surfer-scored explainer draft,0
+2958,2026-09-23T04:31:12Z,record_revised,explainer,2,,,,Initial publish from Surfer-scored explainer draft,0
+2959,2026-09-23T04:31:17Z,record_revised,explainer,3,,,,Initial publish from Surfer-scored explainer draft,0
+2960,2026-09-23T04:31:23Z,record_revised,explainer,4,,,,Initial publish from Surfer-scored explainer draft,0

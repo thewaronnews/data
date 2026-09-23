@@ -21,13 +21,13 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 | outlets | 111 |
 | journalists | 79 |
 | cases | 4 |
-| sources | 491 |
+| sources | 512 |
 | claims | 732 |
 | tactics | 13 |
 | countries | 250 |
 | incident_tactics | 278 |
 | coverage_items | 17 |
-| explainers | 0 |
+| explainers | 8 |
 | glossary_terms | 67 |
 | incident_actors | 344 |
 | incident_outlets | 161 |
@@ -37,9 +37,9 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 | incident_related | 0 |
 | case_parties | 0 |
 | case_sources | 21 |
-| explainer_sources | 0 |
+| explainer_sources | 95 |
 | glossary_sources | 51 |
-| changes | 2940 |
+| changes | 2960 |
 
 ## Licence and attribution
 

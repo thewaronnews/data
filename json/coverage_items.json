@@ -35,7 +35,7 @@
     "title": "Knight Institute To Support Banned News Organizations in Court",
     "publisher": "Knight First Amendment Institute",
     "published_at": "2026-09-21T07:00:00Z",
-    "summary": "WASHINGTON&mdash;CNN, MS NOW, and Politico announced this morning that they are suing President Trump and three advisors after the administration banned the news outlets from the White House and confiscated their reporters&rsquo; press credentials. The following can be attributed to...",
+    "summary": "WASHINGTON, CNN, MS NOW, and Politico announced this morning that they are suing President Trump and three advisors after the administration banned the news outlets from the White House and confiscated their reporters’ press credentials. The following can be attributed to...",
     "jev_in_scope": 0.9284885454177856,
     "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
     "tactic_guess": "access_ban",
