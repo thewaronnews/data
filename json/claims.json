@@ -15370,5 +15370,26 @@
     "supersede_reason": null,
     "batch_label": "v3-corrections-2026-09-22",
     "created_at": "2026-09-23T02:31:04Z"
+  },
+  {
+    "id": 733,
+    "subject_type": "incident",
+    "subject_id": 1,
+    "field": "action",
+    "value": "Government opposition to the temporary restraining order motion filed, 2026-09-22",
+    "statement": "On September 22, 2026, the Trump administration filed a written opposition in the United States District Court for the District of Columbia, the federal trial court in Washington, D.C., to the outlets' motion for a temporary restraining order, arguing that access to the White House is a privilege rather than an entitlement and that the president had the authority to suspend the access of CNN, MS NOW and Politico.",
+    "attribution": "Reuters",
+    "source_id": 513,
+    "evidence_quote": "In a legal filing on the eve of the hearing, the Trump administration argued that access to the White House was a privilege, not an entitlement, and so the president had the authority to suspend the organisations' access.",
+    "evidence_date": "2026-09-23",
+    "method": "outlet_report",
+    "verified_at": "2026-09-23",
+    "confidence": "high",
+    "status": "current",
+    "supersedes_id": null,
+    "superseded_by": null,
+    "supersede_reason": null,
+    "batch_label": "maintenance-2026-09-23",
+    "created_at": "2026-09-23T13:12:10Z"
   }
 ]

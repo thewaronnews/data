@@ -268,5 +268,50 @@
     "country_guess": "CD",
     "incident_id": null,
     "fetched_at": "2026-09-23T10:05:43Z"
+  },
+  {
+    "id": 200,
+    "url": "https://knightcolumbia.org/cases/cnn-v-trump",
+    "title": "CNN v. Trump",
+    "publisher": "Knight First Amendment Institute",
+    "published_at": "2026-09-22T07:00:00Z",
+    "summary": "On September 22, 2026, the Reporters Committee for Freedom of the Press, the Knight Institute, and others filed an amicus brief in support of a challenge brought by three news organizations to President Trump's decision to ban them from the...",
+    "jev_in_scope": 0.9351545858383179,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.9992145299911499,
+    "country_guess": null,
+    "incident_id": null,
+    "fetched_at": "2026-09-23T18:05:43Z"
+  },
+  {
+    "id": 211,
+    "url": "https://www.democracynow.org/2026/9/21/white_house_press",
+    "title": "\"War on the Press\": Trump Bans CNN, MS NOW & Politico from White House over Critical Coverage",
+    "publisher": "Democracy Now!",
+    "published_at": "2026-09-21T12:18:28Z",
+    "summary": "News organizations CNN , MS NOW and Politico are suing the Trump administration over the banning of their reporters from the White House on Friday. Their credentials were confiscated or deactivated when they attempted to enter White House grounds over...",
+    "jev_in_scope": 0.9644608640670777,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.9997127652168274,
+    "country_guess": "US",
+    "incident_id": null,
+    "fetched_at": "2026-09-24T00:29:37Z"
+  },
+  {
+    "id": 246,
+    "url": "https://www.reuters.com/legal/government/news-outlets-will-ask-judge-end-trumps-white-house-ban-hearing-2026-09-23",
+    "title": "Judge skeptical of Trump's White House media ban at hearing",
+    "publisher": "Reuters",
+    "published_at": "2026-09-23T03:05:00Z",
+    "summary": "News ​outlets CNN, MS NOW and Politico will ask a federal judge on Wednesday to immediately restore their access to ‌the White House after President Donald Trump banned them in one of his most ...",
+    "jev_in_scope": 0.9411225962638855,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.9999631643295288,
+    "country_guess": "US",
+    "incident_id": null,
+    "fetched_at": "2026-09-24T04:05:40Z"
   }
 ]

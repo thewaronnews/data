@@ -5,3 +5,4 @@ id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub
 4,1,,2026-09-20,day,action,Other pool networks decline to fill CNN's vacated rotating pool slot,91,published,2026-09-22T20:47:54Z
 5,1,,2026-09-21,day,filing,"CNN, MS NOW and Politico file suit against Trump and the White House",4,published,2026-09-22T20:47:55Z
 6,1,,2026-09-23,day,hearing,"Hearing scheduled in Cable News Network, Inc. v. Trump",92,published,2026-09-22T20:47:55Z
+13,1,,2026-09-22,day,filing,Trump administration files opposition to the outlets' motion for a temporary restraining order,733,published,2026-09-23T13:12:11Z
