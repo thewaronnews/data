@@ -15433,5 +15433,26 @@
     "supersede_reason": null,
     "batch_label": "maint-2026-09-24",
     "created_at": "2026-09-24T09:49:54Z"
+  },
+  {
+    "id": 736,
+    "subject_type": "incident",
+    "subject_id": 1,
+    "field": "action",
+    "value": "Reporters denied entry to state dinner arrival, 2026-09-24",
+    "statement": "On September 24, 2026, after the court order, CNN, MS NOW and Politico journalists regained access to the White House grounds. CNN and MS NOW said the White House then denied their reporters access to the arrival ceremony for the state dinner for Xi Jinping, the leader of China. CNN reported that the White House allowed only its photojournalist and audio technician to attend.",
+    "attribution": null,
+    "source_id": 515,
+    "evidence_quote": "Though CNN and MS NOW were back on the White House grounds Thursday, both news outlets said their journalists were denied access to Xi's state dinner arrival.",
+    "evidence_date": "2026-09-24",
+    "method": "outlet_report",
+    "verified_at": "2026-09-25",
+    "confidence": "high",
+    "status": "current",
+    "supersedes_id": null,
+    "superseded_by": null,
+    "supersede_reason": null,
+    "batch_label": "maint-2026-09-25",
+    "created_at": "2026-09-25T09:42:58Z"
   }
 ]
