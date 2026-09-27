@@ -1,0 +1,27 @@
+[
+  {
+    "incident_id": 1,
+    "case_id": 1,
+    "relation": "precedent_cited"
+  },
+  {
+    "incident_id": 1,
+    "case_id": 4,
+    "relation": "arising_from"
+  },
+  {
+    "incident_id": 8,
+    "case_id": 1,
+    "relation": "precedent_cited"
+  },
+  {
+    "incident_id": 8,
+    "case_id": 2,
+    "relation": "arising_from"
+  },
+  {
+    "incident_id": 12,
+    "case_id": 3,
+    "relation": "arising_from"
+  }
+]
