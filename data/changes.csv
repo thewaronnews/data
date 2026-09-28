@@ -3515,3 +3515,6 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3514,2026-09-26T19:10:17Z,record_withdrawn,actor,269,,,,"affected person, not an actor in the incident",0
 3515,2026-09-26T19:10:18Z,record_withdrawn,actor,254,,,,"affected person, not an actor in the incident",0
 3516,2026-09-26T19:10:19Z,record_withdrawn,actor,288,,,,"affected person, not an actor in the incident",0
+3517,2026-09-27T09:56:51Z,claim_new,incident,1,984,,"On September 26, 2026, no network television pool traveled on Air Force One, the presidential aircraft, for President Tr",,0
+3518,2026-09-27T09:56:52Z,claim_new,incident,1,985,,"On September 26, 2026, the other television networks in the White House press pool, CBS, ABC, NBC and Fox News, declined",,0
+3519,2026-09-27T09:56:53Z,claim_new,incident,1,986,,"On September 26, 2026, President Trump posted statements on Truth Social, his social media platform, about CNN and MS NO",,0

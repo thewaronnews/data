@@ -42190,5 +42190,41 @@
     "new_value": null,
     "reason": "affected person, not an actor in the incident",
     "is_correction": 0
+  },
+  {
+    "id": 3517,
+    "changed_at": "2026-09-27T09:56:51Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 984,
+    "old_value": null,
+    "new_value": "On September 26, 2026, no network television pool traveled on Air Force One, the presidential aircraft, for President Tr",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3518,
+    "changed_at": "2026-09-27T09:56:52Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 985,
+    "old_value": null,
+    "new_value": "On September 26, 2026, the other television networks in the White House press pool, CBS, ABC, NBC and Fox News, declined",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3519,
+    "changed_at": "2026-09-27T09:56:53Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 986,
+    "old_value": null,
+    "new_value": "On September 26, 2026, President Trump posted statements on Truth Social, his social media platform, about CNN and MS NO",
+    "reason": null,
+    "is_correction": 0
   }
 ]

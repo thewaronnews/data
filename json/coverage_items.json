@@ -688,5 +688,20 @@
     "country_guess": "PS",
     "incident_id": null,
     "fetched_at": "2026-09-26T18:06:04Z"
+  },
+  {
+    "id": 341,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2RIR1Q2XzRuNUt6aENLbHFsdWhaVUhRUkdhdktQQjhldm5sR2VzVkhnSFgzaVZfdHdEeTZFS2lTNHpQZS02MUJYN01IMDF5TUZzSmZValpFOTI2aENnSzdYRlVuSTVnNWtYWXB3OEtHNDdpS21GeElDQ1pxd2JFa2s0VzBxNVVMeDNhS3hTVUd2czhWdGx0OHhRWm1UWkRUcWh4QklfLUdvVHcxd2tTbklibDdZSVp0OS1wWVZWQ0FDQQ",
+    "title": "Blanche says Trump ‘hasn’t denied access’ after reporters barred from White House grounds",
+    "publisher": "tippahnews.com",
+    "published_at": "2026-09-27T17:15:39Z",
+    "summary": null,
+    "jev_in_scope": 0.8494283831119537,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.9999884366989136,
+    "country_guess": "US",
+    "incident_id": null,
+    "fetched_at": "2026-09-27T18:06:02Z"
   }
 ]
