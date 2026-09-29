@@ -42226,5 +42226,29 @@
     "new_value": "On September 26, 2026, President Trump posted statements on Truth Social, his social media platform, about CNN and MS NO",
     "reason": null,
     "is_correction": 0
+  },
+  {
+    "id": 3520,
+    "changed_at": "2026-09-28T09:45:01Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 987,
+    "old_value": null,
+    "new_value": "On September 27, 2026, Todd Blanche, the US Attorney General (head of the Justice Department), said in a television inte",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3521,
+    "changed_at": "2026-09-28T09:45:03Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 988,
+    "old_value": null,
+    "new_value": "On September 27, 2026, a network television camera crew filmed President Trump's public events again, according to The W",
+    "reason": null,
+    "is_correction": 0
   }
 ]
