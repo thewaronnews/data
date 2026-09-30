@@ -42250,5 +42250,41 @@
     "new_value": "On September 27, 2026, a network television camera crew filmed President Trump's public events again, according to The W",
     "reason": null,
     "is_correction": 0
+  },
+  {
+    "id": 3522,
+    "changed_at": "2026-09-29T09:35:40Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 989,
+    "old_value": null,
+    "new_value": "On September 28, 2026, CNN, MS NOW, Politico and three of their reporters filed a motion for a preliminary injunction, a",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3523,
+    "changed_at": "2026-09-29T09:35:40Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 990,
+    "old_value": null,
+    "new_value": "According to CNN, the temporary restraining order issued on September 24, 2026 expires on October 8, and the outlets ask",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3524,
+    "changed_at": "2026-09-29T12:14:32Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: Sept 26 to 28 developments, preliminary injunction motion, TRO expiry",
+    "is_correction": 0
   }
 ]

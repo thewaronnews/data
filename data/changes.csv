@@ -3520,3 +3520,6 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3519,2026-09-27T09:56:53Z,claim_new,incident,1,986,,"On September 26, 2026, President Trump posted statements on Truth Social, his social media platform, about CNN and MS NO",,0
 3520,2026-09-28T09:45:01Z,claim_new,incident,1,987,,"On September 27, 2026, Todd Blanche, the US Attorney General (head of the Justice Department), said in a television inte",,0
 3521,2026-09-28T09:45:03Z,claim_new,incident,1,988,,"On September 27, 2026, a network television camera crew filmed President Trump's public events again, according to The W",,0
+3522,2026-09-29T09:35:40Z,claim_new,incident,1,989,,"On September 28, 2026, CNN, MS NOW, Politico and three of their reporters filed a motion for a preliminary injunction, a",,0
+3523,2026-09-29T09:35:40Z,claim_new,incident,1,990,,"According to CNN, the temporary restraining order issued on September 24, 2026 expires on October 8, and the outlets ask",,0
+3524,2026-09-29T12:14:32Z,record_revised,incident,1,,,,"update: Sept 26 to 28 developments, preliminary injunction motion, TRO expiry",0

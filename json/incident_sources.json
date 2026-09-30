@@ -49,6 +49,12 @@
   },
   {
     "incident_id": 1,
+    "source_id": 105,
+    "role": "reporting",
+    "sort": 22
+  },
+  {
+    "incident_id": 1,
     "source_id": 111,
     "role": "reporting",
     "sort": 8
@@ -130,6 +136,12 @@
     "source_id": 622,
     "role": "reporting",
     "sort": 21
+  },
+  {
+    "incident_id": 1,
+    "source_id": 623,
+    "role": "reporting",
+    "sort": 23
   },
   {
     "incident_id": 2,
