@@ -190,5 +190,17 @@
     "claim_id": 989,
     "pub_state": "published",
     "created_at": "2026-09-29T09:35:41Z"
+  },
+  {
+    "id": 24,
+    "incident_id": 1,
+    "case_id": null,
+    "occurred_on": "2026-09-29",
+    "occurred_on_precision": "day",
+    "kind": "action",
+    "label": "TIME reports that the network television pool is resuming its coverage of the president",
+    "claim_id": 991,
+    "pub_state": "published",
+    "created_at": "2026-09-30T09:35:16Z"
   }
 ]

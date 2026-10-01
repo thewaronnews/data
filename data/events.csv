@@ -15,3 +15,4 @@ id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub
 21,1,,2026-09-27,day,statement,Attorney General Todd Blanche says press access to the White House and Air Force One is a privilege,987,published,2026-09-28T09:45:02Z
 22,1,,2026-09-27,day,action,"Network television camera crew films the president's public events again, a day after no TV pool traveled",988,published,2026-09-28T09:45:03Z
 23,1,,2026-09-28,day,filing,"CNN, MS NOW, Politico and three reporters file a motion for a preliminary injunction",989,published,2026-09-29T09:35:41Z
+24,1,,2026-09-29,day,action,TIME reports that the network television pool is resuming its coverage of the president,991,published,2026-09-30T09:35:16Z

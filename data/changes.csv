@@ -3523,3 +3523,6 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3522,2026-09-29T09:35:40Z,claim_new,incident,1,989,,"On September 28, 2026, CNN, MS NOW, Politico and three of their reporters filed a motion for a preliminary injunction, a",,0
 3523,2026-09-29T09:35:40Z,claim_new,incident,1,990,,"According to CNN, the temporary restraining order issued on September 24, 2026 expires on October 8, and the outlets ask",,0
 3524,2026-09-29T12:14:32Z,record_revised,incident,1,,,,"update: Sept 26 to 28 developments, preliminary injunction motion, TRO expiry",0
+3525,2026-09-30T09:35:00Z,claim_new,incident,1,991,,"On September 29, 2026, TIME, the US news magazine, reported that the major television networks were resuming their pool ",,0
+3526,2026-09-30T09:35:19Z,record_revised,incident,1,,,,update: 2026-09-29 TIME report on network pool resuming (claim 991),0
+3527,2026-09-30T09:43:28Z,source_offline,,,,redirected,dead,source 493,0

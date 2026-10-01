@@ -42286,5 +42286,41 @@
     "new_value": null,
     "reason": "update: Sept 26 to 28 developments, preliminary injunction motion, TRO expiry",
     "is_correction": 0
+  },
+  {
+    "id": 3525,
+    "changed_at": "2026-09-30T09:35:00Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 991,
+    "old_value": null,
+    "new_value": "On September 29, 2026, TIME, the US news magazine, reported that the major television networks were resuming their pool ",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3526,
+    "changed_at": "2026-09-30T09:35:19Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: 2026-09-29 TIME report on network pool resuming (claim 991)",
+    "is_correction": 0
+  },
+  {
+    "id": 3527,
+    "changed_at": "2026-09-30T09:43:28Z",
+    "kind": "source_offline",
+    "record_type": null,
+    "record_id": null,
+    "claim_id": null,
+    "old_value": "redirected",
+    "new_value": "dead",
+    "reason": "source 493",
+    "is_correction": 0
   }
 ]
