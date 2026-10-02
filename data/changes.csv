@@ -3526,3 +3526,9 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3525,2026-09-30T09:35:00Z,claim_new,incident,1,991,,"On September 29, 2026, TIME, the US news magazine, reported that the major television networks were resuming their pool ",,0
 3526,2026-09-30T09:35:19Z,record_revised,incident,1,,,,update: 2026-09-29 TIME report on network pool resuming (claim 991),0
 3527,2026-09-30T09:43:28Z,source_offline,,,,redirected,dead,source 493,0
+3528,2026-10-01T09:40:02Z,claim_new,incident,1,992,,"On September 30, 2026, NBC News, the news division of the US broadcast network NBC, reported that the White House had re",,0
+3529,2026-10-01T09:41:56Z,claim_new,incident,1,993,,"On September 30, 2026, NBC News, the news division of the US broadcast network NBC, reported that the White House had re",,0
+3530,2026-10-01T09:41:57Z,claim_new,incident,1,994,,"On September 30, 2026, the Reporters Committee for Freedom of the Press, a US nonprofit that provides legal support to j",,0
+3531,2026-10-01T09:42:01Z,record_revised,incident,1,,,,"update: 2026-09-30 pool removal and amicus filings (claims [993, 994])",0
+3532,2026-10-01T09:42:16Z,record_revised,incident,1,,,,cite claim 992 (event 25) instead of duplicate claim 993,0
+3533,2026-10-01T09:42:19Z,claim_retired,incident,1,993,,,"duplicate of claim 992, created by a retried maintenance script",0

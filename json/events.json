@@ -202,5 +202,29 @@
     "claim_id": 991,
     "pub_state": "published",
     "created_at": "2026-09-30T09:35:16Z"
+  },
+  {
+    "id": 25,
+    "incident_id": 1,
+    "case_id": null,
+    "occurred_on": "2026-09-30",
+    "occurred_on_precision": "day",
+    "kind": "action",
+    "label": "White House removes CNN from the press pool for the October 1 Texas and Oklahoma trip",
+    "claim_id": 992,
+    "pub_state": "published",
+    "created_at": "2026-10-01T09:40:03Z"
+  },
+  {
+    "id": 26,
+    "incident_id": 1,
+    "case_id": null,
+    "occurred_on": "2026-09-30",
+    "occurred_on_precision": "day",
+    "kind": "filing",
+    "label": "Reporters Committee for Freedom of the Press and 77 media organizations move to file an amicus brief",
+    "claim_id": 994,
+    "pub_state": "published",
+    "created_at": "2026-10-01T09:41:58Z"
   }
 ]

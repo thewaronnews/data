@@ -16,3 +16,5 @@ id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub
 22,1,,2026-09-27,day,action,"Network television camera crew films the president's public events again, a day after no TV pool traveled",988,published,2026-09-28T09:45:03Z
 23,1,,2026-09-28,day,filing,"CNN, MS NOW, Politico and three reporters file a motion for a preliminary injunction",989,published,2026-09-29T09:35:41Z
 24,1,,2026-09-29,day,action,TIME reports that the network television pool is resuming its coverage of the president,991,published,2026-09-30T09:35:16Z
+25,1,,2026-09-30,day,action,White House removes CNN from the press pool for the October 1 Texas and Oklahoma trip,992,published,2026-10-01T09:40:03Z
+26,1,,2026-09-30,day,filing,Reporters Committee for Freedom of the Press and 77 media organizations move to file an amicus brief,994,published,2026-10-01T09:41:58Z

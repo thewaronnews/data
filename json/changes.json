@@ -42322,5 +42322,77 @@
     "new_value": "dead",
     "reason": "source 493",
     "is_correction": 0
+  },
+  {
+    "id": 3528,
+    "changed_at": "2026-10-01T09:40:02Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 992,
+    "old_value": null,
+    "new_value": "On September 30, 2026, NBC News, the news division of the US broadcast network NBC, reported that the White House had re",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3529,
+    "changed_at": "2026-10-01T09:41:56Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 993,
+    "old_value": null,
+    "new_value": "On September 30, 2026, NBC News, the news division of the US broadcast network NBC, reported that the White House had re",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3530,
+    "changed_at": "2026-10-01T09:41:57Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 994,
+    "old_value": null,
+    "new_value": "On September 30, 2026, the Reporters Committee for Freedom of the Press, a US nonprofit that provides legal support to j",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3531,
+    "changed_at": "2026-10-01T09:42:01Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: 2026-09-30 pool removal and amicus filings (claims [993, 994])",
+    "is_correction": 0
+  },
+  {
+    "id": 3532,
+    "changed_at": "2026-10-01T09:42:16Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "cite claim 992 (event 25) instead of duplicate claim 993",
+    "is_correction": 0
+  },
+  {
+    "id": 3533,
+    "changed_at": "2026-10-01T09:42:19Z",
+    "kind": "claim_retired",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 993,
+    "old_value": null,
+    "new_value": null,
+    "reason": "duplicate of claim 992, created by a retried maintenance script",
+    "is_correction": 0
   }
 ]
