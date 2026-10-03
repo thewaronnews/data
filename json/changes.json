@@ -42394,5 +42394,53 @@
     "new_value": null,
     "reason": "duplicate of claim 992, created by a retried maintenance script",
     "is_correction": 0
+  },
+  {
+    "id": 3534,
+    "changed_at": "2026-10-02T09:57:08Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 995,
+    "old_value": null,
+    "new_value": "On October 1, 2026, Judge Timothy Kelly ordered the parties to appear on October 8, 2026, at 11:00 a.m. in Courtroom 11 ",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3535,
+    "changed_at": "2026-10-02T09:57:10Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 996,
+    "old_value": null,
+    "new_value": "On October 1, 2026, Judge Timothy Kelly granted the Society for the Rule of Law and Democracy, Inc., a US organization, ",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3536,
+    "changed_at": "2026-10-02T09:57:11Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 997,
+    "old_value": null,
+    "new_value": "On October 2, 2026, the NAACP, a US civil rights organization, filed a consent motion for leave to file an amicus brief ",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3537,
+    "changed_at": "2026-10-02T09:57:12Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: Oct 1-2 court record entries, preliminary injunction hearing set for Oct 8 (claims [995, 996, 997])",
+    "is_correction": 0
   }
 ]

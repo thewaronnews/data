@@ -18,3 +18,6 @@ id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub
 24,1,,2026-09-29,day,action,TIME reports that the network television pool is resuming its coverage of the president,991,published,2026-09-30T09:35:16Z
 25,1,,2026-09-30,day,action,White House removes CNN from the press pool for the October 1 Texas and Oklahoma trip,992,published,2026-10-01T09:40:03Z
 26,1,,2026-09-30,day,filing,Reporters Committee for Freedom of the Press and 77 media organizations move to file an amicus brief,994,published,2026-10-01T09:41:58Z
+27,1,,2026-10-01,day,hearing,"Court sets the hearing on the preliminary injunction motion for October 8, 2026",995,published,2026-10-02T09:57:09Z
+28,1,,2026-10-01,day,ruling,Judge grants the Society for the Rule of Law and Democracy leave to file an amicus brief,996,published,2026-10-02T09:57:10Z
+29,1,,2026-10-02,day,filing,NAACP moves to file an amicus brief supporting the preliminary injunction motion,997,published,2026-10-02T09:57:11Z

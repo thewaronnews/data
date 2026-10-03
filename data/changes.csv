@@ -3532,3 +3532,7 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3531,2026-10-01T09:42:01Z,record_revised,incident,1,,,,"update: 2026-09-30 pool removal and amicus filings (claims [993, 994])",0
 3532,2026-10-01T09:42:16Z,record_revised,incident,1,,,,cite claim 992 (event 25) instead of duplicate claim 993,0
 3533,2026-10-01T09:42:19Z,claim_retired,incident,1,993,,,"duplicate of claim 992, created by a retried maintenance script",0
+3534,2026-10-02T09:57:08Z,claim_new,incident,1,995,,"On October 1, 2026, Judge Timothy Kelly ordered the parties to appear on October 8, 2026, at 11:00 a.m. in Courtroom 11 ",,0
+3535,2026-10-02T09:57:10Z,claim_new,incident,1,996,,"On October 1, 2026, Judge Timothy Kelly granted the Society for the Rule of Law and Democracy, Inc., a US organization, ",,0
+3536,2026-10-02T09:57:11Z,claim_new,incident,1,997,,"On October 2, 2026, the NAACP, a US civil rights organization, filed a consent motion for leave to file an amicus brief ",,0
+3537,2026-10-02T09:57:12Z,record_revised,incident,1,,,,"update: Oct 1-2 court record entries, preliminary injunction hearing set for Oct 8 (claims [995, 996, 997])",0
