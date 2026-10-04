@@ -42442,5 +42442,41 @@
     "new_value": null,
     "reason": "update: Oct 1-2 court record entries, preliminary injunction hearing set for Oct 8 (claims [995, 996, 997])",
     "is_correction": 0
+  },
+  {
+    "id": 3538,
+    "changed_at": "2026-10-03T09:34:12Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 998,
+    "old_value": null,
+    "new_value": "On October 2, 2026, the defendants (President Trump, Susan Wiles, Steven Cheung and Sean Curran, sued in their official ",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3539,
+    "changed_at": "2026-10-03T09:34:13Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 999,
+    "old_value": null,
+    "new_value": "On October 2, 2026, Judge Timothy Kelly granted the Reporters Committee for Freedom of the Press and 77 media organizati",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3540,
+    "changed_at": "2026-10-03T09:34:15Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: Oct 2 defendants opposition and amicus leave (claims [998, 999])",
+    "is_correction": 0
   }
 ]

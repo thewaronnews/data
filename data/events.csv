@@ -21,3 +21,5 @@ id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub
 27,1,,2026-10-01,day,hearing,"Court sets the hearing on the preliminary injunction motion for October 8, 2026",995,published,2026-10-02T09:57:09Z
 28,1,,2026-10-01,day,ruling,Judge grants the Society for the Rule of Law and Democracy leave to file an amicus brief,996,published,2026-10-02T09:57:10Z
 29,1,,2026-10-02,day,filing,NAACP moves to file an amicus brief supporting the preliminary injunction motion,997,published,2026-10-02T09:57:11Z
+30,1,,2026-10-02,day,filing,Defendants file opposition to the preliminary injunction motion,998,published,2026-10-03T09:34:13Z
+31,1,,2026-10-02,day,ruling,Judge grants Reporters Committee and 77 media organizations leave to file an amicus brief,999,published,2026-10-03T09:34:14Z

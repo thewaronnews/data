@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "access_ban",
+    "name": "Access bans",
+    "definition": "A government or official bars a reporter or a news organisation from places or events where news is gathered: briefings, government buildings, press pools, official trips or court hearings. The ban may be announced, or made by refusing entry without notice. It does not stop publication, but it cuts reporters off from officials and from events that other outlets can still cover.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 1,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "credential_control",
+    "name": "Credential control",
+    "definition": "A government decides who counts as a journalist through passes, accreditation or licences issued to individual reporters. Officials may refuse, suspend or revoke these credentials, or attach new conditions to them. Because many press areas admit only accredited reporters, control of credentials works as control of access.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 2,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "outlet_licensing",
+    "name": "Licensing and closure of outlets",
+    "definition": "A government requires newspapers, broadcasters or news websites to register or to hold a licence, and uses that power to refuse, suspend or cancel it, or to close the outlet. Broadcast licences, which governments issue because radio and television frequencies are limited, are a common lever.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 3,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "prior_restraint",
+    "name": "Prior restraint",
+    "definition": "An order or rule that stops something from being published before it appears, rather than penalising it afterwards. Examples are boards that must approve articles, books or films before release, court injunctions against publication, and rules that require officials to review material before it is published.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 4,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "secrets_and_espionage_laws",
+    "name": "Secrets and espionage laws",
+    "definition": "Laws that make it a crime to obtain, keep or disclose information a government has classified as secret, such as the Espionage Act, a 1917 United States law against disclosing defence information, or the Official Secrets Acts of the United Kingdom. Governments use them to prosecute journalists or, more often, the officials who gave journalists information.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 5,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "insult_and_defamation_laws",
+    "name": "Insult and defamation laws",
+    "definition": "Laws that make it a crime, not only a civil wrong, to damage a person's reputation, to insult a head of state or a monarch (known as lèse-majesté), or to publish information that a government declares false, including laws against \"fake news\". Convictions can bring fines or prison.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 6,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "surveillance_and_subpoenas",
+    "name": "Surveillance and subpoenas",
+    "definition": "A government collects journalists' communications or records, often to learn who their sources are. Methods include subpoenas (court orders to hand over records or to testify), search warrants, seizure of phones and notes, demands to telephone and internet companies, and spyware placed on reporters' devices.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 7,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "funding_and_ownership_pressure",
+    "name": "Funding and ownership pressure",
+    "definition": "A government uses money, or its power over owners, instead of acting against reporters directly. Examples are cutting the funds of public broadcasters, forcing the sale of an outlet, steering state advertising away from some publications, and using licence reviews or merger approvals to press an outlet's owners.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 8,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "expulsion_and_visa_denial",
+    "name": "Expulsion and visa denial",
+    "definition": "A government expels correspondents who report from its territory for news organisations based in other countries, refuses them visas or accreditation, or declines to renew their permission to stay. The effect is less independent reporting from inside the country.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 9,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "shutdowns_and_blocking",
+    "name": "Shutdowns and blocking",
+    "definition": "A government cuts internet or mobile telephone service, blocks news websites or social media platforms, or jams radio and television signals, so that audiences cannot receive news and reporters cannot send it out.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 10,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "detention_and_violence",
+    "name": "Detention and violence",
+    "definition": "Arrest, detention, prosecution, imprisonment, physical harm or killing of journalists, where police, soldiers, officials or others acting for a government carried out, ordered or authorised the act. Harm by private people is recorded only when a government actor was involved.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 11,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "lawsuits_against_press",
+    "name": "Lawsuits against the press",
+    "definition": "A government, a government agency or an official sues a journalist or a news organisation, usually for defamation or breach of contract, whether the official acts in office or in a personal capacity. Lawsuits that fail can still cost the defendant years of work and large legal fees.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 12,
+    "updated_at": "2026-09-22T00:00:00Z"
+  },
+  {
+    "slug": "disinformation_labeling",
+    "name": "Official labels",
+    "definition": "A government officially brands a news outlet or a journalist as a source of disinformation or \"fake news\", or requires it to register as an agent of another country. Such labels often carry reporting duties and restrictions, and can cost the outlet its audience and advertisers.",
+    "first_recorded_on": null,
+    "notes": null,
+    "sort": 13,
+    "updated_at": "2026-09-22T00:00:00Z"
+  }
+]

@@ -1273,5 +1273,50 @@
     "country_guess": "EG",
     "incident_id": null,
     "fetched_at": "2026-10-03T06:06:09Z"
+  },
+  {
+    "id": 472,
+    "url": "https://www.washingtonpost.com/press-freedom-desk/2026/10/03/press-freedom-this-week-media-outlets-battle-trumps-amid-an-already-alarming-trend",
+    "title": "Press Freedom This Week: Media outlets battle Trump’s amid an already alarming trend",
+    "publisher": "The Washington Post",
+    "published_at": "2026-10-03T07:00:00Z",
+    "summary": "Even before President Donald Trump announced a ban on three news outlets from the White House, U.S. press freedoms had seen a dramatic erosion. In April, Reporters Without Borders ...",
+    "jev_in_scope": 0.998498797416687,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.999395489692688,
+    "country_guess": "US",
+    "incident_id": null,
+    "fetched_at": "2026-10-03T14:05:57Z"
+  },
+  {
+    "id": 473,
+    "url": "https://cpj.org/2026/10/cuban-content-creator-sentenced-to-2-years-of-restricted-freedom-for-filming-agent",
+    "title": "Cuban content creator sentenced to 2 years of ‘restricted freedom’ for filming agent",
+    "publisher": "Committee to Protect Journalists",
+    "published_at": "2026-10-03T16:02:55Z",
+    "summary": "Miami, October 3, 2026, The Committee to Protect Journalists condemns a Havana court’s Thursday sentencing of influencer and content creator Anna Sofía Benítez, 21, and her mother, Caridad Silvente, to two years of “restricted freedom” after they were found guilty...",
+    "jev_in_scope": 0.9978172779083252,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9983662962913513,
+    "country_guess": "CU",
+    "incident_id": null,
+    "fetched_at": "2026-10-03T16:05:57Z"
+  },
+  {
+    "id": 474,
+    "url": "https://www.econotimes.com/Pope-Leo-Backs-Press-Freedom-After-White-House-Media-Ban-1753121",
+    "title": "Pope Leo Backs Press Freedom After White House Media Ban",
+    "publisher": "EconoTimes",
+    "published_at": "2026-09-25T12:39:00Z",
+    "summary": "Pope Leo reaffirmed his support for freedom of the press on Friday when asked about U.S. President Donald Trumps decision to bar CNN and several other news organizations from the White House. Speaking ...",
+    "jev_in_scope": 0.9986749291419983,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.9995018243789673,
+    "country_guess": "US",
+    "incident_id": null,
+    "fetched_at": "2026-10-03T18:05:59Z"
   }
 ]

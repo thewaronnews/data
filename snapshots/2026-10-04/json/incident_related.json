@@ -1,0 +1,17 @@
+[
+  {
+    "incident_id": 1,
+    "related_id": 3,
+    "relation": "precedent"
+  },
+  {
+    "incident_id": 1,
+    "related_id": 12,
+    "relation": "precedent"
+  },
+  {
+    "incident_id": 1,
+    "related_id": 98,
+    "relation": "precedent"
+  }
+]

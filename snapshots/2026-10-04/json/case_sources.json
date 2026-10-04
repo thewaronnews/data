@@ -1,0 +1,107 @@
+[
+  {
+    "case_id": 1,
+    "source_id": 71,
+    "role": "reporting"
+  },
+  {
+    "case_id": 1,
+    "source_id": 72,
+    "role": "opinion"
+  },
+  {
+    "case_id": 2,
+    "source_id": 46,
+    "role": "reporting"
+  },
+  {
+    "case_id": 2,
+    "source_id": 48,
+    "role": "reporting"
+  },
+  {
+    "case_id": 2,
+    "source_id": 86,
+    "role": "reporting"
+  },
+  {
+    "case_id": 2,
+    "source_id": 87,
+    "role": "opinion"
+  },
+  {
+    "case_id": 2,
+    "source_id": 88,
+    "role": "reporting"
+  },
+  {
+    "case_id": 3,
+    "source_id": 20,
+    "role": "reporting"
+  },
+  {
+    "case_id": 3,
+    "source_id": 24,
+    "role": "reporting"
+  },
+  {
+    "case_id": 3,
+    "source_id": 25,
+    "role": "reporting"
+  },
+  {
+    "case_id": 3,
+    "source_id": 26,
+    "role": "opinion"
+  },
+  {
+    "case_id": 3,
+    "source_id": 73,
+    "role": "reporting"
+  },
+  {
+    "case_id": 3,
+    "source_id": 74,
+    "role": "reporting"
+  },
+  {
+    "case_id": 3,
+    "source_id": 76,
+    "role": "opinion"
+  },
+  {
+    "case_id": 4,
+    "source_id": 10,
+    "role": "reporting"
+  },
+  {
+    "case_id": 4,
+    "source_id": 11,
+    "role": "reporting"
+  },
+  {
+    "case_id": 4,
+    "source_id": 12,
+    "role": "reporting"
+  },
+  {
+    "case_id": 4,
+    "source_id": 13,
+    "role": "reporting"
+  },
+  {
+    "case_id": 4,
+    "source_id": 14,
+    "role": "reporting"
+  },
+  {
+    "case_id": 4,
+    "source_id": 15,
+    "role": "reporting"
+  },
+  {
+    "case_id": 4,
+    "source_id": 105,
+    "role": "opinion"
+  }
+]
