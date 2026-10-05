@@ -1318,5 +1318,50 @@
     "country_guess": "US",
     "incident_id": null,
     "fetched_at": "2026-10-03T18:05:59Z"
+  },
+  {
+    "id": 476,
+    "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+    "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+    "publisher": "The Guardian",
+    "published_at": "2026-10-04T08:13:00Z",
+    "summary": "Calls for release of six Matsadaash staff after one is charged while whereabouts of other five remain unknown ...",
+    "jev_in_scope": 0.9991958737373352,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.999404788017273,
+    "country_guess": "EG",
+    "incident_id": null,
+    "fetched_at": "2026-10-04T16:05:58Z"
+  },
+  {
+    "id": 487,
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXpKWHE5MkludDFaNWc4dnl5OUJDOXNoM256UW1KNm0wSWJGTzBZZzZLX3U4dllaeERDbThqZEliVE1VYTRlRlNhaHRDbndwUGc3eWhhNzA1TmgzMzlLVzJ1NG43WXFNbFVUWEQ4NkZZREJvMmJRMkhUZENmRzJOdGhwQzVCQm9xWEd1VGpWRkxnTkRsaWZtaTI3WkRhb2dSbWVUc2dSWGdOOTdPN0JRSGN5eU9CUllHUkIxSUR6dno1NFZ1ODhqWS1CX2prcEtuOHhoODc4TFUzT24yS1RpSUhvUzBjTlZzbUY1aQ",
+    "title": "Hong Kong confirms journalist's arrest for alleged 'seditious' acts",
+    "publisher": "hongkongfp.com",
+    "published_at": "2026-10-01T00:05:33Z",
+    "summary": null,
+    "jev_in_scope": 0.9997695088386536,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9997671246528625,
+    "country_guess": "HK",
+    "incident_id": null,
+    "fetched_at": "2026-10-05T03:05:16Z"
+  },
+  {
+    "id": 488,
+    "url": "https://dominotheory.com/hong-kong-journalist-tang-ho-wing-arrested-on-suspicion-of-sedition",
+    "title": "Hong Kong Journalist Tang Ho-wing Arrested on Suspicion of Sedition",
+    "publisher": "dominotheory",
+    "published_at": "2026-10-04T17:00:00Z",
+    "summary": "The arrest is the latest in a string of repressive actions taken by authorities in Hong Kong, where independent journalism once flourished. Earlier this year, the courts sentenced Jimmy Lai (黎智英), ...",
+    "jev_in_scope": 0.999373733997345,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9997722506523132,
+    "country_guess": "HK",
+    "incident_id": null,
+    "fetched_at": "2026-10-05T07:05:16Z"
   }
 ]
