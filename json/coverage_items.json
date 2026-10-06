@@ -1363,5 +1363,35 @@
     "country_guess": "HK",
     "incident_id": null,
     "fetched_at": "2026-10-05T07:05:16Z"
+  },
+  {
+    "id": 494,
+    "url": "https://cpj.org/2026/10/inside-turkeys-lawfare-how-turkey-uses-its-disinformation-law-against-journalists",
+    "title": "Inside Turkey’s Lawfare: How Turkey uses its disinformation law against journalists",
+    "publisher": "Committee to Protect Journalists",
+    "published_at": "2026-10-05T11:17:01Z",
+    "summary": "Istanbul, October 5, 2026, Turkish authorities have weaponized the country’s disinformation law to stifle independent reporting by repeatedly detaining and arresting journalists on charges of spreading false information based on the vague tenets of this poorly conceived legislation. This tactic...",
+    "jev_in_scope": 0.9996199607849121,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9984918832778931,
+    "country_guess": "TR",
+    "incident_id": null,
+    "fetched_at": "2026-10-05T12:05:16Z"
+  },
+  {
+    "id": 507,
+    "url": "https://www.newarab.com/news/egyptian-journalists-allege-torture-after-arrest-ngo-says",
+    "title": "Egyptian journalists allege torture after arrest, NGO says",
+    "publisher": "The New Arab",
+    "published_at": "2026-10-05T02:38:00Z",
+    "summary": "Six Egyptian journalists detained over their work allege torture and forced confessions, sparking renewed concerns over press freedom in Egypt.",
+    "jev_in_scope": 0.9971990585327148,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9996870756149292,
+    "country_guess": "EG",
+    "incident_id": null,
+    "fetched_at": "2026-10-05T23:05:17Z"
   }
 ]
