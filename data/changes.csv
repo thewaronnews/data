@@ -3539,3 +3539,5 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3538,2026-10-03T09:34:12Z,claim_new,incident,1,998,,"On October 2, 2026, the defendants (President Trump, Susan Wiles, Steven Cheung and Sean Curran, sued in their official ",,0
 3539,2026-10-03T09:34:13Z,claim_new,incident,1,999,,"On October 2, 2026, Judge Timothy Kelly granted the Reporters Committee for Freedom of the Press and 77 media organizati",,0
 3540,2026-10-03T09:34:15Z,record_revised,incident,1,,,,"update: Oct 2 defendants opposition and amicus leave (claims [998, 999])",0
+3541,2026-10-06T09:34:54Z,claim_new,incident,1,1000,,"On October 5, 2026, the plaintiffs (CNN, MS NOW, Politico and three reporters) filed their reply in support of the preli",,0
+3542,2026-10-06T09:34:56Z,record_revised,incident,1,,,,update: Oct 5 plaintiffs reply ECF 44 (claim [1000]),0

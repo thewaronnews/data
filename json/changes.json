@@ -42478,5 +42478,29 @@
     "new_value": null,
     "reason": "update: Oct 2 defendants opposition and amicus leave (claims [998, 999])",
     "is_correction": 0
+  },
+  {
+    "id": 3541,
+    "changed_at": "2026-10-06T09:34:54Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 1000,
+    "old_value": null,
+    "new_value": "On October 5, 2026, the plaintiffs (CNN, MS NOW, Politico and three reporters) filed their reply in support of the preli",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3542,
+    "changed_at": "2026-10-06T09:34:56Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: Oct 5 plaintiffs reply ECF 44 (claim [1000])",
+    "is_correction": 0
   }
 ]
