@@ -20998,5 +20998,26 @@
     "supersede_reason": null,
     "batch_label": "maint-2026-10-06",
     "created_at": "2026-10-06T09:34:54Z"
+  },
+  {
+    "id": 1001,
+    "subject_type": "incident",
+    "subject_id": 1,
+    "field": "action",
+    "value": "On October 5, 2026, the White House did not allow Politico on Air Force One, the presidential aircraft, for the presiden",
+    "statement": "On October 5, 2026, the White House did not allow Politico on Air Force One, the presidential aircraft, for the president's trip that day, so Politico could not carry out its turn in the print press pool, according to CNN. A White House spokesperson told CNN that \"traveling with the President of the United States aboard Air Force One is a privilege not a right.\"",
+    "attribution": null,
+    "source_id": 626,
+    "evidence_quote": "The White House is refusing to allow Politico on Air Force One on Monday, which means the news organization cannot fulfill its press corps pool responsibilities.",
+    "evidence_date": "2026-10-05",
+    "method": "outlet_report",
+    "verified_at": "2026-10-07",
+    "confidence": "high",
+    "status": "current",
+    "supersedes_id": null,
+    "superseded_by": null,
+    "supersede_reason": null,
+    "batch_label": "maint-2026-10-07",
+    "created_at": "2026-10-07T09:35:31Z"
   }
 ]

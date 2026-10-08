@@ -1468,5 +1468,35 @@
     "country_guess": null,
     "incident_id": null,
     "fetched_at": "2026-10-07T03:05:17Z"
+  },
+  {
+    "id": 559,
+    "url": "https://www.msn.com/en-us/news/other/exclusive-georgia-fort-says-her-federal-arrest-has-led-her-to-censor-her-reporting/ar-AA2dLCic",
+    "title": "Exclusive: Journalist Georgia Fort says her arrest while filming anti-ICE protest in MN has led her to censor her reporting",
+    "publisher": "The Root",
+    "published_at": "2026-10-07T10:00:18Z",
+    "summary": "Nine months after federal agents arrested independent journalist Georgia Fort over her coverage of an anti-ICE protest inside a St. Paul, Minnesota, church, she says the case has changed the way she ...",
+    "jev_in_scope": 0.9996199607849121,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9994450211524963,
+    "country_guess": "GE",
+    "incident_id": null,
+    "fetched_at": "2026-10-07T22:05:15Z"
+  },
+  {
+    "id": 565,
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGl1aUdoMWtaU0ZONWt2MW1zdGF1VFAwYmtmV1k2RGNLX3dKbU5KWVlXWkFGRXB0SXJNY1BKVnZvVU4zamtVTXF4WFoteWptYjNyeDF0cXI3NS1lSnJBMHpGTHQ5cW5Wd005TUx5Wi1tZC1pNlBvd09SR0RTcGwtRjVlUkM4ZzIwOGp4dkJIc0hXekpWOVpuaGh5UlRMN3JNWVFDVmswdmVUdUZ3dGNnRHFB",
+    "title": "White House excludes Politico from Air Force One travel press pool",
+    "publisher": "U.S. Press Freedom Tracker",
+    "published_at": "2026-10-04T07:00:00Z",
+    "summary": null,
+    "jev_in_scope": 0.9996646642684937,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.9996993541717529,
+    "country_guess": "US",
+    "incident_id": null,
+    "fetched_at": "2026-10-08T06:05:16Z"
   }
 ]

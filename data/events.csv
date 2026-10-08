@@ -24,3 +24,4 @@ id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub
 30,1,,2026-10-02,day,filing,Defendants file opposition to the preliminary injunction motion,998,published,2026-10-03T09:34:13Z
 31,1,,2026-10-02,day,ruling,Judge grants Reporters Committee and 77 media organizations leave to file an amicus brief,999,published,2026-10-03T09:34:14Z
 32,1,,2026-10-05,day,filing,Plaintiffs file reply in support of the preliminary injunction motion,1000,published,2026-10-06T09:34:55Z
+33,1,,2026-10-05,day,action,White House does not allow Politico on Air Force One for its print pool turn,1001,published,2026-10-07T09:35:32Z

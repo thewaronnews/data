@@ -42502,5 +42502,29 @@
     "new_value": null,
     "reason": "update: Oct 5 plaintiffs reply ECF 44 (claim [1000])",
     "is_correction": 0
+  },
+  {
+    "id": 3543,
+    "changed_at": "2026-10-07T09:35:31Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 1001,
+    "old_value": null,
+    "new_value": "On October 5, 2026, the White House did not allow Politico on Air Force One, the presidential aircraft, for the presiden",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3544,
+    "changed_at": "2026-10-07T09:35:33Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: Oct 5 Politico excluded from Air Force One print pool (claim 1001)",
+    "is_correction": 0
   }
 ]
