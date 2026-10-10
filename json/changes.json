@@ -42526,5 +42526,29 @@
     "new_value": null,
     "reason": "update: Oct 5 Politico excluded from Air Force One print pool (claim 1001)",
     "is_correction": 0
+  },
+  {
+    "id": 3545,
+    "changed_at": "2026-10-09T09:39:48Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 1002,
+    "old_value": null,
+    "new_value": "On October 8, 2026, Judge Timothy Kelly of the United States District Court for the District of Columbia, the federal tr",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3546,
+    "changed_at": "2026-10-09T09:39:49Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: Oct 8 PI hearing, TRO extended to Oct 13 (claim 1002)",
+    "is_correction": 0
   }
 ]

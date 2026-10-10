@@ -1603,5 +1603,35 @@
     "country_guess": "US",
     "incident_id": null,
     "fetched_at": "2026-10-08T21:05:17Z"
+  },
+  {
+    "id": 600,
+    "url": "https://www.poynter.org/commentary/2026/judge-extends-pause-on-trumps-media-ban",
+    "title": "Judge extends pause on Trump’s media ban",
+    "publisher": "Poynter",
+    "published_at": "2026-10-09T11:30:40Z",
+    "summary": "The battle between President Donald Trump and the press continues. Two weeks ago, Trump banned CNN, MS NOW and Politico from White House grounds. The media outlets took Trump to […] The post Judge extends pause on Trump’s media ban...",
+    "jev_in_scope": 0.9971990585327148,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "access_ban",
+    "tactic_confidence": 0.9996042847633362,
+    "country_guess": "US",
+    "incident_id": null,
+    "fetched_at": "2026-10-09T12:05:16Z"
+  },
+  {
+    "id": 606,
+    "url": "https://cpj.org/2026/10/ukrainian-journalists-detained-in-austria-authorities-must-urgently-explain-why",
+    "title": "Ukrainian journalists detained in Austria; authorities must urgently explain why",
+    "publisher": "Committee to Protect Journalists",
+    "published_at": "2026-10-09T16:45:50Z",
+    "summary": "Berlin, October 9, 2026, Austrian authorities must urgently explain why Ukrainian investigative journalist Mykhailo Tkach and his colleague Yaroslav Bondarenko were violently detained in Vienna on Thursday and held for more than 12 hours on suspicion of espionage, the Committee...",
+    "jev_in_scope": 0.9997965693473816,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9986624717712402,
+    "country_guess": "UA",
+    "incident_id": null,
+    "fetched_at": "2026-10-09T17:05:19Z"
   }
 ]
