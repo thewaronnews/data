@@ -1,0 +1,6 @@
+incident_id,case_id,relation
+1,1,precedent_cited
+1,4,arising_from
+8,1,precedent_cited
+8,2,arising_from
+12,3,arising_from

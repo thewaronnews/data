@@ -1,0 +1,206 @@
+[
+  {
+    "term_id": 1,
+    "source_id": 3
+  },
+  {
+    "term_id": 1,
+    "source_id": 31
+  },
+  {
+    "term_id": 1,
+    "source_id": 86
+  },
+  {
+    "term_id": 2,
+    "source_id": 16
+  },
+  {
+    "term_id": 3,
+    "source_id": 8
+  },
+  {
+    "term_id": 3,
+    "source_id": 9
+  },
+  {
+    "term_id": 4,
+    "source_id": 8
+  },
+  {
+    "term_id": 4,
+    "source_id": 9
+  },
+  {
+    "term_id": 5,
+    "source_id": 3
+  },
+  {
+    "term_id": 5,
+    "source_id": 75
+  },
+  {
+    "term_id": 6,
+    "source_id": 71
+  },
+  {
+    "term_id": 6,
+    "source_id": 72
+  },
+  {
+    "term_id": 7,
+    "source_id": 43
+  },
+  {
+    "term_id": 7,
+    "source_id": 92
+  },
+  {
+    "term_id": 8,
+    "source_id": 95
+  },
+  {
+    "term_id": 9,
+    "source_id": 95
+  },
+  {
+    "term_id": 10,
+    "source_id": 27
+  },
+  {
+    "term_id": 10,
+    "source_id": 93
+  },
+  {
+    "term_id": 11,
+    "source_id": 94
+  },
+  {
+    "term_id": 12,
+    "source_id": 3
+  },
+  {
+    "term_id": 12,
+    "source_id": 31
+  },
+  {
+    "term_id": 13,
+    "source_id": 10
+  },
+  {
+    "term_id": 13,
+    "source_id": 16
+  },
+  {
+    "term_id": 14,
+    "source_id": 25
+  },
+  {
+    "term_id": 14,
+    "source_id": 91
+  },
+  {
+    "term_id": 15,
+    "source_id": 32
+  },
+  {
+    "term_id": 15,
+    "source_id": 80
+  },
+  {
+    "term_id": 15,
+    "source_id": 97
+  },
+  {
+    "term_id": 16,
+    "source_id": 28
+  },
+  {
+    "term_id": 16,
+    "source_id": 96
+  },
+  {
+    "term_id": 17,
+    "source_id": 90
+  },
+  {
+    "term_id": 18,
+    "source_id": 68
+  },
+  {
+    "term_id": 18,
+    "source_id": 84
+  },
+  {
+    "term_id": 18,
+    "source_id": 85
+  },
+  {
+    "term_id": 19,
+    "source_id": 62
+  },
+  {
+    "term_id": 19,
+    "source_id": 63
+  },
+  {
+    "term_id": 19,
+    "source_id": 64
+  },
+  {
+    "term_id": 20,
+    "source_id": 29
+  },
+  {
+    "term_id": 20,
+    "source_id": 30
+  },
+  {
+    "term_id": 21,
+    "source_id": 82
+  },
+  {
+    "term_id": 22,
+    "source_id": 43
+  },
+  {
+    "term_id": 22,
+    "source_id": 78
+  },
+  {
+    "term_id": 23,
+    "source_id": 27
+  },
+  {
+    "term_id": 23,
+    "source_id": 93
+  },
+  {
+    "term_id": 24,
+    "source_id": 27
+  },
+  {
+    "term_id": 24,
+    "source_id": 43
+  },
+  {
+    "term_id": 25,
+    "source_id": 89
+  },
+  {
+    "term_id": 26,
+    "source_id": 90
+  },
+  {
+    "term_id": 26,
+    "source_id": 98
+  },
+  {
+    "term_id": 26,
+    "source_id": 100
+  },
+  {
+    "term_id": 27,
+    "source_id": 17
+  }
+]
