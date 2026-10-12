@@ -21040,5 +21040,26 @@
     "supersede_reason": null,
     "batch_label": "maint-2026-10-09",
     "created_at": "2026-10-09T09:39:48Z"
+  },
+  {
+    "id": 1003,
+    "subject_type": "incident",
+    "subject_id": 1,
+    "field": "action",
+    "value": "On October 10, 2026, a spokesperson for the United States Department of Justice said its Antitrust Division, the unit th",
+    "statement": "On October 10, 2026, a spokesperson for the United States Department of Justice said its Antitrust Division, the unit that enforces competition law, was investigating whether the White House television press pool's decision in September 2026 to halt coverage of the president violated antitrust law, according to the Associated Press. The Associated Press reported that the court's temporary restraining order remained in place until October 13, 2026, and that television pool coverage of the White House had resumed.",
+    "attribution": null,
+    "source_id": 628,
+    "evidence_quote": "The U.S. Department of Justice is investigating whether the decision of the White House television press pool to halt coverage of President Donald Trump last month violated antitrust law, an agency spokesperson said Saturday.",
+    "evidence_date": "2026-10-10",
+    "method": "outlet_report",
+    "verified_at": "2026-10-11",
+    "confidence": "high",
+    "status": "current",
+    "supersedes_id": null,
+    "superseded_by": null,
+    "supersede_reason": null,
+    "batch_label": "maint-2026-10-11",
+    "created_at": "2026-10-11T09:49:48Z"
   }
 ]

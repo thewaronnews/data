@@ -322,5 +322,17 @@
     "claim_id": 1002,
     "pub_state": "published",
     "created_at": "2026-10-09T09:39:48Z"
+  },
+  {
+    "id": 35,
+    "incident_id": 1,
+    "case_id": null,
+    "occurred_on": "2026-10-10",
+    "occurred_on_precision": "day",
+    "kind": "statement",
+    "label": "Justice Department says it is investigating whether the White House television pool's halt of coverage violated antitrust law",
+    "claim_id": 1003,
+    "pub_state": "published",
+    "created_at": "2026-10-11T09:49:48Z"
   }
 ]

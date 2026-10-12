@@ -42550,5 +42550,29 @@
     "new_value": null,
     "reason": "update: Oct 8 PI hearing, TRO extended to Oct 13 (claim 1002)",
     "is_correction": 0
+  },
+  {
+    "id": 3547,
+    "changed_at": "2026-10-11T09:49:48Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 1003,
+    "old_value": null,
+    "new_value": "On October 10, 2026, a spokesperson for the United States Department of Justice said its Antitrust Division, the unit th",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3548,
+    "changed_at": "2026-10-11T09:49:50Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: Oct 10 DOJ antitrust probe of TV pool coverage halt (claim 1003)",
+    "is_correction": 0
   }
 ]

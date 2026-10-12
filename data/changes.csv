@@ -3545,3 +3545,5 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3544,2026-10-07T09:35:33Z,record_revised,incident,1,,,,update: Oct 5 Politico excluded from Air Force One print pool (claim 1001),0
 3545,2026-10-09T09:39:48Z,claim_new,incident,1,1002,,"On October 8, 2026, Judge Timothy Kelly of the United States District Court for the District of Columbia, the federal tr",,0
 3546,2026-10-09T09:39:49Z,record_revised,incident,1,,,,"update: Oct 8 PI hearing, TRO extended to Oct 13 (claim 1002)",0
+3547,2026-10-11T09:49:48Z,claim_new,incident,1,1003,,"On October 10, 2026, a spokesperson for the United States Department of Justice said its Antitrust Division, the unit th",,0
+3548,2026-10-11T09:49:50Z,record_revised,incident,1,,,,update: Oct 10 DOJ antitrust probe of TV pool coverage halt (claim 1003),0
