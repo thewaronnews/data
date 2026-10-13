@@ -1693,5 +1693,50 @@
     "country_guess": null,
     "incident_id": null,
     "fetched_at": "2026-10-11T03:05:16Z"
+  },
+  {
+    "id": 635,
+    "url": "https://cpj.org/2026/10/turkey-4-more-journalists-arrested-for-spreading-disinformation-as-media-crackdown-intensifies",
+    "title": "Turkey: 4 more journalists arrested for ‘spreading disinformation’ as media crackdown intensifies",
+    "publisher": "Committee to Protect Journalists",
+    "published_at": "2026-10-12T16:49:43Z",
+    "summary": "Istanbul, October 12, 2026, Turkey’s ongoing crackdown on independent media is continuing at an alarming pace with four more journalists arrested and placed under house arrest over the weekend on suspicion of publicly spreading disinformation, the Committee to Protect Journalists...",
+    "jev_in_scope": 0.9997965693473816,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9991769194602966,
+    "country_guess": "TR",
+    "incident_id": null,
+    "fetched_at": "2026-10-12T17:05:19Z"
+  },
+  {
+    "id": 637,
+    "url": "https://cpj.org/2026/10/at-least-37-journalists-detained-several-assaulted-while-covering-protests-against-indias-election-chief",
+    "title": "At least 37 journalists detained, several assaulted, while covering protests against India’s election chief",
+    "publisher": "Committee to Protect Journalists",
+    "published_at": "2026-10-12T19:49:55Z",
+    "summary": "New Delhi, October 12, 2026, More than three dozen journalists were temporarily detained, and in some cases assaulted, while they were covering protests against the country’s chief election commissioner over allegations of voter-list manipulation in New Delhi, Ahmedabad, and Pune...",
+    "jev_in_scope": 0.9149009585380554,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9995419979095459,
+    "country_guess": "IN",
+    "incident_id": null,
+    "fetched_at": "2026-10-12T20:05:16Z"
+  },
+  {
+    "id": 641,
+    "url": "https://www.msn.com/en-us/news/world/egypt-s-press-union-chief-rejects-pressure-over-detained-journalists/ar-AA2e5cXL",
+    "title": "Egypt’s press union chief rejects pressure over detained journalists",
+    "publisher": "Al Jazeera",
+    "published_at": "2026-10-12T11:21:44Z",
+    "summary": "Six journalists from independent platform Matsadaash allege torture in detention, which Egypt denies.",
+    "jev_in_scope": 0.8175745010375977,
+    "jev_model": "featherless-ai/Qwen3.6-35B-A3B-classifier",
+    "tactic_guess": "detention_and_violence",
+    "tactic_confidence": 0.9987523555755615,
+    "country_guess": "EG",
+    "incident_id": null,
+    "fetched_at": "2026-10-13T05:05:17Z"
   }
 ]
