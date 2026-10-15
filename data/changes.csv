@@ -3547,3 +3547,6 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3546,2026-10-09T09:39:49Z,record_revised,incident,1,,,,"update: Oct 8 PI hearing, TRO extended to Oct 13 (claim 1002)",0
 3547,2026-10-11T09:49:48Z,claim_new,incident,1,1003,,"On October 10, 2026, a spokesperson for the United States Department of Justice said its Antitrust Division, the unit th",,0
 3548,2026-10-11T09:49:50Z,record_revised,incident,1,,,,update: Oct 10 DOJ antitrust probe of TV pool coverage halt (claim 1003),0
+3549,2026-10-14T09:40:17Z,claim_new,incident,1,1004,,"Preliminary injunction granted, 2026-10-13",,0
+3550,2026-10-14T09:40:18Z,claim_superseded,incident,1,1005,Temporary restraining order in effect from 2026-09-24 for 14 days,Preliminary injunction in effect from 2026-10-13 until the lawsuit is resolved,"PI granted 2026-10-13 (ECF 49, 50)",0
+3551,2026-10-14T09:40:27Z,record_revised,incident,1,,,,update: preliminary injunction granted 2026-10-13 (claim 1004; status claim 735 superseded by 1005),0
