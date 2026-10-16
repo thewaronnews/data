@@ -42610,5 +42610,41 @@
     "new_value": null,
     "reason": "update: preliminary injunction granted 2026-10-13 (claim 1004; status claim 735 superseded by 1005)",
     "is_correction": 0
+  },
+  {
+    "id": 3552,
+    "changed_at": "2026-10-15T09:34:12Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 1006,
+    "old_value": null,
+    "new_value": "Notice of interlocutory appeal filed, 2026-10-14",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3553,
+    "changed_at": "2026-10-15T09:34:13Z",
+    "kind": "claim_superseded",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 1007,
+    "old_value": "Preliminary injunction in effect from 2026-10-13 until the lawsuit is resolved",
+    "new_value": "Preliminary injunction in effect; appeal to the D.C. Circuit filed 2026-10-14 (No. 26-5356)",
+    "reason": "Notice of appeal ECF 51, 2026-10-14",
+    "is_correction": 0
+  },
+  {
+    "id": 3554,
+    "changed_at": "2026-10-15T09:34:15Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: notice of appeal filed 2026-10-14 (claim 1006; status claim 1005 superseded by 1007)",
+    "is_correction": 0
   }
 ]

@@ -28,3 +28,4 @@ id,incident_id,case_id,occurred_on,occurred_on_precision,kind,label,claim_id,pub
 34,1,,2026-10-08,day,hearing,Court hears preliminary injunction motion and extends temporary restraining order to 2026-10-13,1002,published,2026-10-09T09:39:48Z
 35,1,,2026-10-10,day,statement,Justice Department says it is investigating whether the White House television pool's halt of coverage violated antitrust law,1003,published,2026-10-11T09:49:48Z
 36,1,,2026-10-13,day,ruling,"Judge Timothy Kelly grants a preliminary injunction barring the administration from banning CNN, MS NOW and Politico from the White House complex while the lawsuit proceeds",1004,published,2026-10-14T09:40:18Z
+37,1,,2026-10-14,day,filing,Defendants file a notice of interlocutory appeal to the D.C. Circuit from the preliminary injunction order and opinion,1006,published,2026-10-15T09:34:13Z
