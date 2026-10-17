@@ -11,7 +11,7 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 - `json/<table>.json`: the same rows as JSON.
 - `snapshots/YYYY-MM-DD/`: weekly snapshots (Sundays and on schema change).
 
-## Tables (export of 2026-10-16)
+## Tables (export of 2026-10-17)
 
 | Table | Rows |
 | --- | --- |
@@ -26,7 +26,7 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 | tactics | 13 |
 | countries | 250 |
 | incident_tactics | 333 |
-| coverage_items | 161 |
+| coverage_items | 165 |
 | explainers | 9 |
 | glossary_terms | 67 |
 | incident_actors | 386 |
