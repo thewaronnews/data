@@ -11,7 +11,7 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 - `json/<table>.json`: the same rows as JSON.
 - `snapshots/YYYY-MM-DD/`: weekly snapshots (Sundays and on schema change).
 
-## Tables (export of 2026-10-18)
+## Tables (export of 2026-10-19)
 
 | Table | Rows |
 | --- | --- |
