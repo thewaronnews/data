@@ -11,22 +11,22 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 - `json/<table>.json`: the same rows as JSON.
 - `snapshots/YYYY-MM-DD/`: weekly snapshots (Sundays and on schema change).
 
-## Tables (export of 2026-10-21)
+## Tables (export of 2026-10-22)
 
 | Table | Rows |
 | --- | --- |
 | incidents | 226 |
-| events | 30 |
+| events | 31 |
 | actors | 311 |
 | outlets | 137 |
 | journalists | 99 |
 | cases | 4 |
-| sources | 629 |
-| claims | 1007 |
+| sources | 630 |
+| claims | 1008 |
 | tactics | 13 |
 | countries | 250 |
 | incident_tactics | 333 |
-| coverage_items | 180 |
+| coverage_items | 188 |
 | explainers | 9 |
 | glossary_terms | 67 |
 | incident_actors | 386 |
@@ -39,7 +39,7 @@ Every fact on the site is a claim: one dated statement with a verbatim quotation
 | case_sources | 21 |
 | explainer_sources | 111 |
 | glossary_sources | 51 |
-| changes | 3554 |
+| changes | 3557 |
 
 ## Licence and attribution
 

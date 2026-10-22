@@ -42646,5 +42646,41 @@
     "new_value": null,
     "reason": "update: notice of appeal filed 2026-10-14 (claim 1006; status claim 1005 superseded by 1007)",
     "is_correction": 0
+  },
+  {
+    "id": 3555,
+    "changed_at": "2026-10-21T09:37:30Z",
+    "kind": "claim_new",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": 1008,
+    "old_value": null,
+    "new_value": "CNN counsel sends demand letter to Justice Department over Air Force One exclusion, 2026-10-19",
+    "reason": null,
+    "is_correction": 0
+  },
+  {
+    "id": 3556,
+    "changed_at": "2026-10-21T09:37:32Z",
+    "kind": "record_revised",
+    "record_type": "incident",
+    "record_id": 1,
+    "claim_id": null,
+    "old_value": null,
+    "new_value": null,
+    "reason": "update: CNN demand letter 2026-10-19 (claim 1008)",
+    "is_correction": 0
+  },
+  {
+    "id": 3557,
+    "changed_at": "2026-10-21T09:41:39Z",
+    "kind": "source_offline",
+    "record_type": null,
+    "record_id": null,
+    "claim_id": null,
+    "old_value": "live",
+    "new_value": "dead",
+    "reason": "source 159",
+    "is_correction": 0
   }
 ]

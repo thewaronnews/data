@@ -21145,5 +21145,26 @@
     "supersede_reason": null,
     "batch_label": "maint-2026-10-15",
     "created_at": "2026-10-15T09:34:13Z"
+  },
+  {
+    "id": 1008,
+    "subject_type": "incident",
+    "subject_id": 1,
+    "field": "action",
+    "value": "CNN counsel sends demand letter to Justice Department over Air Force One exclusion, 2026-10-19",
+    "statement": "On October 19, 2026, Theodore J. Boutrous Jr., outside counsel for CNN, sent a demand letter to the United States Department of Justice, the federal agency defending the case, according to CNN on October 20, 2026. The letter states that CNN has been left off the White House's list when it was next in the television pool rotation, including for the president's trip to Georgia and Florida the previous weekend, and that the White House gave \"no written notice and offered no explanation.\" It asks the White House to confirm in writing by 5:00 p.m. Eastern on Thursday, October 22, 2026 that it has abandoned any policy of excluding CNN from the Oval Office and Air Force One, the presidential aircraft, and states that otherwise CNN \"will be forced to pursue additional judicial relief.\" The Justice Department did not respond to CNN's request for comment on Tuesday morning, according to CNN.",
+    "attribution": null,
+    "source_id": 630,
+    "evidence_quote": "“These efforts to retaliate and discriminate against CNN based on the content of its news coverage are mistaken, counterproductive, and unlawful,” Ted Boutrous, outside counsel for CNN, wrote in a letter to the Justice Department on Monday.",
+    "evidence_date": "2026-10-20",
+    "method": "outlet_report",
+    "verified_at": "2026-10-21",
+    "confidence": "high",
+    "status": "current",
+    "supersedes_id": null,
+    "superseded_by": null,
+    "supersede_reason": null,
+    "batch_label": "maint-2026-10-21",
+    "created_at": "2026-10-21T09:37:30Z"
   }
 ]

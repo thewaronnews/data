@@ -3553,3 +3553,6 @@ id,changed_at,kind,record_type,record_id,claim_id,old_value,new_value,reason,is_
 3552,2026-10-15T09:34:12Z,claim_new,incident,1,1006,,"Notice of interlocutory appeal filed, 2026-10-14",,0
 3553,2026-10-15T09:34:13Z,claim_superseded,incident,1,1007,Preliminary injunction in effect from 2026-10-13 until the lawsuit is resolved,Preliminary injunction in effect; appeal to the D.C. Circuit filed 2026-10-14 (No. 26-5356),"Notice of appeal ECF 51, 2026-10-14",0
 3554,2026-10-15T09:34:15Z,record_revised,incident,1,,,,update: notice of appeal filed 2026-10-14 (claim 1006; status claim 1005 superseded by 1007),0
+3555,2026-10-21T09:37:30Z,claim_new,incident,1,1008,,"CNN counsel sends demand letter to Justice Department over Air Force One exclusion, 2026-10-19",,0
+3556,2026-10-21T09:37:32Z,record_revised,incident,1,,,,update: CNN demand letter 2026-10-19 (claim 1008),0
+3557,2026-10-21T09:41:39Z,source_offline,,,,live,dead,source 159,0
